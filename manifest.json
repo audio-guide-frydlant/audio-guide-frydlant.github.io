@@ -1,0 +1,50 @@
+{
+    "short_name": "Audio guide Frýdlant",
+    "name": "Audio guide for Frýdlant castle",
+    "icons": [
+      {
+        "src": "icons/icon-48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "icons/icon-64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      },
+      {
+        "src": "icons/icon-128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "icons/icon-144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "icons/icon-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "icons/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "icons/maskable-icon-192.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "id":".",
+    "start_url": ".",
+    "scope": "https://veronikapavlikova01.github.io/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "description":"Audio guide application for the state castle and chateau Frýdlant"
+  }
