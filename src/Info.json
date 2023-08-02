@@ -1,7 +1,8 @@
 {
     "languages": [
         "en",
-        "de"
+        "de",
+        "es"
     ],
     "rotate": [
         {
@@ -11,6 +12,10 @@
         {
             "language": "de",
             "rotate": "Bitte drehen Sie Ihr Gerät!"
+        },
+        {
+            "language": "es",
+            "rotate": "¡Por favor gire su dispositivo!"
         }
     ],
     "help":[
@@ -33,6 +38,16 @@
             "help_room_content":"Mit den Schaltflächen am unteren Bildschirmrand können Sie zum nächsten oder vorherigen Raum wechseln. Auch Gesten stehen Ihnen zur Verfügung. Wische nach links, um zum nächsten Raum zu wechseln, wische nach links zum vorherigen Raum. Sie können auch zwischen Räumen wechseln, wenn Sie Audio hören und Ihr Bildschirm gesperrt ist. Auf der angezeigten Benachrichtigung stehen Pfeile zum Wechseln zur Verfügung.",
             "help_more_functions":"Hat der Audioguide zusätzliche Funktionen?",
             "help_more_functions_content":"Ja, der Audioguide bietet viele zusätzliche Funktionen. deren Übersicht finden Sie nach Klick auf die Navigation unter dem Punkt 'Menü'."
+        },
+        {
+            "language":"es",
+            "help": "¿Cómo usar la aplicación?",
+            "help_tour":"¿Cómo iniciar un recorrido?",
+            "help_tour_content":"Después de abrir la aplicación, haga clic en el botón 'Seleccionar recorrido' en la página de inicio. Posteriormente, verá una lista de todos los circuitos turísticos disponibles. Elija el que compró un boleto para. Al hacer clic en el recorrido, verá una descripción general de las salas por las que pasará durante el recorrido. Elige la primera, es decir, la marcada con el número 1. Tras seleccionarla, aparecerá una pantalla con información más detallada de la sala, incluido el audio.",
+            "help_room":"¿Cómo cambio de habitación?",
+            "help_room_content":"Puede cambiar a la habitación siguiente o anterior usando los botones en la parte inferior de la pantalla. Los gestos también están disponibles para usted. Desliza el dedo hacia la izquierda para cambiar a la habitación siguiente, desliza el dedo hacia la izquierda para ir a la habitación anterior. También puede cambiar de habitación si está escuchando audio y su pantalla está bloqueada. Las flechas están disponibles en la notificación mostrada para cambiar.",
+            "help_more_functions":"¿La audioguía tiene características adicionales?",
+            "help_more_functions_content":"Sí, la audioguía ofrece muchas características adicionales. puede encontrar su descripción general después de hacer clic en la navegación debajo del elemento 'Menú'."
         }
     ],
     "info": [
@@ -51,6 +66,14 @@
             "history_info": "In diesem Abschnitt können Sie sich über die Geschichte der Burg und des Schlosses informieren. Hier können Sie eine kurze Geschichte lesen oder die einzelnen Familien kennenlernen, die das Gut hier im Laufe der Jahre besessen haben.",
             "where_to_info": "Wenn Sie einen weiteren Ausflug machen möchten, empflehlen wir Ihnen, die folgenden Orte in der näheren Umgebung zu besuchen.",
             "rooms_overview": "Hier sehen Sie eine Übersicht der Zimmer, die sich in der von Ihnen gewählten Führung befinden."
+        },
+        {
+            "language": "es",
+            "info": "Información",
+            "tours_info": "Primero, elige el tour para el que has comprado un billete. Luego espere en el lugar donde comienza el recorrido. Su guía lo recogerá allí.",
+            "history_info": "En esta sección, puede aprender sobre la historia del castillo y el castillo. Puede leer una breve historia o conocer a las familias individuales que han sido propietarias de la mansión aquí a lo largo de los años.",
+            "where_to_info": "Si desea realizar otro viaje, le recomendamos visitar los siguientes lugares de la zona cercana.",
+            "rooms_overview": "Aquí puede ver una descripción general de las habitaciones ubicadas en la ruta turística que ha elegido."
         }
     ],
     "dialogs": [
@@ -85,6 +108,22 @@
             "no_face_detected": "Wir entschuldigen uns, aber auf dem von Ihnen aufgenommenen Foto war niemand zu erkennen.",
             "try_again_label": "Bitte versuchen Sie es nochmal. Vergrößern Sie das Gesicht und machen Sie ein Foto.",
             "wait_label": "Warten Sie bitte."
+        },
+        {
+            "language": "es",
+            "install_download_label": "¿Cómo descargar?",
+            "install_step_1": "1. Abra la configuración de su navegador.",
+            "install_step_2": "2. Busque y toque Agregar a la pantalla de inicio.",
+            "install_step_1_safari": "2. Busque y toque Compartir.",
+            "install_step_3": "3. Confirme tocando Agregar.",
+            "warning": "Advertencia",
+            "install_use_safari": "Debe utilizar el navegador Safari para instalar la aplicación.",
+            "error_label": "Algo salió mal...",
+            "invalid_scan_label": "Lo sentimos, pero no se pudo reconocer el código QR proporcionado.",
+            "close_label": "Cerca",
+            "no_face_detected": "Lo sentimos, pero no fue posible reconocer a nadie de la foto que tomó.",
+            "try_again_label": "Inténtalo de nuevo. Haga zoom en la cara y tome una foto.",
+            "wait_label": "Espere por favor"
         }
     ],
     "install": [
@@ -97,6 +136,11 @@
             "language": "de",
             "install": "Installieren",
             "install_label": "Installieren Sie die App für den Offline-Zugriff."
+        },
+        {
+            "language": "es",
+            "install": "Instalar",
+            "install_label": "Instale la aplicación para acceder sin conexión."
         }
     ],
     "face_recognition": [
@@ -123,6 +167,18 @@
             "step_4": "Moment mal. Wenn das Bild erkannt wird, werden Sie auf eine neue Seite mit der abgebildeten Person weitergeleitet.",
             "button": "Bild aufnehmen",
             "button_back": "Zurück"
+        },
+        {
+            "language": "es",
+            "face_recognition": "Reconocimiento de imagen",
+            "title": "¿No sabes quién está en la foto?",
+            "label": "Si te encuentras con una imagen en el recorrido y no estás seguro de quién está en ella, puedes preguntarle al guía o usar esta función, que reconoce quién está en la imagen de la foto. Sólo tiene que seguir las siguientes instrucciones.",
+            "step_1": "Presiona el botón 'Tomar una foto'.",
+            "step_2": "Acérquese para que la cara en la imagen que desea reconocer sea claramente visible.",
+            "step_3": "Ahora toma una foto y luego presiona OK.",
+            "step_4": "Espera un momento. Cuando se reconozca la imagen, será redirigido a una nueva página con la persona representada.",
+            "button": "Toma una foto",
+            "button_back": "Atrás"
         }
     ],
     "qr_scanner": [
@@ -147,6 +203,17 @@
             "step_3": "Moment mal. Wenn der QR-Code erkannt wird, werden Sie an die richtige Stelle weitergeleitet.",
             "button": "QR Code scannen",
             "button_back": "Zurück"
+        },
+        {
+            "language": "es",
+            "qr_scanner": "Escáner de código QR",
+            "title": "¿No sabes dónde estás ahora mismo?",
+            "label": "Si no está seguro de dónde se encuentra exactamente, puede preguntarle a su guía o usar esta función para ayudarlo a averiguarlo. Encuentre el stand con código QR y siga las instrucciones a continuación.",
+            "step_1": "Presione el botón 'Escanear código QR'.",
+            "step_2": "Acérquese al código QR para que sea claramente visible en la cámara.",
+            "step_3": "Espera un momento. Cuando se detecte el código QR, será redirigido a la ubicación correcta.",
+            "button": "Escanear código QR",
+            "button_back": "Atrás"
         }
     ],
     "header": [
@@ -183,6 +250,23 @@
             "contact": "Kontakt",
             "scan": "QR Code Scanner",
             "help": "Hilfe"
+        },
+        {
+            "language": "es",
+            "rooms": "Habitaciones",
+            "menu": "Menú",
+            "history": "Historia",
+            "houses": "Casas",
+            "owners": "Propietarios",
+            "tours": "Excursiones",
+            "map": "Mapa",
+            "where_to_next": "¿Dónde seguir?",
+            "gallery": "Galería",
+            "about_app": "Acerca de la aplicación",
+            "settings": "Ajustes",
+            "contact": "Contacto",
+            "scan": "Escáner de código QR",
+            "help": "Ayuda"
         }
     ],
     "settings": [
@@ -201,6 +285,14 @@
             "default": "Original",
             "medium": "Mittlere",
             "large": "Groß"
+        },
+        {
+            "language": "es",
+            "letter": "Tamaño de fuente",
+            "language_label": "Idioma",
+            "default": "Por defecto",
+            "medium": "Medio",
+            "large": "Grande"
         }
     ],
     "other": [
@@ -227,6 +319,18 @@
             "settings": "Einstellung",
             "help": "Hilfe",
             "about_app": "Über App"
+        },
+        {
+            "language": "es",
+            "history": "Historia",
+            "gallery": "Galería",
+            "image_recognition": "Reconocimiento de imagen",
+            "scan_room": "Escanea la habitación",
+            "where_to_next": "¿Dónde seguir?",
+            "contact": "Contacto",
+            "settings": "Ajustes",
+            "help": "Ayuda",
+            "about_app": "Acerca de la aplicación"
         }
     ],
     "navbar": [
@@ -245,6 +349,14 @@
             "rooms": "Zimmer in der Führung",
             "menu": "Menü",
             "back": "Zurück zum vorherigen"
+        },
+        {
+            "language": "es",
+            "home": "Hogar",
+            "tours": "Excursiones",
+            "rooms": "Habitaciones en recorrido",
+            "menu": "Menú",
+            "back": "Volver al anterior"
         }
     ],
     "home": [
@@ -261,6 +373,13 @@
             "label_2": "auf der Burg und",
             "label_3": "dem Schloss Friedland",
             "button_label": "Führung auswählen"
+        },
+        {
+            "language": "es",
+            "label_1": "Bienvenido",
+            "label_2": "al castillo estatal",
+            "label_3": "y palacio Frýdlant",
+            "button_label": "Elige recorrido"
         }
     ],
     "where_to_next": [
@@ -317,6 +436,33 @@
                     "src":""
                 }
             ]
+        },
+        {
+            "language": "es",
+            "button": "Visita",
+            "places": [
+                {
+                    "title": "Castillo de Grabštejn",
+                    "description": "Grabštejn fue originalmente un castillo gótico, construido a mediados del siglo XIII, que se encuentra cerca del Área de la Triple Frontera donde se encuentran la República Checa, Alemania y Polonia. Fue remodelado en el siglo XVI como castillo renacentista, y en la actualidad ofrece al visitante varias visitas guiadas.",
+                    "url": "https://hrad-grabstejn.cz/en",
+                    "img": "/where_to_next/grabstejn.jpg",
+                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                },
+                {
+                    "title": "Castillo de lemberk",
+                    "description": "El predecesor del castillo barroco actual fue el castillo medieval de Lemberk, fundado en la década de 1340 por Havel de Markvartic, esposo de Santa Zdislava. En la segunda mitad del siglo XVI fue reconstruido en un castillo renacentista y adquirió su aspecto actual después de mediados del siglo XVII bajo los señores de Breda. Los últimos propietarios fueron la familia Clam-Gallas, hasta 1945.",
+                    "url": "https://www.zamek-lemberk.cz/en",
+                    "img": "/where_to_next/lemberk.jpg",
+                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                },
+                {
+                    "title": "Cervecería Albrecht",
+                    "description": "La producción de cerveza señorial en Frýdlant se documenta por primera vez en 1381, aparentemente la cerveza se elaboraba en el castillo. En el siglo XVI, la familia Redern construyó una nueva cervecería independiente cerca del río Smědá, en el sitio donde todavía se encuentra la operación actual. El edificio de pisos con entramado de madera de la cervecería Renaissance está representado en el llamado mapa Glaubic.",
+                    "url": "https://pivovar-albrecht.com/",
+                    "img": "/people/katerina_redern.jpg",
+                    "src":""
+                }
+            ]
         }
     ],
     "about_app": [
@@ -347,6 +493,20 @@
             "photos2": "Jiří Holub",
             "logo_label": "Logo von",
             "logo": "Lucie Pavlíková"
+        },
+        {
+            "language": "es",
+            "for_label": "Aplicación oficial para",
+            "for": "Castillo y palacio Frýdlant",
+            "author_label": "Autora",
+            "author": "Veronika Pavlíková",
+            "collaboration_label": "En colaboración con",
+            "collaboration": "Universidad Palacký Olomouc",
+            "photos_label": "Fotos por",
+            "photos1": "Lukáš Hübner",
+            "photos2": "Jiří Holub",
+            "logo_label": "Logotipo por",
+            "logo": "Lucie Pavlíková"
         }
     ],
     "rooms_overview": [
@@ -363,6 +523,13 @@
             "seen": "Bereits besuchte Räume",
             "not_seen": "Noch nicht besuchte Räume",
             "nothing_more": "Nichts mehr zu sehen"
+        },
+        {
+            "language": "es",
+            "tour_not_selected": "Primero, elija la ruta turística que desea tomar.",
+            "seen": "Salas ya visitadas",
+            "not_seen": "Habitaciones aún no visitadas",
+            "nothing_more": "Nada más que ver"
         }
     ],
     "contact": [
@@ -381,6 +548,14 @@
             "web": "Web",
             "reservation": "Ticketbuchung",
             "phone": "Telefonnummer"
+        },
+        {
+            "language": "es",
+            "title": "Contacto",
+            "address": "Dirección",
+            "web": "Web",
+            "reservation": "Reserva de entradas",
+            "phone": "Número de teléfono"
         }
     ],
     "face_recognition_people": [
@@ -518,6 +693,75 @@
                 },
                 {
                     "name": "Clotilde von Clam-Gallas",
+                    "img": "/people/clotilda_clamgallas_mladsi.jpg"
+                }
+            ]
+        },
+        {
+            "language": "es",
+            "people": [
+                {
+                    "name": "Fridrich de Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Melchior de Redern",
+                    "img": "/people/melchior_redern.jpg"
+                },
+                {
+                    "name": "Catherine de Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Christopher de Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Albrecht de Wallenstein",
+                    "img": "/people/albrecht_valdstejn.jpg"
+                },
+                {
+                    "name": "Matthias de Gallas",
+                    "img": "/people/matyas_gallas.jpg"
+                },
+                {
+                    "name": "Antonius de Gallas",
+                    "img": "/people/antonin_pankrac_gallas.jpg"
+                },
+                {
+                    "name": "Francis Ferdinand de Gallas",
+                    "img": "/people/frantisek_ferdinand_gallas.jpg"
+                },
+                {
+                    "name": "John Wenceslas de Gallas",
+                    "img": "/people/jan_vaclav_gallas.jpg"
+                },
+                {
+                    "name": "Philip Joseph de Gallas",
+                    "img": "/people/filip_josef_gallas.jpg"
+                },
+                {
+                    "name": "Christian Philip de Clam-Gallas",
+                    "img": "/people/kristian_filip_clamgallas.jpg"
+                },
+                {
+                    "name": "Christian Christopher de Clam-Gallas",
+                    "img": "/people/kristian_krystof_clamgallas.jpg"
+                },
+                {
+                    "name": "William de Clam-Gallas",
+                    "img": "/people/vilem_clamgallas.jpg"
+                },
+                {
+                    "name": "Edward de Clam-Gallas",
+                    "img": "/people/eduard_clamgallas.jpg"
+                },
+                {
+                    "name": "Francis de Clam-Gallas",
+                    "img": "/people/frantisek_clamgallas.jpg"
+                },
+                {
+                    "name": "Clotilde de Clam-Gallas",
                     "img": "/people/clotilda_clamgallas_mladsi.jpg"
                 }
             ]
@@ -983,6 +1227,236 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "es",
+            "path": "/history_overview",
+            "title": "Descripción general de la historia",
+            "button": "Aprende más",
+            "img": "/history/history.jpg",
+            "card_label": "Conozca la historia del castillo y palacio de Frýdlant.",
+            "description": "Frýdlant is one of largest and most important heritage sites in Northern Bohemia. It consists of two architectural complexes: a medieval castle and a renaissance chateau. The castle was built around the mid-13th century. In 1278, the domain became property of the Biberstein house who took major part in building the large castle palace. Between 1558 and 1620, Frýdlant was owned by the Redern house that continued to upgrade the domain. The Rederns were good managers and warriors, but also builders and art supporters. They built the new renaissance chateau and the chapel. \n\nBetween 1622 and 1634, the castle belonged to Albrecht of Wallenstein. He bought it for 150,000 guldens and gradually built a large domain. His estates flourished greatly during the Thirty Years War as they supplied his army. The Frýdlant region was called Terra felix – the happy country. \n\nAfter Albrecht’s murder in 1634, the emperor gave Frýdlant to the Gallas house, and since 1759 the domain was owned by the Clam-Gallases, an important aristocratic house active in diplomatic and military circles at the imperial court. They remained until 1945 when Frýdlant became property of the state. \n\nThe original gothic castle hasn’t been preserved in its entirety. Nowadays, the castle is a large two-floor building around the small, irregularly shaped courtyard, with the predominant cylindrical tower – a bergfrit. The castle was growing over time, and underwent two renaissance reconstructions in the 16th century. The chapel and the renaissance chateau were built at the turn of the 16th and 17th century by Marco Spazzio di Lancio. The last big reconstruction took place in the 1860s, when the castle warden wing was rebuilt. \n\nIn 1801, the Clam-Gallases enabled public access to a part of the castle with exhibitions, making it the first castle museum in the Central Europe. The current exhibition includes this museum, the chapel with valuable items, and two chateau wings.",
+            "label": "History of castle Frýdlant"
+        },
+        {
+            "language": "es",
+            "path": "/houses",
+            "title": "Casas",
+            "img": "/history/houses.jpg",
+            "card_label": "Conozca a los propietarios individuales de la mansión Frýdlant.",
+            "button": "Aprende más",
+            "houses": [
+                {
+                    "title": "Ronowitzer",
+                    "description": "Founders of Frýdlant Castle.",
+                    "img": "/coat_of_arms/ronovci.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Ronowitzer",
+                            "years": "?-1278",
+                            "label": "The oldest history of the Frýdlant castle is connected with the Ronowitzer family, who had it built in the 13th century.",
+                            "button": "More",
+                            "text": "The oldest history of the Frýdlant castle is connected with the Ronowitzer family, who had it built in the 13th century. We don't know much about their activities in the northern part of Bohemia. The first known member of this family was Smil, who was a member of the retinue of King Přemysl Otakar I. His sons Henry and Častolov still use the epithet 'of Zittau' in 1238, but in 1257 we already find a mention of 'Častolov of Frýdlant'. The expansion of this family was limited in 1278 by King Přemysl Otakar II., when he took the estate from the Ronowitzer family and sold it to the Biberstein family.",
+                            "img": "/coat_of_arms/ronovci.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Biberstein",
+                    "description": "The longest ruling house, which was responsible for the expansion of the castle.",
+                    "img": "/coat_of_arms/biberstejnove.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Biberstein",
+                            "years": "1278-1551",
+                            "label": "Representatives of the Biberstein family became the owners of the Frýdlant castle for the next almost 300 years, and their reign is mainly connected with the construction expansion of the castle and the further growth of Frýdlant manor.",
+                            "button": "More",
+                            "text": "Representatives of the Biberstein family became the owners of the Frýdlant castle for the next almost 300 years, and their reign is mainly connected with the construction expansion of the castle and the further growth of Frýdlant manor. Due to this family's efforts for further territorial gains, there have been several conflicts with neighboring ones nobles (e.g. the burning of Nymburk in 1326) and even clash with the royal army of Wenceslaus IV. \n\nDuring the Hussite Wars, Frýdlant became the center of the anti-Hussite opposition, and the Frýdlant manor was attacked several times between 1420 and 1433. The town of Frýdlant and other villages in the vicinity were several times burned out. The Biberstein family then remained in opposition even against King Charles of Poděbrady and were involved in other military conflicts. During the rule of the last Biberstein, the Frýdlant manor became completely Protestant, which was followed by family of Redern. The last male descendant, Christoph, died in 1551 without an heir and thus the manor fell to the Czech royal chamber.",
+                            "img": "/coat_of_arms/biberstejnove.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Redern",
+                    "description": "The Silesian house, which contributed to the growth of Protestantism and the construction of the chateau.",
+                    "img": "/coat_of_arms/redernove.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Friedrich of Redern",
+                            "years": "?-1564",
+                            "label": "Friedrich of Redern was a member of the Silesian knightly family.",
+                            "button": "More",
+                            "text": "Friedrich of Redern was a member of the Silesian knightly family. During his lifetime, he held the position of president of the Silesian Land Chamber and was a member of the royal commission to record the state of the Frýdlant manor after death of the last owner. In 1558 it was Friedrich, who bought the North Bohemian estates of Liberec, Frýdlant and Zawidow. After buying them, he reached elevation to nobility. He and his wife Salomena of Schönaich had a total of 10 children. He died in 1564 while staying in Wroclaw, Poland.",
+                            "img": "/coat_of_arms/redernove.png"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Melchior of Redern",
+                            "years": "1555-1600",
+                            "label": "He was the ninth of a total of ten children of Friedrich of Redern.",
+                            "button": "More",
+                            "text": "He was the ninth of a total of ten children of Friedrich of Redern. He studied law at a protestant university in Heidelberg and then together with his brother Christopher went on a cavalier trip to France, where in 1572 he witnessed the murder of the Huguenots during the so-called Bartholomew's Night. In addition to France, he also visited the Italian cities of Rome, Padua or Naples. Melchior eventually joined the service in the army. In the 1570s and 1580s, he took part in the siege of Gdańsk, the anti-Hungarian campaign, the war in the Netherlands or the Siege of Pskov. \n\nAfter death of his brother Christopher in 1591 he became the owner of the Frýdlant manor. He married Catherine of Šlik, the sister of one of the most influential Protestant noblemen, Jáchym Ondřej of Šlik, who was the owner of the neighboring estate. During his lifetime, construction modifications were made in the castle area. He added one castle wing, the of the castle, the Renaissance wing of thechateau was created, and eventually also the chateau chapel. In the 1590s, Melchior returned to the Hungarian battlefields several times as an officer. As early as the spring of 1600, he participated in a meeting in Vienna about the next military advance against the Turks, during the autumn however, he interrupts his military campaign due to health reasons and died in September of this year.",
+                            "img": "/people/melchior_redern.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "Catherine of Redern",
+                            "years": "1553-1617",
+                            "label": "Catherine of Redern, born Šlik, was the sister of Jáchym Ondřej of Šlik, one of those executed at Old Town Square in 1621.",
+                            "button": "More",
+                            "text": "Catherine of Redern, born Šlik, was the sister of Jáchym Ondřej of Šlik, one of those executed at Old Town Square in 1621. Between 1600 and 1611 she managed the Frýdlant manor for her underaged son Christopher. Her work on the Frýdlant estate is mainly connected with disputes with the local townspeople regarding the right to brew beer. Bad relations with the locals eventually resulted in her staying primarily at castle in Liberec. \n\nDuring her tenure, the chateau chapels in Frýdlant and Liberec were completed, and other churches were built in the entire Frýdlant manor. She died in 1617 in Liberec, she was to be buried in the family tomb in Frýdlant, but that never happened and the place of burial is still unknown.",
+                            "img": "/people/katerina_redern.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Christopher of Redern",
+                            "years": "1591-1641",
+                            "label": "Christopher took over the administration of the estate in 1611.",
+                            "button": "More",
+                            "text": "Christopher took over the administration of the estate in 1611. He continued the dispute with the townspeople of Frýdlant, which began during his mother's reign. After the outbreak of Bohemian uprising, together with his uncle Jáchym Ondřej of Šlik, he was involved on the side of Protestant union where he became the commander of a cavalry division. He was already suffering from health problems at this time. \n\nAfter defeat in 1620, his manor was confiscated and he lived in exile on the Zawidow estate. In 1627, the Zawidow estate was also confiscated from him. He then lived in the residence of his wife Magdalena of Hundt in Poland. During the raid Swedes to Bohemia between 1639-1640, he returned to Frýdlant, but in the same year he had to leave Frýdlant manor to Wallenstein. He dies in exile sometime after 1641.",
+                            "img": "/people/krystof_redern.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Albrecht of Wallenstein",
+                    "description": "Albrecht of Wallenstein was a Czech military leader, politician and one of the most important figures in the Czech history.",
+                    "img": "/coat_of_arms/albrecht.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Albrecht von Wallenstein",
+                            "years": "1591-1641",
+                            "label": "Albrecht of Wallenstein was born into a not very wealthy and influential Protestant family and eventually became one of the most powerful men of European importance.",
+                            "button": "More",
+                            "text": "Albrecht of Wallenstein was born into a not very wealthy and influential Protestant family and eventually became one of the most powerful men of European importance. His tenure at Frýdlant was not long, it lasted only 12 years, even so, this is the time that made this place and the manor the most famous and it was even raised to a dukedom.\n\n The life of Albrecht of Wallenstein was connected with service in the army from a young age. He soon defected from the Protestant camp to the imperial service and on the battlefields of the Thirty Years' War he attained the highest rank in military command, i.e. Generalissimo of the Imperial Army. His possessions, which included the manor of Frýdlant were then more or less spared from major war conflicts and that is why they were referred to as 'the happy land - terra felix'.\n\n As for the Frýdlant manor, during Wallenstein's reign, we can talk about an economic rise, primarily in industries that were associated with the needs of the time – mining and metal processing or gunpowder production. The castle and chateau were uninhabited and only minor structural modifications took place. Wallenstein stayed here only for a few days in 1627, 1628 and 1630. The end of Wallenstein's life was heralded by the loss of trust from the emperor, who felt threatened by Walstein, which is why Wallenstein was murdered by his officers at the beginning of 1634.",
+                            "img": "/people/albrecht_valdstejn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gallas",
+                    "description": "House from northern Italy, which contributed to the expansion of the Frýdlant manor to include Lemberk Castle and its surroundings.",
+                    "img": "/coat_of_arms/gallasove.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Matthias of Gallas",
+                            "years": "1588-1647",
+                            "label": "The life of Matthias of Gallas and his social rise were, as in the case of Wallenstein, tightly connected with the period of the Thirty Years' War.",
+                            "button": "More",
+                            "text": "The life of Matthias of Gallas and his social rise were, as in the case of Wallenstein, tightly connected with the period of the Thirty Years' War. Matthias joined the army as a young man and became famous for the first time in the wars for the Mantuan inheritance on the side of the Catholic League. In 1628 he entered the service of Albrecht of Wallenstein and became one of his generals. In 1632 he attained the rank of earl. After the betrayal of Wallenstein, he became the heir to the Frydlant manor and later the commander-in-chief of the Imperial army, where he worked until the end of the Thirty Years' War. For Frýdlant, his reign meant the period between 1640-1649 when the castle and town were occupied by Swedish crew. Matthias died in Vienna in 1647.",
+                            "img": "/people/matyas_gallas.jpg"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Antonius of Gallas",
+                            "years": "1638-1695",
+                            "label": "Antonius is the younger of the sons of Matthias of Gallas.",
+                            "button": "More",
+                            "text": "Antonius is the younger of the sons of Matthias of Gallas. He lost his father at the age of 9. After studies and a cavalier journey after France and Benelux, together with his brother Francis Ferdinand, he took over the administration of inherited manors. During his lifetime, he worked as a chamberlain in the service of the Elector of Bavaria and inherited from his father the command of military regiments. His economic situation worsened to the point that he was forced to sell his share to manor and to gave up military regiments as well. In the end, he fell into debt and lived in Kladsk on estates of his son Philip Francis.",
+                            "img": "/people/antonin_pankrac_gallas.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "Francis Ferdinand of Gallas",
+                            "years": "1635-1697",
+                            "label": "Francis is the elder of the sons of Matthias of Gallas.",
+                            "button": "More",
+                            "text": "Francis is the elder of the sons of Matthias of Gallas. After completing his studies and cavalier journey, he took over the administration of the inherited manors. The only court title he received was the titular court chamberlain. During his life he stayed mainly on his manors in Bohemia, mostly in Prague and at the castle in Hoříněves. His life in Frýdlant is mainly connected with the rebellion of the subjects led by the blacksmith Ondřej of Stelzig, which was suppressed in 1680. He died in 1697 and his remains are kept in the ancestral tomb in Hejnice.",
+                            "img": "/people/frantisek_ferdinand_gallas.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "John Wenceslaus of Gallas",
+                            "years": "1671-1719",
+                            "label": "The most important member of this family together with Matthias of Gallas.",
+                            "button": "More",
+                            "text": "The most important member of this family together with Matthias of Gallas. He worked in the service of emperors Joseph I. and Charles VI. as an imperial chamberlain, a true privy councilor and diplomat. He worked in the diplomatic service in London, The Hague and Rome. He was eventually appointed viceroy in Naples, where he died in 1719. He is the founder of the later Clam-Gallas Palace in Prague's Old Town.",
+                            "img": "/people/jan_vaclav_gallas.jpg"
+                        },
+                        {
+                            "number": 5,
+                            "name": "Philip Joseph of Gallas",
+                            "years": "1703-1757",
+                            "label": "The last member of the Gallas family, thanks to whom the Frýdlant estate was expanded to include the area around Lemberk.",
+                            "button": "More",
+                            "text": "The last member of the Gallas family, thanks to whom the Frýdlant estate was expanded to include the area around Lemberk. During his life he held the official positions of the highest regional hofmeister of the Kingdom of Bohemia and the highest court judge. After the Habsburg army suffered a defeat by the Prussians in the Battle of Liberec, the Frýdlant region was plundered by the Prussians. \n\nHe died in 1757 without a male heir, the estate was then managed by his wife Marie Anna. After her death the estate was passed to his nephew Christian Philip of Clam. The condition for this was the merging coats of arms and the addition of the name Gallas. This gave rise to the house Clam-Gallas.",
+                            "img": "/people/filip_josef_gallas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Clam-Gallas",
+                    "description": "The last family living in the Frýdlant castle. During her tenure, a major reconstruction of the Renaissance wing of the chateau and the construction of a new wing took place.",
+                    "img": "/coat_of_arms/clamgallasove.png",
+                    "button": "Learn",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Christian Philip of Clam-Gallas",
+                            "years": "1748-1805",
+                            "label": "The first of the Clam-Gallas line, who also held offices at the Habsburg court during his lifetime.",
+                            "button": "More",
+                            "text": "The first of the Clam-Gallas line, who also held offices at the Habsburg court during his lifetime. He became royal chamberlain of three emperors and was promoted to knight of the order of St. Stephen. He expanded the family estates by another territory. \n\nHe was a great lover and patron of the arts. In his Prague residence he hosted, for example, Mozart or Beethoven. In the Frýdlant region, he is primarily associated with the founding of the spa town of Libverda, in Prague then with the Klamovka estate.",
+                            "img": "/people/kristian_filip_clamgallas.jpg"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Christian Christopher of Clam-Gallas",
+                            "years": "1771-1838",
+                            "label": "Christian Christopher of Clam-Gallas continued his father's legacy in terms of career and patronage.",
+                            "button": "More",
+                            "text": "Christian Christopher of Clam-Gallas continued his father's legacy in terms of career and patronage. He had the rank of Supreme Marshal of the Czech Kingdom. He married Josefina Caroline Clary-Aldringen, also a great lover of art. Together they maintained contact with, for example, Ludwig van Beethoven. \n\nHe contributed to further construction activity in Libverda, where new spa pavilions were built. Around Klamovka,he established gardens with sculptural decoration.",
+                            "img": "/people/kristian_krystof_clamgallas.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "William of Clam-Gallas",
+                            "years": "1801-1822",
+                            "label": "The elder of Christian Christopher's sons.",
+                            "button": "More",
+                            "text": "The elder of Christian Christopher's sons. He died very young at the age of 21. He is buried in the ancestral tomb in Hejnice.",
+                            "img": "/people/vilem_clamgallas.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Edward of Clam-Gallas",
+                            "years": "1805-1891",
+                            "label": "Edward was the younger of Christian Christopher's sons and also the most prominent member of the Clam-Gallas family.",
+                            "button": "More",
+                            "text": "Edward was the younger of Christian Christopher's sons and also the most prominent member of the Clam-Gallas family. In 1823 he entered the army as a young man, where he reached the rank of general. He fought under the command of Marshal Radecký in Northern Italy during the First Italian War of Independence, then fought in Hungary and returned to the Second War in Northern Italy. The most significant of the battles in which he participated are the battles of Magenta and Solferin. \n\nDuring the Prussian-Austrian War, he suffered a defeat at the Battle of Jičín, for which he was judged by a court-martial. Even though he was acquitted, he never returned to the army and lived out his life in Frýdlant and Liberec. \n\nDuring his stay in Frýdlant, he had the local chateau undergo extensive reconstruction and building modifications, during which the newest wing of the chateau was created. He died in 1891 at the age of 86.",
+                            "img": "/people/eduard_clamgallas.jpg"
+                        },
+                        {
+                            "number": 5,
+                            "name": "Francis of Clam-Gallas",
+                            "years": "1854-1930",
+                            "label": "The last male descendant of the Clam-Gallas family.",
+                            "button": "More",
+                            "text": "The last male descendant of the Clam-Gallas family. He too continued his civil service career, was chamberlain and privy councilor, but above all he devoted himself to the management of the family estates Liberec, Frýdlant, Grabštejn and Lemberk. \n\nThe First World War, the creation of the Czechoslovak Republic and also the land reform intervened in his life. In addition to farming, he also devoted his whole life to volunteer work and charity, to which he actively contributed. \n\nHe died in Frýdlanta in 1930 and left behind 7 daughters. The youngest of them, Clotilde, lived in Frýdlant until the end of World War II.",
+                            "img": "/people/frantisek_clamgallas.jpg"
+                        },
+                        {
+                            "number": 6,
+                            "name": "Clotilde of Clam-Gallas",
+                            "years": "1898-1975",
+                            "label": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein.",
+                            "button": "More",
+                            "text": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein. During Francis' lifetime, his properties were divided between his daughters. Clotilde then received the Frýdlant Castle. She remained single after her father's death, she took care of her widowed mother. After 1945, she had to move abroad and the castle was nationalized.",
+                            "img": "/people/clotilda_clamgallas_mladsi.jpg"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "tours": [
@@ -1332,6 +1806,180 @@
                     "card_label": "Der letzte Raum der Burg ist als Büro aus dem 17.Jahrhundert eingerichtet.",
                     "button": "Besuchen",
                     "text": "Der letzte Raum der Burg ist als Büro aus dem 17.Jahrhundert eingerichtet. Interessant ist zum Beispiel die größere Landkarte, die umgekehrt ist – ihr Norden ist unten und ihr Süden wiederum oben.\n\nWeil das Büro auch der letzte Raum der Burgführung ist, haben Sie nun Zeit, sich es anzuschauen. Wenn Sie fertig sind, gehen wir runter und beenden unsere Führung.\n\nAn dieser Stelle möchten wir uns von Ihnen verabschieden. Wir danken Ihnen für Ihre Aufmerksamkeit und hoffen, Sie haben die Burgführung genossen. Geben Sie jetzt bitte diesen Text Ihrem Burgführer zurück. Wir wünschen Ihnen einen schönen Tag und freuen uns auf ein Wiedersehen!"
+                }
+            ]
+        },
+        {
+            "tour_id": "castle",
+            "language": "es",
+            "title": "Castillo",
+            "img": "/castle/castle.jpg",
+            "rooms_label": "habitaciones",
+            "time": "60 minutos",
+            "description": "Este recorrido lleva al visitante a través del Castillo Superior, que es la parte más antigua de la zona de Frýdlant. Toda la ruta está dominada por un gran salón de caballeros con una galería ancestral, armería, salón de banquetes o una gran colección de uniformes de empleados.",
+            "button": "Empezar recorrido",
+            "rooms": [
+                {
+                    "audio": "/es/castle/es_room_1.mp3",
+                    "number": 1,
+                    "img": "/castle/dolni_nadvori.jpg",
+                    "title": "Empezar recorrido",
+                    "card_label": "Nos encontramos en el patio bajo desde donde se ve muy bien el antiguo castillo, la capilla y dos partes del palacio nuevo.",
+                    "button": "Visita",
+                    "text": "Buenos días, bienvenidos al castillo de Frýdlant.\n\nNos encontramos en el patio bajo desde donde se ve muy bien el antiguo castillo, la capilla y dos partes del palacio nuevo. El castillo de Frýdlant es uno de los castillos más antiguos y mejor conservados de Bohemia del norte; fue construido hacia la mitad del siglo XIII en estilo gótico. Su parte más antigua es la torre redonda, llamada 'indica'. Encima de ella, según las leyendas, se prendían fuegos y así la torre servía de faro en el camino comercial de los Países Checos a Lusacia y a Polonia.\n\nFrýdlant es una agrupación de dos complejos de edificios – el castillo viejo - fortaleza llamada 'el castillo alto' - y la ampliación renacentista – 'el palacio nuevo' - que forma la base del arrabal. El castillo fue continuamente transformado y ampliado; ese desenvolvimiento complejo se concluyó en el siglo XIX con las últimas reconstrucciones. Éstas se ven allí a la izquierda, en la parte llamada 'el ala del castellano'.\n\nDesde el palacio alto pasaremos a la capilla, construida por la orden de Catalina de Redern y su esposo Melchor entre los años 1598 – 1602. Vista la capilla continuaremos nuestra visita por el ala renacentista del palacio, construida en el siglo XVI. En la fachada se encuentran originales esgrafiados renacentistas. La visita la concluiremos en la parte más moderna, edificada en el siglo XIX (1876) por orden de Eduardo de Clam-Gallas.\n\nAquí ven Ustedes las murallas originales restauradas. El camino que se encuentra debajo de ellas y que sube hacia el castillo antiguo se llama 'el camino de los caballeros'. Por él los caballeros subían hasta el castillo alto montando a caballo. La escalera por la que subimos nosotros ahora fue construida en las postrimerías del siglo XVIII, en la época de Cristián Felipe de Clam-Gallas."
+                },
+                {
+                    "audio": "/es/castle/es_room_2.mp3",
+                    "number": 2,
+                    "img": "/castle/pred_kapli.jpg",
+                    "title": "Delante del castillo",
+                    "card_label": "El castillo alto, el primitivo núcleo gótico de la fortaleza de la segunda mitad del siglo XIII, se levanta encima de una roca de basalto que, por su forma en columnas, se llama 'el Órgano del Diablo'.",
+                    "button": "Visita",
+                    "text": "El castillo alto, el primitivo núcleo gótico de la fortaleza de la segunda mitad del siglo XIII, se levanta encima de una roca de basalto que, por su forma en columnas, se llama 'el Órgano del Diablo'. Los edificios están unidos por una pasarela, un arco de riostra. Se halla con frecuencia entre las casas en las estrechas calles de la Edad Media. Aquí es de dimensiones tan grandes que forma un pasillo alumbrado independiente que permitía transitar cómodamente del castillo a la capilla.\n\nEncima de la escalera se halla el escudo de uno de los propietarios del castillo, de Antonio Pancracio de Gallas y de su esposa Victoria de Arco. Dentro del pasillo, al lado derecho de la escalera, veremos unos matafuegos antiguos."
+                },
+                {
+                    "audio": "/es/castle/es_room_3.mp3",
+                    "number": 3,
+                    "img": "/castle/hradni_nadvori.jpg",
+                    "title": "El patio del castillo alto",
+                    "card_label": "El patio del castillo es pequeño ya que su edificación sobre la roca no permitía una construcción más amplia.",
+                    "button": "Visita",
+                    "text": "El patio del castillo es pequeño ya que su edificación sobre la roca no permitía una construcción más amplia. El estilo original era gótico, posteriormente – en el siglo XVI – el castillo fue reconstruido en estilo renacentista. Este hecho nos lo recuerda la tabla encima de la puerta que dice que la primera reconstrucción renacentista la llevó a cabo Cristóbal de Biberstein, el entonces propietario del castillo, en el año 1551.\n\nDense cuenta también de aquél escudo grande. Es de Matías de Gallas, un comandante importante de la guerra de los Treinta Años. El texto inscrito habla de sus éxitos militares. Sobre ese interesante personaje hablaremos más tarde y también veremos su retrato. El escudo con un cuerno de ciervo que está encima de la puerta por la que vamos a entrar en el castillo pertenecía a la casa de Biberstein.\n\nDel castillo primitivo hoy en día sólo se conserva la torre redonda, construida con piedra de cantera que se levanta hasta una altura de 49 metros. Su diámetro es de 10 metros y las paredes son bastante gruesas, en la primera planta miden casi cuatro metros. La entrada a su interior se encuentra en los pisos superiores, pues la torre carecía de escalera. En su interior se hallan dos habitaciones abovedadas que servían de prisión. La habitación inferior, que se encuentra a la altura del primer piso, es accesible por tres puertas guarnecidas con hierro y en su interior se conserva una mesa carcelaria muy antigua hecha con tablones sólidos por un carpintero. Es probable que en el pasado la torre tuviera almenas y sirviera para vigilancia y defensa. El actual casquete segmentario es del siglo XVI y fue elevado durante una reconstrucción amplia del complejo de edificios ordenada por Catalina de Redern. Se trata de un casquete triple con galerías. Originalmente estaba chapado de cobre.\n\nDobroslava Menclová, autora de una obra excelente sobre la arquitectura de los castillos checos, clasifica el castillo de Frýdlant como una variante del castillo de tipo sajón – hesseno, muy desarrollado en el norte de Bohemia. Se caracteriza sobre todo (a diferencia del tipo danubiano que tenía una torre cuadrangular) por una torre de homenaje redonda (el término utilizado en los Países checos es 'bergfrit' – voz alemana). El palacio del castillo cuya división interior aún sigue el antiguo tipo no diferenciado se extiende entre la torre y la curvatura del noroeste de las murallas. La edificación no muy espaciosa fue ampliada durante el siglo XV con un nuevo edificio.\n\nEn la época de Cristóbal de Biberstein construyeron otro palacio en el extremo del sur, ya en estilo renacentista. En la segunda mitad del siglo XVI, bajo el gobierno de los Redern apareció aún el ala de este enclavado entre la torre de homenaje y la torre de entrada. Con esa edificación se cerró el patio. Los edificios a la vez redujeron el patio original a este espacio pequeño.\n\nAún cabe mencionar el origen del nombre de nuestro castillo. 'Friedland' es un nombre alemán cuyo significado es EL PAÍS DE LA PAZ. Este tipo de nombres llegaron a utilizarse en nuestros países durante la colonización alemana durante la Edad Media."
+                },
+                {
+                    "audio": "/es/castle/es_room_4.mp3",
+                    "number": 4,
+                    "img": "/castle/prvni_hradni.jpg",
+                    "title": "Los Biberstein y los Redern",
+                    "card_label": "FHemos entrado en la primera sala del castillo antiguo.",
+                    "button": "Visita",
+                    "text": "Hemos entrado en la primera sala del castillo antiguo. Aquí tendremos la posibilidad de conocer un poco más sobre su historia. La primera casa a la que pertenecía el señorío de Frýdlant era la casa de Ronov y en Frýdlant gobernaba en el nombre del rey checo. El escudo de la casa de Ronov, dos desbarbadas ramas cruzadas llamadas astas, se halla a la izquierda de la puerta. En el año 1278 el Rey Primislao Ottocaro II les quitó a los de Ronov el señorío para reducir así su poder. El mismo año compró Frýdlant Rulco de Biberstein, un noble de quilates, por 800 óbolos de plata. La casa de Biberstein permaneció en Frýdlant durante casi 300 años y en su época de gobernación llevaron a cabo las reconstrucciones y obras finales del castillo.\n\nLos Biberstein apoyaron rotundamente al emperador Segismundo durante la lucha contra los husitas. Tomaron parte en todas las operaciones preparadas contra los husitas en el país lindante, en Lusacia. Por lo tanto no puede sorprender que las tropas husitas, cada vez que se dirigían hacia Lusacia, pasaran también por Frýdlant. Aunque una vez acabadas las guerras de husitas no llegó la paz inmediatamente. Los Biberstein se pusieron de parte de la oposición al rey checo, a Jorge de Podebrady, durante los años 1467 – 1469. El último descendiente masculino de los Biberstein, Cristóbal, murió en el año 1551. Durante su época fue construida la primera ala renacentista del castillo.\n\nLa figura heráldica del escudo de la casa de Biberstein es un cuerno de ciervo. Debajo del escudo de los Biberstein se hallan tres vaciados en yeso de las cabezas de caballeros de las tumbas de los Biberstein que se encuentran en la iglesia parroquial de este pueblo. Como los herederos no reclamaron sus derechos a tiempo, se encargó de Frýdlant la Cámara Real y en el año 1558 lo vendió a Federico de Redern.\n\nEl mismo año Federico de Redern adquirió también Liberec y Zawidów. De sus nuevas propiedades no disfrutó mucho tiempo, porque murió en el año 1564. Las heredaron sus hijos. A partir del año 1591 el único propietario de Frýdlant era Melchor de Redern, consejero del emperador, presidente del consejo militar y mariscal de campo.\n\nLos Redern eran aristócratas luteranos, comerciantes y guerreadores muy capacitados, dotados de un gusto excepcional por las artes, y, al igual que a muchos otros en esa época, les gustaba la vida suntuosa. Buscando los recursos financieros promovieron varias empresas, fundaron unas aldeas de tejedores y vidrieros, también se dedicaron a la minería.\n\nMelchor de Redern pronto llegó a ser mariscal de campo, el oficio militar lo dominaba perfectamente y ganó las palmas luchando contra los turcos. Murió en el año 1600 en Německý (Havlíčkův) Brod a causa de las penas guerreras. Lo enterraron en la tumba familiar que se halla en una de las capillas de la iglesia parroquial en la ciudad de Frýdlant. La administración de todo el señorío pasó a manos de la regenta de Cristóbal Redern, Catalina de Redern. Era una mujer muy decidida. Se vio obligada a pagar las deudas de su difunto marido. A pesar de eso acumuló tal capital que pudo permitirse suministrar los fondos para las construcciones costosas, entre ellas el monumento funerario en la iglesia en la ciudad de Frýdlant (obra de un artista de Wroclaw, de Cristóbal Gerardo Heinrich de Amsterdam).\n\nSu autoridad la imponía en todos los casos en los que llevaba adelante sus intereses. Como de cualquier situación sabía sacar provecho para sí misma y para su familia, el pueblo del señorío de Frýdlant la llamaba “Catalina la Dura”. Por su deseo fue levantado el palacio renacentista, el palacio bajo y en el lugar donde antes se hallaba una antigua torre de vigilancia construyeron la capilla. Catalina tenía conflictos continuos con los moradores de Frýdlant, sobre todo por el derecho de elaborar la cerveza. La causa la perdió entonces, para vengarse de los moradores de la ciudad, hizo construir en la plaza de la ciudad un edificio que rompe con la regularidad de la plaza y hasta hoy en día la gente lo llama “la casa al albedrío aristocrático”. Durante mucho tiempo se tomaba por seguro que Catalina todavía estaba viva en el año de la batalla de Bílá Hora y que, obligada, emigró a Silesia. En realidad murió en el año 1617, el lugar de su último descanso, sin embargo, es desconocido.\n\nEste cuadro es un retrato de Cristóbal Redern, el hijo de Melchor y Catalina. El autor de esta pintura al óleo, Juan Felipe Leunber de Liberec, la realizó en la segunda mitad del siglo XVIII apoyado con documentos viejos. Cristóbal participó en la sublevación de los estamentos checos junto con su pariente Joaquín Andreas Šlik; después de la derrota en Bílá hora (la Montaña Blanca) tuvo que huir al extranjero. En los primeros momentos trató de esconderse aquí, en Frýdlant, no obstante, pronto salió hacia Silesia. Su tío, el conde Joaquín Andreas Šlik fue detenido aquí en Frýdlant y el año 1621 fue decapitado, como uno de los 27 aristócratas checos) en la Plaza Vieja de Praga. Más tarde, cuando Frýdlant ya formaba parte de las propiedades de Valdstejn, Cristóbal en secreto regresó a la región de Frýdlant y quiso, apoyado por los vasallos reconquistar su señorío lo que no consiguió. Murió durante los años 40 del siglo XVII durante la Guerra de los Treinta Años.\n\nDense cuenta de aquella vitrina en la que se hallan los restos mortales de Melchor de Redern los cuales en el año 1927 fueron exhumados e identificados.\n\nLos muebles en esta sala son de la época renacentista.\n\nDignas de atención también son las dos maquetas hechas a finales del siglo XVIII, así podemos imaginarnos como era el castillo durante la vida de dos de los dueños del castillo, de Cristián Felipe y de Cristián Cristóbal de Clam-Gallas. Interesante parece, sobre todo, el modelo en el que se reflejan los planes de la reconstrucción del Palacio Bajo. Sin embargo, la reconstrucción no fue llevada a cabo.\n\nEn el año 1801, aún vivo Cristián Felipe de Clam-Gallas, el castillo fue abierto al público y así se convirtió en el museo-castillo más antiguo de la Europa Central y pronto vió la luz una guía de los edificios y las colecciones. Desde el año 1801 hasta el 1945 el público solamente se pudo visitar el castillo antiguo, es decir el Palacio alto, el arco de riostra y la capilla.\n\nLa exposición desde entonces no ha cambiado mucho. Lo más atractivo de la exposición era la galería de los retratos de los propietarios del castillo, recuerdos de la vida en él y la sala de armas que fundó, según parece, ya Melchor de Redern."
+                },
+                {
+                    "audio": "/es/castle/es_room_5.mp3",
+                    "number": 5,
+                    "img": "/castle/albrecht.jpg",
+                    "title": "Albrecht de Valdstein",
+                    "card_label": "Las propiedades confiscadas de los Redern las compró en el año 1622 Albrecht de Valdstein, y la verdad es que fue una ganga.",
+                    "button": "Visita",
+                    "text": "Las propiedades confiscadas de los Redern las compró en el año 1622 Albrecht de Valdstein, y la verdad es que fue una ganga. Durante su época los palacios no habían cambiado, no obstante, el señorío experimentó un progreso económico importante.\n\nSu fama y sus propiedades Valdstein las ganó siendo uno de los oficiales más importantes del ejército del emperador. En su época cumbre llegó a ser general. Los territorios que le pertenecían eran enormes. Los unió en un ducado, el ducado de Frýdlant. El retrato de Valdstein fue pintado en el año 1630 por un pintor de Frýdlant, por Cristiano Kaulfersch.\n\nLa fama y todas sus propiedades las ganó en poco tiempo, parece que lo único que le faltaba era la corona del rey checo. Todo apunta a que quería conseguirla y por ello estaba dispuesto a confabularse con los suecos, enemigos de los Habsburgos, sobre todo durante los dos últimos años de su vida. Su comportamiento despertaba cada vez más sospechas y así, empezado el año 1634, el emperador llegó a la conclusión de que era necesario deshacerse de ese general traidor. El día de 25 de febrero de 1634 Valdstein fue asesinado en la ciudad de Cheb. El señorío de Frýdlant lo recibió el conde de Matías Gallas de Campo como expresión de reconocimiento de sus servicios al emperador. Gallas era uno de los oficiales de Valdstein que revelaron los planes de Valdstein al emperador.\n\nEn esta sala, luego, vemos el retrato de la segunda esposa de Valdstein, de Isabela de Harrach y, a la derecha de la puerta, de su hija Elisabeta que más tarde se casó con el conde de Kaunitz.\n\nIgualmente podemos observar un retrato de Giovanni Baptista Seni, el astrólogo personal de Valdstein. Se dice que antes de empezar una batalla, Albrecht de Valdstein siempre pedía un horóscopo.\n\nOtro retrato en esta sala es el retrato del cardenal Arnošt de Harrach, el cuñado de Valdstein.\n\nEl caballo representado en el cuadro grande, originalmente pertenecía al rey sueco Gustavo Adolfo, Valdstein se lo llevó de la batalla de Lutzen en la que Gustavo Adolfo había muerto."
+                },
+                {
+                    "audio": "/es/castle/es_room_6.mp3",
+                    "number": 6,
+                    "img": "/castle/rytirsky_sal.jpg",
+                    "title": "La sala de los caballeros",
+                    "card_label": "Estamos entrando en la sala de los caballeros.",
+                    "button": "Visita",
+                    "text": "Estamos entrando en la sala de los caballeros. La sala a partir del año 1801 sirve de pinacoteca de los Gallas y de los primeros Clam-Gallas.\n\nEn la sala hay una chimenea italiana, encima de ella se encuentra una plástica policromada con el escudo de la casa de Gallas. La chimenea y la plástica provienen de los años 1676 – 1682 cuando se realizó la reconstrucción de los interiores del castillo. Los Gallas eran una familia noble, bastante pobre, de Steiermark que se hizo rica después de la muerte de Valdstein. El conde Matías Gallas de Campo, tras la muerte de Valdstein, llegó a ser general de los ejércitos del emperador austríaco. Su retrato está a la izquierda de la puerta.\n\nCon la muerte de Valdstein en el año 1634 terminaron los tiempos tranquilos de la paz relativa. El mismo año ocuparon la región los suecos y, con pequeñas pausas, se quedaron aquí hasta el año 1649.\n\nAl lado de la puerta de entrada está el retrato de Francisco Fernando de Gallas, el hijo mayor de Matías, de mala fama por su maltrato a los siervos de su señorío. Las condiciones de vida habían empeorado hasta tal punto que los siervos se sublevaron contra el noble de Gallas. Los señoríos de los Gallas pertenecían a los señoríos de la opresión más fuerte del país.\n\nEn otros retratos aparecen las esposas de los mencionados y el hijo menor de Matías, Antonio Pancracio.\n\nEn otro retrato vemos a Juan Venceslao de Gallas que llegó a ser el virrey de Nápoles, así que en Frýdlant vivó poco tiempo. Luego vemos el retrato de Felipe José de Gallas con el que el linaje en el año 1757 se extinguió por línea paterna. Todas sus propiedades cayeron en las manos de su sobrino Cristián Felipe de Clam bajo la condición de mantener el nombre de la dinastía y el escudo de Clam completarlo con el escudo de Gallas. De ese modo apareció la casa de Clam-Gallas.\n\nCristián Felipe de Clam-Gallas hizo fundó Lázně Libverda. Su esposa, Carolina Špork de Kuks trajo a Frýdlant muchos cuadros de gran valor artístico. En esa época empiezan los grandes cambios de la era. Los nobles fundan varias empresas, promueven varias manufacturas, sobre todo las de textil."
+                },
+                {
+                    "audio": "/es/castle/es_room_7.mp3",
+                    "number": 7,
+                    "img": "/castle/piano.jpg",
+                    "title": "La sala del piano",
+                    "card_label": "En esta sala captan nuestra atención varios retratos.",
+                    "button": "Visita",
+                    "text": "En esta sala captan nuestra atención varios retratos.\n\nEn primer lugar, es el retrato de Cristián Cristóbal de Clam-Gallas, el hijo de Cristián Felipe. Cristián Cristóbal desempeñaba cargos importantes. Igual a su padre continuó mejorando Lázně Libverda y promovía las artes bellas. Al lado de su retrato vemos el retrato de una mujer bella – de su esposa Josefina Clarz-Aldringen. Personalmente conocía a Ludwig van Beethoven que le había dedicado dos composiciones suyas.\n\nDel matrimonio nacieron dos hijos. El mayor de ellos, Guillermo, murió muy joven. Su hermano menor, Eduardo llegó a ser uno de los generales más importantes. Al lado de Radetzki luchó en las batallas al norte de Italia. No obstante, en el año 1866 perdió unas batallas importantes por lo que se retiró y el resto de la vida lo pasó en sus señoríos. Fue él quien había llevado a cabo la construcción del Nuevo palacio del recinto de Frýdlant. Cabe mencionar que fue condecorado con el Toisón de Oro.\n\nSu heredero era su hijo Francisco de Clam-Gallas cuyo busto está entre las ventanas. Vivió aquí hasta el año 1930 cuando se murió y el señorío lo heredó una de sus siete hijas – Clotilde. Esa misma vivía en Frýdlant hasta el abril de 1945."
+                },
+                {
+                    "audio": "/es/castle/es_room_8.mp3",
+                    "number": 8,
+                    "img": "/castle/eduard.jpg",
+                    "title": "El despacho de Eduardo",
+                    "card_label": "En las vitrinas de esta sala podéis observar los uniformes del general Eduardo Clam- Gallas en la vitrina al lado de la puerta, otro uniforme en la vitrina enfrente de las ventanas pertenecía al mariscal Radetzki.",
+                    "button": "Visita",
+                    "text": "En las vitrinas de esta sala podéis observar los uniformes del general Eduardo Clam- Gallas (los de ulano, de húsar y de dragón) en la vitrina al lado de la puerta, otro uniforme en la vitrina enfrente de las ventanas pertenecía al mariscal Radetzki.\n\nHay dos vitrinas debajo de las ventanas. En una de ellas vemos condecoraciones militares de Eduardo Clam-Gallas, entre otras también la Orden de Toisón de Oro. En la otra vitrina pueden observar algunos objetos personales de la esposa de Eduardo Clam-Gallas, Clotilde del linaje noble de los Dietrichstein.\n\nEn la última de las vitrinas de esta sala, a la izquierda de la puerta, se encuentran algunos objetos personales de Eduardo Clam-Gallas."
+                },
+                {
+                    "audio": "/es/castle/es_room_9.mp3",
+                    "number": 9,
+                    "img": "/castle/uniformy.jpg",
+                    "title": "Sala de uniformes",
+                    "card_label": "En esta sala hay vitrinas con uniformes de los empleados de los Clam-Gallas.",
+                    "button": "Visita",
+                    "text": "En esta sala hay vitrinas con uniformes de los empleados de los Clam-Gallas. Entrando en la sala a la izquierda se encuentran los uniformes del cochero, se ven las variantes de verano y de invierno, también se pueden observar los uniformes de días normales y de los festivos.\n\nEn la gran vitrina del medio, comenzando por la izquierda, primero está el uniforme del portero, a quien también pertenecía el basón de ceremonia; luego hay uniformes de los guardabosques y de otros administrativos forestales. Los demás uniformes de la vitrina pertenecían entonces a lacayos y sirvientes. Por supuesto, las pelucas y otros accesorios formaban parte de los uniformes."
+                },
+                {
+                    "audio": "/es/castle/es_room_10.mp3",
+                    "number": 10,
+                    "img": "/castle/nositka.jpg",
+                    "title": "Las andas y blancos de tiro",
+                    "card_label": "Estamos en una habitación que antiguamente servía de puesto de guardia.",
+                    "button": "Visita",
+                    "text": "Estamos en una habitación que antiguamente servía de puesto de guardia. En el caso de una alarma, abrían la puerta de la escalera y bajaban corriendo al patio para intervenir rápidamente según fuera necesario.\n\nAún cabe mencionar aquí varias cosas. Definitivamente son las andas. En unas similares, subían a las damas hasta el castillo. Luego hay dos trineos y un bastidor para un pequeño carruaje, que podría haber servido, por ejemplo, para niños.\n\nEl reloj de la habitación también es muy interesante. Casi completo es de madera, proviene de la segunda mitad del siglo XVII.\n\nEn esta y en la siguiente sala pequeña pueden darse cuenta de unos blancos de tiro de madera. Gracias a ellos, pueden hacerse una idea del tamaño de las balas utilizadas. Estos blancos de madera datan del siglo XVIII y son realmente poco comunes. Se creía que si el blanco no se quemaba después de disparar, traería mala suerte al tirador. Así que no quedan muchos de los utilizados.\n\nOtro blanco de tiro se puede ver en la mesa. Esta vez es un blanco mecánico. La figura sobre él se reclina y se vuelve a levantar cuando el tirador da al blanco.\n\nEn el retrato encima de la puerta está el Conde Spork de Kuks."
+                },
+                {
+                    "audio": "/es/castle/es_room_11.mp3",
+                    "number": 11,
+                    "img": "/castle/lovecky_salon.jpg",
+                    "title": "Sala de caza",
+                    "card_label": "Los muebles de esta habitación son de estilo cinegético.",
+                    "button": "Visita",
+                    "text": "Los muebles de esta habitación son de estilo cinegético. Los trofeos en las paredes son prueba de que había mucha caza en las tierras señoriales. Además de caza mayor, aquí se cazaban jabalíes, osos y lobos. El lobo representado en el cuadro supuestamente fue el último lobo viviente en nuestra región, cazado en 1766. No obstante, los lobos están comenzando a regresar a nuestras montañas, aunque hasta ahora solo tímidamente.\n\nNo solo las paredes están decoradas con cuernos, sino también los muebles e incluso una araña. En ella está la diosa de la caza Diana sosteniendo dos escudos de armas: uno de ellos es el simplificado de Clam-Gallas (doncella con astas de ciervo) y otro de Ditrichsteins (dos cuchillos de vino).\n\nBastante curiosa es la mesa grande, cuya parte superior fue cortada de un tronco de abedul de 130 años."
+                },
+                {
+                    "audio": "/es/castle/es_room_12.mp3",
+                    "number": 12,
+                    "img": "/castle/jidelna.jpg",
+                    "title": "Comedor del castillo",
+                    "card_label": "Este salón está arreglado como un salón de banquetes.",
+                    "button": "Visita",
+                    "text": "Este salón está arreglado como un salón de banquetes. Se complementa con una colección de platos de estaño, principalmente de los siglos XVII y XVIII, un barril de cerveza de Frýdlant tallado.\n\nTambién pueden ver una hermosa estufa de azulejos aquí. La leña normalmente se ponía desde otra habitación, para que no entrara el humo ni ceniza.\n\nPor supuesto, también cabe mencionar el reloj del siglo XVII, que se encuentra junto a la puerta. Está hecho casi en su totalidad de madera."
+                },
+                {
+                    "audio": "/es/castle/es_room_13.mp3",
+                    "number": 13,
+                    "img": "/castle/vezeni.jpg",
+                    "title": "Corredor",
+                    "card_label": "Este corredor se encuentra junto a la torre del castillo.",
+                    "button": "Visita",
+                    "text": "Este corredor se encuentra junto a la torre del castillo. La puerta de hierro conducía a la prisión del castillo, que estaba muy bien protegida. Había tres de esas puertas en una fila. Cuando la prisión dejó de cumplir su propósito, se convirtió en una tesorería bien guardada. Desde aquí vamos a subir al siguiente piso. Tengan cuidado con la cabeza al salir de las escaleras en la parte superior, la puerta es bastante baja."
+                },
+                {
+                    "audio": "/es/castle/es_room_14.mp3",
+                    "number": 14,
+                    "img": "/castle/zbrojnice1.jpg",
+                    "title": "Armería del castillo",
+                    "card_label": "Llegamos a la armería del castillo.",
+                    "button": "Visita",
+                    "text": "Llegamos a la armería del castillo. La armería la pusieron en esta forma alrededor de 1801, cuando el castillo se abrió al público. Por supuesto, las colecciones de armas en sí son mucho más antiguas. Fueron creadas desde la época de los Rederns, es decir, aproximadamente desde mediados del siglo XVI.\n\nAdemás de las armas, también cabe destacar la decoración al fresco del techo, que está presidida por el escudo de armas de la dinastía Redern. Esta decoración debe de ser del año 1593. Esto se debe a que esta parte del castillo fue construida por los Redern a finales del siglo XVI.\n\nEntre las armas aquí, pueden ver los mosquetes muy utilizados durante la Guerra de los Treinta Años (el armamento principal de un mosquetero). Nuestra colección de mosquetes es una de las más grandes de Europa Central.\n\nLos dos enormes fusiles también son interesantes. Se trata de arcabuces. Son típicos por los ganchos en el medio que se usaban para enganchar el fusil a la pared, evitando el gran retroceso que de otro modo seguramente derrotaría al tirador.\n\nA continuación, pueden ver cañones. Luego algunas armas blancas, por ejemplo, alabardas; cascos (pappenheims, morriones)."
+                },
+                {
+                    "audio": "/es/castle/es_room_15.mp3",
+                    "number": 15,
+                    "img": "/castle/zbrojnice2.jpg",
+                    "title": "Mosquetes",
+                    "card_label": "Otra sala también está dedicada a la colección de armas.",
+                    "button": "Visita",
+                    "text": "Otra sala también está dedicada a la colección de armas. Se vuelven a ver mosquetes, alabardas, cañones. Las bolsas colgadas de los mosquetes tienen las iniciales del conde de Francisco Fernando de Gallas (FFGVG - Franz Ferdinand, Graf von Gallas), provienen entonces de la segunda mitad del siglo XVII.\n\nEn el suelo se puede ver morteros, que es un arma de artillería con un cañón corto y macizo, que se usaba en el pasado como cañones de fortaleza, o viceversa como arma de asedio.\n\nLa instalación de esta sala está basada en fotografías de alrededor de 1920."
+                },
+                {
+                    "audio": "/es/castle/es_room_16.mp3",
+                    "number": 16,
+                    "img": "/castle/postroje.jpg",
+                    "title": "Arneses de caballos",
+                    "card_label": "Esta sala está dedicada a los arneses de caballos.",
+                    "button": "Visita",
+                    "text": "Esta sala está dedicada a los arneses de caballos. Hay dos tipos aquí. Dos dorados son pectorales, cuatro plateados tienen collera. Todos los arneses están, por supuesto, ricamente decorados y llevan el escudo de armas de la dinastía Clam-Gallas.\n\nUna cosa rara parecen los zapatos y el sombrero junto a la puerta, pertenecientes al mensajero. Sin embargo, no se ponía el sombrero en la cabeza, sino que le servía como una bolsa de correo con cerradura.\n\nUna vista a la habitación contigua ofrece una vista a los objetos asociados con caballos y carruajes."
+                },
+                {
+                    "audio": "/es/castle/es_room_17.mp3",
+                    "number": 17,
+                    "img": "/castle/obrazarna.jpg",
+                    "title": "Pinacoteca del castillo",
+                    "card_label": "Acabamos de entrar en la pinacoteca del castillo.",
+                    "button": "Visita",
+                    "text": "Acabamos de entrar en la pinacoteca del castillo. Hay una cantidad de retratos, no obstante, desconocemos los nombres representadas en algunos de ellos. Algunas de las pinturas llegaron aquí como parte de una dote o herencia. Sin embargo, incluso aquí podemos encontrar rostros familiares de los propietarios del señorío: Matyáš Gallas de Campo, Jan Václav Gallas o miembros de la dinastía Clam-Gallas."
+                },
+                {
+                    "audio": "/es/castle/es_room_18.mp3",
+                    "number": 18,
+                    "img": "/castle/vrchnostenska.jpg",
+                    "title": "Oficina señorial",
+                    "card_label": "La visita al castillo finaliza en la oficina señorial.",
+                    "button": "Visita",
+                    "text": "La visita al castillo finaliza en la oficina señorial. Hay muebles de oficina, entre ellos un archivador.\n\nTambién vemos varios mapas aquí, el más interesante de ellos es un mapa pintado del siglo XVII que representa toda la propiedad de Frydlant en ese momento. También hay mapas más nuevos, ya sea un distrito escolar o un mapa turístico de la región de Liberec.\n\nEntre otras cosas, en las paredes hay retratos de algunos de los propietarios del castillo.\n\nUna curiosidad es la tarifa de entrada para los visitantes del castillo de Frýdlant de postrimerías del siglo XIX e inicios del XX.\n\nEsta sala es la última sala de este circuito. Desde aquí bajamos por una escalera de caracol hasta el patio del castillo y allí finalizamos el recorrido. Si desean conocer otras partes de las instalaciones, no duden en visitar otros circuitos.\n\nMuchas gracias por su visita y esperamos que les haya sido de agrado."
                 }
             ]
         },
@@ -1932,6 +2580,198 @@
                     "card_label": "An dieser Stelle möchten wir uns von Ihnen verabschieden.",
                     "button": "Besuchen",
                     "text": "An dieser Stelle möchten wir uns von Ihnen verabschieden. Wir danken Ihnen für Ihre Aufmerksamkeit und hoffen, Sie haben die Schlossführung genossen. Zum Haupthof können Sie entweder den alten Ritterweg oder die Treppe benutzen. Wir wünschen Ihnen einen schönen Tag und freuen uns auf ein Wiedersehen!"
+                }
+            ]
+        },
+        {
+            "tour_id": "chateau",
+            "language": "es",
+            "title": "Palacio bajo",
+            "img": "/chateau/chateau.jpg",
+            "rooms_label": "habitaciones",
+            "time": "60 minutos",
+            "description": "Este recorrido lleva al visitante a través del palacio ricamente amueblado y la historia de los últimos propietarios de Clam Gallas. Un recorrido turístico completamente equipado mapea el palacio y sus más de 20 habitaciones en todas sus plantas.",
+            "button": "Empezar recorrido",
+            "rooms": [
+                {
+                    "audio": "/es/chateau/es_room_1.mp3",
+                    "number": 1,
+                    "img": "/chateau/dolni_nadvori.jpg",
+                    "title": "Patio",
+                    "card_label": "Frýdlant es una agrupación de dos complejos de edificios – el castillo viejo - fortaleza llamada 'el castillo alto' - y la ampliación renacentista – 'el palacio nuevo' - que forma la base del 'arrabal'.",
+                    "button": "Visita",
+                    "text": "Bienvenidos a la visita del palacio de Frýdlant. Frýdlant es una agrupación de dos complejos de edificios – el castillo viejo - fortaleza llamada 'el castillo alto' - y la ampliación renacentista – 'el palacio nuevo' - que forma la base del 'arrabal'.\n\nNos encontramos en el patio bajo desde donde se ve muy bien todo el recinto: el antiguo castillo, la capilla y dos partes del palacio nuevo. El castillo de Frýdlant es uno de los castillos más antiguos y de los mejores conservados de Bohemia del norte - fue construido sobre la mitad del siglo XIII en estilo gótico, más tarde reconstruido en el estilo renacentista. Su parte más antigua es la redonda torre llamada 'INDICA'. Encima de ella, según las leyendas, se prendían los fuegos y así la torre servía de faro en el camino comercial de los Países Checos a Lusacia y a Polonia.\n\nLuego podemos observar la capilla, construida por la orden de Catalina de Redern y su esposo Melchor entre los años 1598 – 1602. A continuación se ve el ala renacentista del palacio, construida en el siglo XVI. En la fachada se encuentran esgrafiados renacentistas originales. El castillo fue continuamente transformado y ampliado - ese desenvolvimiento complejo fue concluido en el siglo XIX con las últimas reconstrucciones.La parte más moderna, edificada en el siglo XIX (1876) por orden de Eduardo de Clam-Gallas es 'el ala del castellano' (la parte de color amarillo).\n\nDurante nuestro recorrido, nos moveremos en la confluencia de los siglos XIX y XX y hablaremos principalmente de las dos últimas generaciones de propietarios del palacio – de Francisco Clam-Gallas, su esposa María y sus siete hijas."
+                },
+                {
+                    "audio": "/es/chateau/es_room_2.mp3",
+                    "number": 2,
+                    "img": "/chateau/kuchyne.jpg",
+                    "title": "Cocina",
+                    "card_label": "Una vez más buenos días, le damos a usted la bienvenida al castillo de Frýdlant.",
+                    "button": "Visita",
+                    "text": "Una vez más buenos días, le damos a usted la bienvenida al castillo de Frýdlant. Ha elegido la ruta del castillo que nos llevará a través de la historia más reciente. Durante la visita nos centraremos en la época en la que el castillo era propiedad del penúltimo propietario, František Clam-Gallas, que vivió aquí en el palacio hasta su muerte en 1930. Es sobre él y sobre su familia, sobre los que hablaremos en esta ruta que nos llevará por todos los pisos del palacio.\n\nComenzamos nuestro recorrido de manera poco convencional, en la cocina del castillo. Forma parte de la planta baja, que en su conjunto servía de fondo operativo. No sólo había una cocina y una despensa, sino también un comedor de servicio, las oficinas del mayordomo, gañán y otros espacios que servían a los empleados.\n\nLa cocina en esta forma presenta las postrimerías del siglo IXX. La cocina fue la primera en cobrar vida en el castillo. Alrededor de las cuatro de la mañana ya se calentaba la estufa y comenzaba la preparación del desayuno. El cocinero y el personal auxiliar de cocina se levantaban como primeros del personal del castillo y comenzaban a preparar el menú aprobado por la señora de la casa, en nuestro caso la condesa Maria Hoyos Sprinzenstein, la esposa del ya mencionado František Clam-Gallas.\n\nLa cocina está muy modernamente equipada. Puede ver aquí no solo la estufa principal con horno, sino también una parrilla con una secadora y una pequeña estufa de mano en el medio.\n\nEn las paredes, vitrinas y mesas de trabajo se aprecia una gran colección de vajilla de cobre y de gres.\n\nEl funcionamiento de la cocina consumía mucha madera, que ea neceserio mantenerla cerca, así que detrás de las ventanas hay una leñera a todo lo largo del castillo. Allí se almacenaba la leña y por allí se entraba a las despensas, o también, a la pastelería, una pequeña cocina donde se preparaban los postres. A la pastelería echaremos un vistazo por la ventanilla de entrega subiendo a la primera planta del castillo.\n\nEl calor que producía la estufa también calentaba el agua, que se bombeaba al depósito del segundo piso del palacio, donde se encontraba el cuarto de baño principal (allí también nos llevará la ruta). El agua calentada salía por una tubería que se ha conservado y la podéis ver encima de nosotros. Hay que añadir que el equipamiento de la cocina es original, asimismo todos los espacios del palacio están equipados con muebles originales, lo que no es habitual en todos los castillos checos. Sin embargo, Frýdlant tuvo suerte y su equipamiento no fue retirado después de la guerra.\n\nEn cuanto a la cocina, queda añadir que la comida, una vez preparada, la subían por la escalera lateral hasta el comedor. Allí también subiremos nosotros, pasando por la despensa."
+                },
+                {
+                    "audio": "/es/chateau/es_room_3.mp3",
+                    "number": 3,
+                    "img": "/chateau/pripravna.jpg",
+                    "title": "Pasillo frente a la pastelería",
+                    "card_label": "Nos encontramos en el pasillo por el que solo pasaban de los sirvientes, por eso no verá aquí nada de equipamiento notable.",
+                    "button": "Visita",
+                    "text": "Nos encontramos en el pasillo por el que solo pasaban de los sirvientes, por eso no verá aquí nada de equipamiento notable. De aquí los criados se dirigían o bien a la pastelería, a la terraza exterior, o bien a las salas representativas de la primera planta, donde vamos a entrar en un momento.\n\nEstamos parados frente a la pastelería que estaba conectada con la cocina. Aquí podemos ver una parte del servicio de mesa y otras cosas relacionadas con la comida, incluidos los menús preparados por la señora de la casa que ya se comentaron en la cocina. La sala de la pastelería, donde se preparaban postres y bebidas frías y calientes, dispone de una ventanilla de reparto por la que el personal distribuía la comida, que por la puerta principal se llevaba al comedor contiguo.\n\nFíjese en las inscripciones en latín en el techo. Ambas están destinadas a los sirvientes y libremente traducidos significan: 'Refrena tu lengua', y el otro 'Entra siempre con calma, sin malicia ni ira'. Entonces, pensara lo que pensara un criado de sus amos, detrás de esa puerta nadie podía darse cuenta de ello."
+                },
+                {
+                    "audio": "/es/chateau/es_room_4.mp3",
+                    "number": 4,
+                    "img": "/chateau/erbovni_sal.jpg",
+                    "title": "Sala de juego",
+                    "card_label": "Todos los palacios de más un piso tenían una distribución de habitaciones muy similar.",
+                    "button": "Visita",
+                    "text": "Todos los palacios de más un piso tenían una distribución de habitaciones muy similar. La planta baja, como ya hemos comentado, era el trasfondo técnico del palacio. En el primer piso había salas representativas y el apartamento del propietario. Un piso más arriba se hallaban dormitorios y habitaciones que las habitaciones de la parte femenina de la familia y en el desván las habitaciones de los niños, los sirvientes o las habitaciones para las visitas.\n\nIgual fue aquí, en Frýdlant.\n\nAcabamos de subir al primer piso, directo a la parte representativa. Nos hallamos en una habitación que se usaba como sala de juegos y la domina una gran mesa de billar. La pusieron aquí solo en las últimas generaciones; antes de eso, estaba ubicada en el castillo alto, en la sala principal. Sin embargo, František Clam-Gallas ya no vivía en el castillo alto y de residencia usaba estas instalaciones del palacio. El castillo en sí sirvió como un museo, museo-castillo, el más antiguo de Europa Central, desde 1801.\n\nEn esta sala, es el momento de mencionar toda la historia del castillo y el palacio de Frýdlant. Para ello serirá de gran ayuda la decoración del techo, donde en las lunetas individuales podemos encontrar a todas las familias a las que perteneció la zona. No es de casualidad que haya un techo con toda la historia de Frýdlant precisamente en esta sala, por la que pasaban todos los visitantes que acogía Francisco – se trataba no solo de una manera de anunciar que el linaje noble al que el castillo pertenece es antiguo, sino también que tiene una rica historia asociada con otras casas famosas.\n\nEn la primera luneta vemos el escudo de armas de la casa Bibrštejn, propietaria del castillo durante unos increíbles trescientos años y que en algún momento del siglo XVI comenzó la reconstrucción renacentista del antiguo castillo gótico. Después de que se extingieran por línea paterna, la casa Redern compró la propiedad a la cámara real.\n\nAunque no estuvieron mucho tiempo aquí, en ese poco tiempo consiguieron no solo completar la reconstrucción renacentista del castillo, sino también construir este castillo bajo, que no cumplió la función de edificio representativo para ellos, sino que sirvió como oficinas y apartamentos de servidumbre.\n\nDespués de ellos, llegó el propietario del castillo más famoso, Albrecht de Valdštejn. Aunque aquí en el castillo solo se documentan cuatro estancias de este famoso guerrero, fue capaz de proteger estratégicamente las tierras de Frýdlant de tal manera que ninguna guerra lo tocara, y es por eso que la finca pasó a llamarse 'Tierra Feliz'. Valdštejn era un hombre exitoso, rico y ambicioso, por lo tanto, peligroso para el gobernante supremo del país, razón por la cual finalmente fue asesinado en Cheb, traicionado por su propia gente.\n\nEntre ellos estaba Matías de Gallas, quien como recompensa recibió de parte del rey no solo la suma de aproximadamente 500.000 florines, sino también la propiedad de Frýdlant. Paradójicamente, no disfrutó mucho de Frýdlant, porque una tropa sueca que tomó el castillo se instaló en él varias veces a lo largo de las décadas y luego mejoró su sistema de fortificación para que nadie más pudiera conquistarlo.\n\nGallas les pagó una fuerte 'tarifa de quema' para tratar decentemente su propiedad recién adquirida; quizás gracias a ello, ni el castillo ni el palacio sufrieron daños ni devastación significativos.\n\nCuando los Gallas se extingieron por línea paterna, la casa Gallas se fusionó con la de Clam y nació el apellido común de los dos linajes: Clam-Gallas, y así Frýdlant tuvo sus últimos propietarios, que permanecieron aquí hasta 1945, cuando se nacionalizó el castillo sobre la base de los decretos del presidente Beneš. Los últimos años, hasta 1945, las tierras señoriales pertenecieron a Clotilda de Clam-Gallas, una de las siete hijas de Francisco de Clam-Gallas.\n\nEse fue un breve resumen de la historia de la finca. Si quieren saber más, les recomiendo visitar también la ruta del castillo antiguo.\n\nA título informativo, los muebles y accesorios que verán durante el recorrido de hoy son desde el siglo XVI. hasta principios del siglo XX.\n\nLa casa se complementaba constantemente con cosas que en un momento dado estaban sujetas a la vida moderna. Pero en Frýdlant también se cuidó mucho la antigüedad y las cosas memorables que tenían que ver con los antepasados. Las cosas más antiguas son del castillo superior (en el caso de esta habitación, por ejemplo, cofres y un aparador renacentista), y la habitación fue amueblada con ellos por la madre de Francisco C.G., la Doña Clotilda, quien, junto con su esposo Eduardo, modernizó el palacio bajo a su forma actual."
+                },
+                {
+                    "audio": "/es/chateau/es_room_5.mp3",
+                    "number": 5,
+                    "img": "/chateau/jidelna.jpg",
+                    "title": "Comedor principal",
+                    "card_label": "La sala de juego estaba conectada con otro espacio social, con el comedor principal del palacio.",
+                    "button": "Visita",
+                    "text": "La sala de juego estaba conectada con otro espacio social, con el comedor principal del palacio. Es un espacio separado que se agregó al edificio del palacio tan solo en la segunda mitad del siglo XIX. Conectaba con una gran terraza, donde también se podía cenar cuando hacía buen tiempo. El comedor tiene un hermoso ventanal, donde nos encontraremos con los escudos de armas de la familia en los rellenos, que nos acompañarán durante todo el recorrido. El escudo de armas combina los símbolos de las dos familias originales, los Clams austriacos y los Gallas italianos, en una parte encontramos un águila de los Gallas y un travesaño dorado, y en la otra un gato Clam sobre un campo plateado y negro. En el centro hay una virgen con cuernos en la mano. Desde la ventana y la terraza se podía ver el antiguo jardín del castillo junto al río Smědá.\n\nLa sala está revestida de madera y trofeos de caza, en el revestimiento de madera hay incrustaciones con motivos de Fe, Esperanza, Justicia y Amor. Los casetes en el techo representan a la deidad celestial Júpiter, el gobernante del Panteón, y Mercurio, el mensajero y dios del comercio, Justicia, la diosa ciega de la justicia y Fortuna, la diosa del destino. La estufa de mayólica presenta motivos similares y, junto a ellos, un lavabo de estaño para lavarse las manos.\n\nEl comedor se usaba varias veces al día. Los desayunos eran en su mayoría estilo buffet, donde cada uno toma lo que quiere.\n\nA ella asisten principalmente los hombres y mujeres solteras. A las mujeres casadas el desayuno se les sirve en los salones matinales.\n\nPor lo general, ni siquiera se encontraba a los niños en la mesa: cenaban por separado con su preceptora y no llegaban a la mesa con sus padres hasta ser mayores. A la una y media, sonaba un gong llamando al almuerzo, la comida en la que participaban ya todos los adultos. Dependiendo del clima, se podía servir en el interior o al aire libre. La comida más importante del día era la cena, un evento social. Eso suponía vestir la ropa formal. Los visitantes generalmente se sumaban a la familia. También se servían aperitivos entre estos platos principales, alrededor de las once y las cinco, pero en salones privados o salas de fiestas. La pastelería, por la que pasamos de camino a la sala de juegos, preparaba no solo postres, sino también café, té o chocolate caliente, y en los días cálidos, limonada casera o té helado. También se usaba para calentar rápidamente la comida cuando era necesario.\n\nDespués de la comida, la compañía dejaba la mesa y se iba al salón principal, que será la siguiente parte de nuestro recorrido."
+                },
+                {
+                    "audio": "/es/chateau/es_room_6.mp3",
+                    "number": 6,
+                    "img": "/chateau/modry_salon.jpg",
+                    "title": "Sala azul",
+                    "card_label": "Esa lujosa habitación con una gran alfombra con motivos persas y empapelado de cuero es la habitación principal del primer piso.",
+                    "button": "Visita",
+                    "text": "Esa lujosa habitación con una gran alfombra con motivos persas y empapelado de cuero es la habitación principal del primer piso. Dado que todos los visitantes venían aquí, el énfasis estaba en los muebles que mostraban que la familia tenía dinero. Por eso encontrarán aquí una combinación de confort y lujo de la época, que también incluye piezas de colección antiguas, en este caso cerámicas belgas y holandesas, y pinturas holandesas del siglo XVII. La chimenea está en colores de los Clam-Gallas: al fin y al cabo, con esta combinación de amarillo y azul nos encontramos en varias habitaciones.\n\nSe podía ingresar al salón principal directamente desde el pasillo, que está detrás de la puerta abierta y que está conectado a la escalera de caracol que conectaba todas las plantas del pasillo. Igualmente se podía entrar desde la antecámara, adonde se les llevaba a los visitantes y que está justo detrás de la otra puerta. Al igual que se entraba desde la terraza conectada con el comedor, desde la cual se puede ver claramente no solo la fábrica de cerveza y el río Smědá, sino también el sistema de defensa de todo el edificio, las zanjas y los ángulos de murallas agudos que construyeron aquí los Suecos durante la Guerra de los Treinta Años, cuando tomaron el palacio perteneciente a Matías de Gallas.\n\nEl salón sirvió a la familia de Francisco del Clam-Gallas como salón principal, donde se reunían no solo los visitantes sino también todos los miembros de la familia. En el caso de Francisco Clam-Gallas es decir, todas sus siete hijas. Para ellas y para su esposa María Hoyos Sprinzanstein estaba reservado otro piso del palacio, así como una parte del palacio más nuevo, llamada ala del castellano, pero si querían pasar un tiempo juntos, este era el salón principal. Asimismo servía de sala de fumadores, sala de lectura y sala de descanso. Más tarde, después de la introducción de la electricidad, también se colocó aquí una radio, por lo que realmente se trataba de una sala de estar con todas las comodidades modernas."
+                },
+                {
+                    "audio": "/es/chateau/es_room_7.mp3",
+                    "number": 7,
+                    "img": "/chateau/knihovna.jpg",
+                    "title": "Antecámara – la biblioteca pequeña",
+                    "card_label": "Estamos en la antecámara, donde antes se traía a los visitantes.",
+                    "button": "Visita",
+                    "text": "Estamos en la antecámara, donde antes se traía a los visitantes. Desde aquí era posible continuar o bien a las salas representativas por las que acabamos de pasar, o bien a una suite privada, el apartamento de Francisco Clam-Gallas, que constaba de una sala de recepción, un despacho y un dormitorio.\n\nLos visitantes venían del corredor detrás de esta puerta. En el palacio entraban por la escalera principal o por una terraza. Nosotros hoy hemos subido por la entrada de los sirvientes. Los visitantes y la familia, por supuesto, entraban por otro lado.\n\nEn este espacio también encontramos paredes empapeladas, no obstante, el empapelado no es de papel sino de cuero pintado (actualmente en el taller de restauración) y también una biblioteca de consulta, que es solo una pequeña fracción del fondo de la biblioteca ubicado en Frýdlant. La biblioteca principal del año 1674 se encuentra en el castillo, donde fue construida por Francisco Fernando de Gallas. La biblioteca la complementaron luego los sucesores de la familia hasta la primera mitad del siglo XX, y hoy en día se encuentran en ella unos 16.000 libros (15.932 para ser exactos) del siglo XVI al XX."
+                },
+                {
+                    "audio": "/es/chateau/es_room_8.mp3",
+                    "number": 8,
+                    "img": "/chateau/prijimaci_salon.jpg",
+                    "title": "Salón de recepción",
+                    "card_label": "Finalmente llegamos a los salones privados, que estaban habitados por el ya mencionado Francisco de Clam-Gallas.",
+                    "button": "Visita",
+                    "text": "Finalmente llegamos a los salones privados, que estaban habitados por el ya mencionado Francisco de Clam-Gallas. El penúltimo propietario del castillo nació en 1854. Nunca logró continuar la famosa carrera militar de su padre, aun así llegó a ser teniente en el regimiento de dragones. Sin embargo, lo que es más importante, se convirtió en miembro de la Cámara alta y el camarero mayor. Era dueño de todas las posesiones de los Clam-Gallas - en este caso Liberec, Frýdlant, Grabštejn y Lemberk. Tuvo siete hijas con su esposa María. Cuando quedó claro que no tendría un sucesor masculino, dividió la propiedad entre sus hijas. Una de las hijas, que llevaba el nombre de su abuela Clotilda, se hizo cargo de la gestión de las tierras señoriales de Frýdlant y siguió siendo su última propietaria hasta 1945.\n\nHablaremos más sobre Francisco en su despacho, que es la siguiente habitación. Aquí en el salón, que pertenece a un muy buen ejemplo del estilo neorrenacentista, en el que se reconstruyó el castillo bajo el padre de Francisco, Eduardo Clam-Gallas llamaré su atención algunos cuadros que representan a los propietarios importantes del castillo y palacio de Frýdlant.\n\nAquí encontrarán a Melchor de Redern con su hijo Cristóbal, a cargo de ellos no solo se realizó la reconstrucción y modernización del castillo superior, sino también la finalización de la capilla y este palacio bajo, que originalmente se usaba solo como un edificio administrativo.\n\nProbablemente no es necesario presentar a Alberto de Valdstein. Un cierto papel en su muerte en Cheb desempeñó el hombre cuyo retrato vemos aquí – Matías Gallas que después de la muerte de Valdstein recibió por parte del emperados el señorío de Frýdlant.\n\nKristian Filip Clam-Gallas es el primero en utilizar el nombre combinado de los Clam u de los Gallas. La unión de las familias fue luego confirmada por la emperatriz María Teresa. Era el bisabuelo de Francisco."
+                },
+                {
+                    "audio": "/es/chateau/es_room_9.mp3",
+                    "number": 9,
+                    "img": "/chateau/pracovna.jpg",
+                    "title": "El despacho del conde",
+                    "card_label": "Otra habitación privada es el despacho de Francisco.",
+                    "button": "Visita",
+                    "text": "Otra habitación privada es el despacho de Francisco. A diferencia del salón contiguo, donde recibía visitas, esta ya era la primera sala verdaderamente privada a la que solo él tenía acceso. Además del escritorio de trabajo, aquí también nos encontramos con otra parte de la biblioteca. Otra pequeña cosa interesante - el nombre de Karel Jaromír Erben, un escritor y poeta checo. El autor de Kytice, un libro de poesía, está relacionado con el palacio de Frýdlant. Trabajó aquí de archivero y también la colección de libros estaba a su cargo. Por cierto, también fue el primer creador del libreto, en realidad el texto guía para la entonces exposición abierta del Castillo Superior.\n\nPero volvamos a la persona de Francisco Clam-Gallas. Pasó su infancia en Bohemia y Austria. Tenía una institutriz inglesa que lo cuidaba en el espíritu de las tradiciones familiares. Estudió historia y derecho. El padre de siete hijas era muy popular en su finca por su carácter. Era justo y tenía un gran sentido del humor. František apoyó financieramente a las asociaciones culturales locales, como un verdadero aristócrata, le interesaban los deportes y no es de extrañar que fuera un gran promotor del turismo y de las rutas de senderismo emergentes en las montañas Jizera. En los bosques que pertenecían a la hacienda permitió no sólo nuevas rutas, sino también la construcción de albergues para turistas. Sabemos que estuvo entre los promotores del automovilismo y que él mismo era muy competente técnicamente.\n\nDesafortunadamente, todavía vivía para ver las reformas agrarias y experimentó la nacionalización de sus propiedades ancestrales. Murió en 1930. Ya nos hemos familiarizado con el escudo de armas de la casa, así que mencionemos rápidamente su lema familiar: Fieles al destino, sigámoslo con valentía. (en las fotos sobre la mesa aparecen Francisco con Maria; Francisco con un tiro de cuatro, esta vez no caballos, sino cuatro de sus hijas; el padre de Francisco, Eduardo)."
+                },
+                {
+                    "audio": "/es/chateau/es_room_10.mp3",
+                    "number": 10,
+                    "img": "/chateau/loznice.jpg",
+                    "title": "Dormitorio",
+                    "card_label": "Aquí, en la última habitación de la suite de hombres, finalmente puedo presentarles a Francisco en un retrato que lo muestra ya como un caballero muy mayor.",
+                    "button": "Visita",
+                    "text": "Aquí, en la última habitación de la suite de hombres, finalmente puedo presentarles a Francisco en un retrato que lo muestra ya como un caballero muy mayor. Además de él, también encontramos una foto de sus siete hijas. Ya hemos hablado de una de ellas, Clotilda, que se hizo cargo del patrimonio familiar de manos de su padre en tiempos difíciles. Más mencionaremos en el piso de damas, adonde nos dirigiremos en un momento. Un dato rápido más. No hay baño en este piso, pero hay dos inodoros en él.\n\nUn dato rápido más. No hay baño en este piso, pero hay dos inodoros en él.\n\nEn el piso de arriba, ya hay un baño grande y moderno, que Francisco usaba, así como su esposa e hijos. En las habitaciones sin baños había al menos mesas de lavado con cántaros y piletas donde los sirvientes aplicaban agua caliente y se podía enjuagar el cuerpo directamente en las habitaciones.\n\nEn la pared vemos un tapiz del siglo XVII.\n\nLuego subimos las escaleras privadas que conectaban los aposentos de señoras y caballeros y formaban un atajo entre las dos plantas."
+                },
+                {
+                    "audio": "/es/chateau/es_room_11.mp3",
+                    "number": 11,
+                    "img": "/chateau/chodba.jpg",
+                    "title": "Encima de las escaleras",
+                    "card_label": "Llegamos al piso de damas.",
+                    "button": "Visita",
+                    "text": "Llegamos al piso de damas. Desde esta parte se podía salir a otra terraza, que está conectada por unas escaleras a la terraza detrás del comedor, por esta puerta se llegaba al ala llamada „del castellano“, donde estaba el apartamento privado de Clotilda y originalmente las habitaciones para las visitas y las habitaciones de algunas de las hijas, hermanas de Clotilda. Pero nosotros nos dirigiremos al corredor llamado real, que recibió su nombre gracias a los retratos de miembros de las familias reales europeas."
+                },
+                {
+                    "audio": "/es/chateau/es_room_12.mp3",
+                    "number": 12,
+                    "img": "/chateau/kvetinovy_salon.jpg",
+                    "title": "Salón de flores",
+                    "card_label": "Comenzaremos nuestro recorrido por los cuartos de damas aquí en el salón principal de este piso.",
+                    "button": "Visita",
+                    "text": "Comenzaremos nuestro recorrido por los cuartos de damas aquí en el salón principal de este piso. Al igual que con el piso inferior, esta parte también fue reconstruida integralmente por los padres de Francisco, Eduardo y Clotilda. Las habitaciones, utilizadas hasta entonces como oficinas, recibieron un nuevo aspecto y función. También las unió el color azul, que es absolutamente dominante en este piso y se puede encontrar en casi todas partes, en papel tapiz y muebles. La iniciadora de la reconstrucción, Clotilda, se puede encontrar en la imagen entre las ventanas. A su esposo, el padre de Francisco, Eduardo, lo podemos ver en este retrato ecuestre. Fue durante sus vidas, cuando todo el castillo pasó por una reconstrucción con modificaciones de los espacios interiores al estado que vemos hoy.\n\nEntre otros retratos, podemos mencionar a una de las hijas, la segunda Eleonora, por cierto, la abuela del político y consejero de Václav Havel, propietaria de los castillos de Orlík y Dřevíč, Karel Schwarzenberg, quien seguramente es bastante conocido, incluso fuera de nuestro país.\n\nLa sala se utilizaba para organizar fiestas, meriendas a las cinco, que no sólo se organizaban para tomar una taza de té, una bebida favorita, sino que también incluían alguna actividad para los invitados, generalmente algún tipo de actuación musical o una conferencia profesional. A través de la puerta abierta también podemos ver una referencia clásica a la forma aún barroca del palacio, la llamada enfilada. Abriendo la puerta se da una vista de todo el piso. Sin embargo, en la época de los padres de Francisco, las habitaciones ya se usaban como unidades de vivienda separadas, las puertas solo estaban abiertas en apartamentos individuales y se entraba desde el corredor real adyacente.\n\nSolo como información, la enfilada más larga de la República Checa la tiene el palacio de Valtice (es de 80 metros), no obstante, la más larga de Europa se encuentra en el palacio de Schonbrunn.\n\nLa enfilada era un eje recto desde el que se podía ver de un extremo al otro del palacio, normalmente terminando en un gran cuadro, un espejo o una ventana con vistas.\n\nEn nuestro caso era la ventana de la cabecera de esta habitación, y cuando lleguemos al final de la misma y nos demos la vuelta, comprobarán Ustedes mismos cómo se concibió la intención original.\n\nPasearemos hoy por la enfilada, tendrán oportunidad de ver sus habitaciones individuales y nos detendremos en algunas de ellas."
+                },
+                {
+                    "audio": "/es/chateau/es_room_13.mp3",
+                    "number": 13,
+                    "img": "/chateau/loznice_damske1.jpg",
+                    "title": "La primera habitación",
+                    "card_label": "La primera habitación era originalmente un dormitorio.",
+                    "button": "Visita",
+                    "text": "La primera habitación era originalmente un dormitorio. Así lo demuestra no sólo la puerta tapiada del pasillo para mayor intimidad, sino también el bien conservado sistema de biela y campanilla que da a la habitación de la doncella. Pueden verlo junto a la pintura en el caballete. En los próximos años, estaremos reinstalando el palacio, por lo que el dormitorio volverá a esta habitación, hoy es uno de los ejemplos del salón privado de descanso. Todas las habitaciones ahora están equipadas con muebles y pinturas de los siglos 18 y 19. La sala está presidida por grandes lienzos barrocos con un tema de pastor y un espejo veneciano de cristal checo.\n\nHoy en día, todo el piso de damas tiene un solo dormitorio, pero en el pasado había al menos tres. Aquí no solo vivía la esposa de Francisco, sino también de sus hijas mayores. Las otras hijas tenían entonces sus propias habitaciones en el desván, y las habitaciones del ala castellana también estaban destinadas a dormir.\n\nEl dormitorio de hoy está presidido por una cama y un reclinatorio de oración destinados a la oración privada de la tarde.\n\nA su alrededor se agrupan imágenes de temática religiosa, la mayor de las cuales es una copia de una imagen de romería que representa a la virgen negra. Se le atribuyeron propiedades milagrosas muy fuertes. (Su color solía derivarse de textos bíblicos; por ejemplo, el Cantar de los Cantares menciona a la Virgen en el texto con las palabras: Soy negra, pero hermosa, o Soy negra, pero amorosa. En la época gótica, eran populares las vírgenes negras hechas de madera de ébano o las imágenes con incrustaciones de piedra negra.)\n\nUna gran mampara que se usaba para tener privacidad al cambiarse de ropa domina el otro lado de la habitación. Entre las pinturas aquí, también se pueden mencionar las efigies sobre la puerta. En una de ellas, está Cristiano Cristóbal Clam-Gallas, el bisabuelo de Francisco, el primero de los propietarios de Frýdlant, que empezó a vivir aquí en el palacio y no en el castillo alto. Durante su vida apoyaba el arte, él mismo se dedicaba a la pintura y fue él quien abrió al público el museo del castillo aquí en Frýdlant en 1801.\n\nEl balneario cercano, Libverda, fundado por los Gallas, prosperó durante su mandato y fue necesario idear un programa cultural para los huéspedes del balneario. Es por eso que Frýdlant fue abierto al público, y en el castillo alto se presentó no solo la pinacoteca familiar, sino principalmente las colecciones asociadas con Albrecht de Valdstein.\n\nEl grabado del otro lado representa a Francisco Antonio Spork, asociado, por ejemplo, con el hospital barroco de Kuks."
+                },
+                {
+                    "audio": "/es/chateau/es_room_14.mp3",
+                    "number": 14,
+                    "img": "/chateau/stanovy_salon.jpg",
+                    "title": "Salón matutino",
+                    "card_label": "Junto al dormitorio había un salón matutino.",
+                    "button": "Visita",
+                    "text": "Junto al dormitorio había un salón matutino. Aquí se podía servir el desayuno y al mismo tiempo servía de despacho, donde se atendía la correspondencia después del desayuno. Era una habitación privada que formaba parte de un apartamento, un apartamento que pertenecía solo a su dueña. La sala tiene la forma de una tienda de campaña, que estuvo de moda en el siglo XIX.\n\nAquí también encontrarán los restos de un sistema de biela y campanilla. El escritorio se coloca cerca de la ventana debido a la luz, pueden encontrar fotos de miembros de la familia en él. El más interesante es probablemente el retrato fotográfico conjunto de las hijas de Francisco, también encontramos a la abuela Clotilda y otros miembros de la familia. Las hijas (Christine, Eleonora, Eudardine, Gabriele, María, Clotilda y Sophía) se casaron, excepto Clotilda, que se hizo cargo de sus padres. Gracias a ellos, la familia Clam-Gallas se conectó, por ejemplo, con Kinský, Schwarzenberg, Auersperg o incluso con la casa morava Podstatský Lichtenstein.\n\nEudardine fue la única que no se casó con un aristócrata y contrajo matrimonio con el Dr. Winkelnbauer, a quien conoció mientras trabajaba de enfermera durante la guerra.\n\nFrancisco dividió todas las propiedades familiares entre sus hijas y, por lo tanto, los castillos pertenecientes a la casa de Clam-Gallas, como Grabštejn, Lemberk, Libverda, pasaron a las manos de sus últimas dueñas. Ya mencionamos que Clotilda heredó Frýdlant. Ella misma fue expulsada en 1945. Vivió la segunda mitad de su vida en el extranjero, donde también murió en 1970. Ella fue la última dueña de esta propiedad, pero no está enterrada en Hejnice, donde se encuentra la tumba de Clam-Gallas. El último miembro de la familia enterrado allí es la esposa de Francisco, María Hoyos Sprinzenstein.\n\nPor otro cuarto, que no tiene empapelado y que probablemente servía de cuarto de la doncella pasamos al comedor pequeño."
+                },
+                {
+                    "audio": "/es/chateau/es_room_15.mp3",
+                    "number": 15,
+                    "img": "/chateau/salon_damske.jpg",
+                    "title": "Comedor pequeño",
+                    "card_label": "La sala revestida de madera está amueblada como comedor.",
+                    "button": "Visita",
+                    "text": "La sala revestida de madera está amueblada como comedor. El techo está revestido con cerámica principalmente de Holanda y China, pueden encontrar diversos platos, jarras y jarrones. Elementos orientales, muy populares en la época, aún se pueden ver en la vitrina.\n\nLos muebles dominantes son estos dos joyeros. Uno con motivos de animales, el otro con motivos de castillos, ambos en combinación de madera, marfil y carey. Además de ellos, encontramos una mesa puesta, y junto a ella también un gong, que servía para llamar a la comida. Por lo general, se tocaba media hora antes de que se sirviera la comida, para que hubiera tiempo de vestirse adecuadamente y prepararse para la comida. También son interesantes los pequeños espejos venecianos, que fueron diseñados como candelabros. Se suponía que la luz reflejada en ellos duplicaba la iluminación de la habitación. Hoy percibimos este espacio con paneles de madera como un comedor, pero por datos históricos e inventarios sabemos que este espacio solía ser un dormitorio, es decir, el dormitorio de las hijas mayores de Francisco y su esposa María Hoyos Sprinzenstein, quienes junto con María ocupaban el piso de damas. Un recuerdo del dormitorio es una muesca en el revestimiento de madera cerca de la ventana, donde se registró el año y la entonces altura de su hija Clotilda.\n\nAl dormitorio correspondería también la ubicación lógica del vestidor y el baño, que ahora vamos a ver. Solo para su información - si miran hacia atrás a través de la enfilada ahora, verán el final con la ventana del que hablamos antes."
+                },
+                {
+                    "audio": "/es/chateau/es_room_16.mp3",
+                    "number": 16,
+                    "img": "/chateau/prevlekarna.jpg",
+                    "title": "Vestuario",
+                    "card_label": "Hemos llegado al final de la enfilada.",
+                    "button": "Visita",
+                    "text": "Hemos llegado al final de la enfilada. La habitación delante del cuarto de baño servía de guardaropa y vestidor. Por la puerta pueden echar un vistazo al cuarto de baño que es de aproximadamente cien años de antigüedad, es una de las habitaciones más interesantes. Al cuarto le domina una bañera, junto a la que encontrarán no solo una ducha, sino también un baño de burbujas. Ese se conseguía sumergiendo la tabla de madera que pueden ver encima la bañera, la bomba condujo aire a la bañera a través de un tubo de goma, de esa manera podría darse un baño de burbujas.\n\nA la izquierda de la bañera hay un tanque de agua caliente. El agua caliente provenía de la cocina del castillo en la planta baja, donde se calentaba y luego se bombeaba al tanque de almacenamiento. Gracias a que la cocina estaba en funcionamiento todo el día, había suficiente agua caliente para todos.\n\nEl rincón empotrado ocultaba entonces el inodoro, por lo que tenían toda la comodidad de aquella época en el baño.\n\nA la izquierda, debajo de la ventana, pueden ver una de muchas mesas de lavado. Estas se encontraban en habitaciones individuales donde vivían los visitantes u otros miembros de la familia. En ella encontrarán no solo una jarra de agua y un lavabo con la inscripción Friedlant, sino también jaboneras o goteros para cepillos de dientes.\n\nSaliendo del vestuario, verán una vitrina a su izquierda, donde encontrarán una colección de cubiertas de cabeza de mujer, completada con fotos familiares, frascos de perfume, bolsos y similares.\n\nLuego nos dirigimos al corredor real, que recibió su nombre por las grandes pinturas que representan a los monarcas europeos.\n\nDesde allí también se pueden contemplar las instalaciones técnicas para la servidumbre, con aseo propio y otras mesas de lavado y vajillas de porcelana."
+                },
+                {
+                    "audio": "/es/chateau/es_room_17.mp3",
+                    "number": 17,
+                    "img": "/chateau/chodba.jpg",
+                    "title": "Corredor Real",
+                    "card_label": "Una estrecha escalera, por debajo de la cual hay una salida a la terraza exterior, nos llevaría a la buhardilla, donde proseguirá nuestro recorrido, pero llegaremos hasta allí por la escalera de caracol principal.",
+                    "button": "Visita",
+                    "text": "Una estrecha escalera, por debajo de la cual hay una salida a la terraza exterior, nos llevaría a la buhardilla, donde proseguirá nuestro recorrido, pero llegaremos hasta allí por la escalera de caracol principal.\n\nEn las ventanas pueden fijarse en las vidrieras. Una representa el castillo de Frýdlant, y en la otra encontramos de nuevo el escudo de armas de los Clam-Gallas, del que ya hemos hablado hoy.\n\nPasaremos por el pasillo pasando las habitaciones de la enfilada y luego les pediré que suban la escalera de caracol que verán a su izquierda."
+                },
+                {
+                    "audio": "/es/chateau/es_room_18.mp3",
+                    "number": 18,
+                    "img": "/chateau/podkrovi.jpg",
+                    "title": "Ático",
+                    "card_label": "No todos los castillos tienen la oportunidad de mostrar a sus visitantes todos los pisos.",
+                    "button": "Visita",
+                    "text": "No todos los castillos tienen la oportunidad de mostrar a sus visitantes todos los pisos. Frýdlant es una excepción en esto, y sus espacios bien conservados bajo el techo permiten ver varias habitaciones para niños, sirvientes y visitantes. En la cabecera de este espacio se encuentra una de las habitaciones infantiles. Seguramente traerá su atencióan de todos ustedel el empapelado de la habitación, que en realidad es una colección de chistes de una revista francesa. En la habitación nos encontramos con algunos juguetes, como un carrito infantil con un caballo, en el que uno de los niños puede meterse y así disfrazado puede llevar a otro niño. Luego pueden ver un juego de mesa. En el estante de juguetes, observen el modelo del castillo de Frýdlant.\n\nLa habitación está dividida en dos partes, primera de ellas es una sala de juegos y luego un pequeño estudio detrás de la cama.\n\nLos niños estaban al cuidado de una maestra o institutriz que, por lo general, tenía su propia habitación cerca. Hablamos sobre el hecho de que Francisco tenía siete hijas, no obstante la habitación que están viendo está decorada de forma bastante pueril. Es que fue utilizado por los hijos de una de las hijas de Francisco, Eleonora, es decir, los nietos que vinieron aquí con su madre y otros hermanos para un apartamento de verano. Eleonora, tuvo cuatro hijos y una hija de dos matrimonios. Más tarde, Francisco hizo renovar el palacete de Libverda para ellos y la habitación se convirtió en una habitación de invitados.\n\nA la izquierda de la puerta de la habitación pueden ver una pequeña puerta por la que se entraba al desván del palacio. Hasta el día de hoy se conservan en él varias casetas de madera, que servían no solo para guardar objetos, sino también de alojamiento para la servidumbre."
+                },
+                {
+                    "audio": "/es/chateau/es_room_19.mp3",
+                    "number": 19,
+                    "img": "/chateau/lokajna.jpg",
+                    "title": "Cuarto de lacayo",
+                    "card_label": "Justo al lado del cuarto de niños, pueden ver uno de los apartamentos de los sirvientes.",
+                    "button": "Visita",
+                    "text": "Justo al lado del cuarto de niños, pueden ver uno de los apartamentos de los sirvientes. Este está amueblado como un cuarto de lacayo. En el cuarto del lacayo, que atendía a los miembros de la familia y servía a la mesa, encontramos una amplia colección de uniformes de servidumbre bien conservados para diversas ocasiones. En la puerta cuelga un sencillo abrigo de invierno, y en el armario se pueden ver los uniformes que se utilizaron en el desempeño del deber. Los uniformes llevan correas con el escudo Clam-Gallas. Otro juego de ropa cuelga en la puerta del armario. Además de uniformes, aquí también encontrarán equipaje de viaje, nuevamente con el emblema del propietario, y gorras para varias ocasiones, en la cómoda, por ejemplo, cubiertas de cabeza del conductor.\n\nPor al lado de los depósitos y otras puertas que llevan hacia el techumbre pasamos hasta un pequeño salón del ático que podría haber sido utilizado por los visitantes. El dormitorio correspondiente al salón estaba detrás de la puerta que ven a la izquierda de la habitación. Después de ver el salón pasaremos a la segunda parte del ático, desde donde echaremos un vistazo a las habitaciones donde originalmente vivían las princesas menores y sus instututrices.\n\nHoy, el local está acondicionado como un salón de música, conectado a un pequeño dormitorio para la institutriz. Las escaleras al final del pasillo nos llevarían de regreso al corredor real. Si aún recuerdan las vidrieras de Frýdlant y el escudo de armas Clam-Gallas, están justo en el rellano de esta escalera de conexión. Sin embargo, pasaremos por la puerta al final del pasillo del ático a la última habitación que visitaremos hoy en el palacio, a saber, la capilla del palacio. Por favor, suban las escaleras de la derecha, la puerta de la capilla estará abierta, yo voy a cerrar aquí y les seguiré de inmediato."
+                },
+                {
+                    "audio": "/es/chateau/es_room_20.mp3",
+                    "number": 20,
+                    "img": "/chateau/kaple.jpg",
+                    "title": "Capilla de Santa Ana",
+                    "card_label": "Hemos llegado al final de nuestro recorrido.",
+                    "button": "Visita",
+                    "text": "Hemos llegado al final de nuestro recorrido. La capilla de Santa Ana está construida en el sitio de la torre de vigilancia original del castillo. También fue construida por los Redern, y la construcción fue realizada por Marcus Spazzio de Lancia. Por cierto, ese también diseñó y construyó el palacio por el que pasamos hoy.\n\nEl castillo está conectado a la capilla por un arco de riostra, esta vez tan amplio que forma un pasillo cómodo de conexión, para que la familia pueda llegar desde el castillo a la capilla a través de los espacios interiores.\n\nLuego, la capilla está conectada con el palacio, por lo que puede recorrer todos los edificios principales del complejo sin tener que salir fuera del edificio.\n\nEl pasillo del arco de riostra conducía directamente al oratorio de la capilla, donde se sentaba la nobleza. Está justo encima de ustedes. Debajo de la familia en el espacio detrás de la verja, donde hoy se pueden ver túnicas sacerdotales y casullas de los siglos XVIII y XIX, había bancos reservados para la gente más adinerada del pueblo y bancos sencillos eran entonces para otros visitantes y personal del castillo que también participaba en la misa. La capilla tiene dos altares. Uno protestante, es de principios del siglo XVII (autor: Ambrosio Fritch), que decoró la capilla bajo la familia Redern, y el otro católico, que fue colocado en la capilla por los Gallas, es sólo de finales del siglo XVII.\n\nFue ese que estaba decorado con la imagen de Santa Ana, que da nombre a la capilla. La estatua que vemos en el altar hoy representa a Santa Rosalía.\n\nLa capilla se complementa luego con un púlpito y en la parte superior del primer piso podemos ver el órgano. Los esgrafiados neorrenacentistas bajo el oratorio muestran escenas de la vida de Cristo.\n\nBueno, como les dije, esta es la última zona que verán hoy en la ruta del palacio. Desde aquí, bajaremos por la segunda escalera y me despediré de ustedes abajo en la puerta.\n\nSaldremos justo enfrente del castillo alto, allí aún se pueden subir unos escalones hasta el mirador de Valdstein, donde se ve todo el tramo del castillo por el que hemos pasado hoy. Se ve el arco de conexión encima de ustedes y un camino debajo que los llevará de regreso al patio principal y fuera del recinto. Pueden bajar por las escaleras o por el camino antiguo de caballero.\n\nEspero que hayan disfrutado el recorrido y si continúan en la ruta del castillo, esperen al guía en el patio bajo.\n\nUna vez más les doy gracias por la visita y espero que tengan un buen día y que, en algún momento, volvamos a vernos."
                 }
             ]
         }
