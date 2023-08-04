@@ -2,7 +2,8 @@
     "languages": [
         "en",
         "de",
-        "es"
+        "es",
+        "pl"
     ],
     "rotate": [
         {
@@ -16,6 +17,10 @@
         {
             "language": "es",
             "rotate": "¡Por favor gire su dispositivo!"
+        },
+        {
+            "language": "pl",
+            "rotate": "Proszę obrócić urządzenie!"
         }
     ],
     "help":[
@@ -48,6 +53,16 @@
             "help_room_content":"Puede cambiar a la habitación siguiente o anterior usando los botones en la parte inferior de la pantalla. Los gestos también están disponibles para usted. Desliza el dedo hacia la izquierda para cambiar a la habitación siguiente, desliza el dedo hacia la izquierda para ir a la habitación anterior. También puede cambiar de habitación si está escuchando audio y su pantalla está bloqueada. Las flechas están disponibles en la notificación mostrada para cambiar.",
             "help_more_functions":"¿La audioguía tiene características adicionales?",
             "help_more_functions_content":"Sí, la audioguía ofrece muchas características adicionales. puede encontrar su descripción general después de hacer clic en la navegación debajo del elemento 'Menú'."
+        },
+        {
+            "language":"pl",
+            "help": "Jak korzystać z aplikacji?",
+            "help_tour":"Jak rozpocząć wycieczkę?",
+            "help_tour_content":"Po otwarciu aplikacji kliknij przycisk „Wybierz wycieczkę” na stronie głównej. Następnie zobaczysz listę wszystkich dostępnych objazdów. Wybierz ten, na który kupiłeś bilet. Klikając na wycieczkę, zobaczysz przegląd pomieszczeń, przez które będziesz przechodzić podczas wycieczki. Wybierz pierwszy, czyli ten oznaczony cyfrą 1. Po jego wybraniu pojawi się ekran z bardziej szczegółowymi informacjami o pomieszczeniu, w tym audio.",
+            "help_room":"Jak przełączać się między pokojami?",
+            "help_room_content":"Możesz przejść do następnego lub poprzedniego pokoju za pomocą przycisków u dołu ekranu. Dostępne są również gesty. Przesuń w lewo, aby przejść do następnego pokoju, przesuń w lewo do poprzedniego pokoju. Możesz też przełączać się między pokojami, jeśli słuchasz dźwięku, a ekran jest zablokowany. Strzałki są dostępne na wyświetlanym powiadomieniu, aby się przełączyć.",
+            "help_more_functions":"Czy audioprzewodnik ma dodatkowe funkcje?",
+            "help_more_functions_content":"Tak, audioprzewodnik oferuje wiele dodatkowych funkcji. ich przegląd można znaleźć po kliknięciu nawigacji pod pozycją „Menu”."
         }
     ],
     "info": [
@@ -74,6 +89,14 @@
             "history_info": "En esta sección, puede aprender sobre la historia del castillo y el castillo. Puede leer una breve historia o conocer a las familias individuales que han sido propietarias de la mansión aquí a lo largo de los años.",
             "where_to_info": "Si desea realizar otro viaje, le recomendamos visitar los siguientes lugares de la zona cercana.",
             "rooms_overview": "Aquí puede ver una descripción general de las habitaciones ubicadas en la ruta turística que ha elegido."
+        },
+        {
+            "language": "pl",
+            "info": "Informacja",
+            "tours_info": "Najpierw wybierz wycieczkę, na którą kupiłeś bilet. Następnie poczekaj w miejscu rozpoczęcia wycieczki. Twój przewodnik cię tam zabierze.",
+            "history_info": "W tym dziale można zapoznać się z historią zamku i zamku. Można zapoznać się z krótką historią lub poznać poszczególne rodziny, które na przestrzeni lat były właścicielami tutejszego dworu.",
+            "where_to_info": "Jeśli masz ochotę na kolejną wycieczkę, polecamy odwiedzenie następujących miejsc w najbliższej okolicy.",
+            "rooms_overview": "Tutaj możesz zobaczyć przegląd pokoi znajdujących się na wybranej trasie zwiedzania."
         }
     ],
     "dialogs": [
@@ -124,6 +147,38 @@
             "no_face_detected": "Lo sentimos, pero no fue posible reconocer a nadie de la foto que tomó.",
             "try_again_label": "Inténtalo de nuevo. Haga zoom en la cara y tome una foto.",
             "wait_label": "Espere por favor"
+        },
+        {
+            "language": "en",
+            "install_download_label": "How to download?",
+            "install_step_1": "1. Open your browser’s settings.",
+            "install_step_2": "2. Find and tap Add to Home screen.",
+            "install_step_1_safari": "2. Find and tap Share.",
+            "install_step_3": "3. Confirm by tapping Add.",
+            "warning": "Warning",
+            "install_use_safari": "You must use the Safari browser to install the application.",
+            "error_label": "Something went wrong...",
+            "invalid_scan_label": "We are sorry, but the given QR code could not be recognized.",
+            "close_label": "Close",
+            "no_face_detected": "We are sorry, but it was not possible to recognize anyone from the photo you took.",
+            "try_again_label": "Please try again. Zoom in on the face and take a photo.",
+            "wait_label": "Please wait"
+        },
+        {
+            "language": "pl",
+            "install_download_label": "Jak pobrać?",
+            "install_step_1": "1. Otwórz ustawienia swojej przeglądarki.",
+            "install_step_2": "2. Znajdź i stuknij opcję Dodaj do ekranu głównego.",
+            "install_step_1_safari": "2. Znajdź i stuknij Udostępnij.",
+            "install_step_3": "3. Potwierdź, dotykając Dodaj.",
+            "warning": "Ostrzeżenie",
+            "install_use_safari": "Aby zainstalować aplikację, musisz użyć przeglądarki Safari.",
+            "error_label": "Coś poszło nie tak...",
+            "invalid_scan_label": "Przepraszamy, ale podany kod QR nie został rozpoznany.",
+            "close_label": "Zamknąć",
+            "no_face_detected": "Przykro nam, ale nie można było nikogo rozpoznać na zrobionym przez Ciebie zdjęciu.",
+            "try_again_label": "Proszę spróbuj ponownie. Przybliż twarz i zrób zdjęcie.",
+            "wait_label": "Proszę czekać"
         }
     ],
     "install": [
@@ -141,6 +196,11 @@
             "language": "es",
             "install": "Instalar",
             "install_label": "Instale la aplicación para acceder sin conexión."
+        },
+        {
+            "language": "pl",
+            "install": "Zainstalować",
+            "install_label": "Zainstaluj aplikację, aby uzyskać dostęp offline."
         }
     ],
     "face_recognition": [
@@ -179,6 +239,18 @@
             "step_4": "Espera un momento. Cuando se reconozca la imagen, será redirigido a una nueva página con la persona representada.",
             "button": "Toma una foto",
             "button_back": "Atrás"
+        },
+        {
+            "language": "pl",
+            "face_recognition": "Rozpoznawanie obrazu",
+            "title": "Nie wiecie, kto jest na zdjęciu?",
+            "label": "Jeśli natknąłeś się na zdjęcie podczas wycieczki i nie masz pewności, kto jest na nim, możesz zapytać przewodnika lub skorzystać z tej funkcji, która rozpoznaje, kto jest na zdjęciu ze zdjęcia. Po prostu postępuj zgodnie z poniższymi instrukcjami.",
+            "step_1": "Naciśnij przycisk „Zrób zdjęcie”.",
+            "step_2": "Powiększ, aby twarz na zdjęciu, którą chcesz rozpoznać, była wyraźnie widoczna.",
+            "step_3": "Teraz zrób zdjęcie, a następnie naciśnij OK.",
+            "step_4": "Poczekaj chwilę. Gdy obraz zostanie rozpoznany, zostaniesz przekierowany na nową stronę z przedstawioną osobą.",
+            "button": "Zrobić zdjęcie",
+            "button_back": "Z powrotem"
         }
     ],
     "qr_scanner": [
@@ -214,6 +286,17 @@
             "step_3": "Espera un momento. Cuando se detecte el código QR, será redirigido a la ubicación correcta.",
             "button": "Escanear código QR",
             "button_back": "Atrás"
+        },
+        {
+            "language": "pl",
+            "qr_scanner": "Skaner kodów QR",
+            "title": "Nie wiesz, gdzie teraz jesteś?",
+            "label": "Jeśli nie jesteś pewien, gdzie dokładnie jesteś, możesz zapytać przewodnika lub skorzystać z tej funkcji, aby się dowiedzieć. Znajdź stoisko z kodem QR i postępuj zgodnie z poniższymi instrukcjami.",
+            "step_1": "Naciśnij przycisk „Zeskanuj kod QR”.",
+            "step_2": "Zbliż się do kodu QR, aby był dobrze widoczny w aparacie.",
+            "step_3": "Poczekaj chwilę. Po wykryciu kodu QR zostaniesz przekierowany do właściwej lokalizacji.",
+            "button": "Skanowania QR code",
+            "button_back": "Z powrotem"
         }
     ],
     "header": [
@@ -267,6 +350,23 @@
             "contact": "Contacto",
             "scan": "Escáner de código QR",
             "help": "Ayuda"
+        },
+        {
+            "language": "pl",
+            "rooms": "Pokoje",
+            "menu": "Menu",
+            "history": "Historia",
+            "houses": "Rody",
+            "owners": "Właściciele",
+            "tours": "Wycieczki",
+            "map": "Mapa",
+            "where_to_next": "Gdzie teraz?",
+            "gallery": "Galeria",
+            "about_app": "O aplikacji",
+            "settings": "Ustawienia",
+            "contact": "Kontakt",
+            "scan": "kaner kodów QR",
+            "help": "Pomoc"
         }
     ],
     "settings": [
@@ -293,6 +393,14 @@
             "default": "Por defecto",
             "medium": "Medio",
             "large": "Grande"
+        },
+        {
+            "language": "pl",
+            "letter": "Rozmiar czcionki",
+            "language_label": "Język",
+            "default": "Domyślny",
+            "medium": "Średni",
+            "large": "Duży"
         }
     ],
     "other": [
@@ -331,6 +439,18 @@
             "settings": "Ajustes",
             "help": "Ayuda",
             "about_app": "Acerca de la aplicación"
+        },
+        {
+            "language": "pl",
+            "history": "Historia",
+            "gallery": "Galeria",
+            "image_recognition": "Rozpoznawanie obrazu",
+            "scan_room": "Zeskanuj pokój",
+            "where_to_next": "Gdzie teraz?",
+            "contact": "Kontakt",
+            "settings": "Ustawienia",
+            "help": "Pomoc",
+            "about_app": "O aplikacji"
         }
     ],
     "navbar": [
@@ -357,6 +477,14 @@
             "rooms": "Habitaciones en recorrido",
             "menu": "Menú",
             "back": "Volver al anterior"
+        },
+        {
+            "language": "pl",
+            "home": "Dom",
+            "tours": "Wycieczki",
+            "rooms": "Pokoje w trasie",
+            "menu": "Menu",
+            "back": "Powrót do poprzedniego"
         }
     ],
     "home": [
@@ -380,6 +508,13 @@
             "label_2": "al castillo estatal",
             "label_3": "y palacio Frýdlant",
             "button_label": "Elige recorrido"
+        },
+        {
+            "language": "pl",
+            "label_1": "Witamy",
+            "label_2": "w zamku państwowym",
+            "label_3": "i pałacu Frýdlant",
+            "button_label": "Wybierz wycieczkę"
         }
     ],
     "where_to_next": [
@@ -463,6 +598,33 @@
                     "src":""
                 }
             ]
+        },
+        {
+            "language": "pl",
+            "button": "Odwiedzać",
+            "places": [
+                {
+                    "title": "Zamek Grabštejn",
+                    "description": "Grabštejn był pierwotnie gotyckim zamkiem, zbudowanym w połowie XIII wieku, który stoi w pobliżu Trójgranicznego Obszaru, gdzie spotykają się Czechy, Niemcy i Polska. Został przebudowany w XVI wieku jako renesansowy zamek i obecnie oferuje odwiedzającym kilka wycieczek z przewodnikiem.",
+                    "url": "https://hrad-grabstejn.cz/en",
+                    "img": "/where_to_next/grabstejn.jpg",
+                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                },
+                {
+                    "title": "Zamek Lemberk",
+                    "description": "Poprzednikiem dzisiejszego barokowego zamku był średniowieczny zamek Lemberk, założony w latach czterdziestych XIII wieku przez Havla z Markvartic, męża św. Zdzisławy. W drugiej połowie XVI wieku został przebudowany na renesansowy zamek, a obecny wygląd uzyskał w połowie XVII wieku za czasów panów z Bredy. Ostatnimi właścicielami do 1945 roku była rodzina Clam-Gallas.",
+                    "url": "https://www.zamek-lemberk.cz/en",
+                    "img": "/where_to_next/lemberk.jpg",
+                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                },
+                {
+                    "title": "Browar Albrecht",
+                    "description": "Pierwsza wzmianka o produkcji piwa dworskiego we Frýdlancie pochodzi z 1381 roku, podobno piwo warzono właśnie na zamku. W XVI wieku w pobliżu rzeki Smědá, w miejscu, w którym nadal znajduje się obecna działalność, wybudowano nowy samodzielny browar rodziny Redernów. Szachulcowy piętrowy budynek renesansowego browaru jest przedstawiony na tzw. mapie glaubicznej.",
+                    "url": "https://pivovar-albrecht.com/",
+                    "img": "/people/katerina_redern.jpg",
+                    "src":""
+                }
+            ]
         }
     ],
     "about_app": [
@@ -507,6 +669,20 @@
             "photos2": "Jiří Holub",
             "logo_label": "Logotipo por",
             "logo": "Lucie Pavlíková"
+        },
+        {
+            "language": "pl",
+            "for_label": "Oficjalna aplikacja dla",
+            "for": "Zamek i pałac Frýdlant",
+            "author_label": "Autor",
+            "author": "Veronika Pavlíková",
+            "collaboration_label": "We współpracy z",
+            "collaboration": "Uniwersytet Palackiego w Ołomuńcu",
+            "photos_label": "Zdjęcia wg",
+            "photos1": "Lukáš Hübner",
+            "photos2": "Jiří Holub",
+            "logo_label": "Logo firmy",
+            "logo": "Lucie Pavlíková"
         }
     ],
     "rooms_overview": [
@@ -530,6 +706,13 @@
             "seen": "Salas ya visitadas",
             "not_seen": "Habitaciones aún no visitadas",
             "nothing_more": "Nada más que ver"
+        },
+        {
+            "language": "pl",
+            "tour_not_selected": "Najpierw wybierz trasę zwiedzania, którą chcesz obrać.",
+            "seen": "Odwiedzone już pokoje",
+            "not_seen": "Pokoje jeszcze nie odwiedzone",
+            "nothing_more": "Nic więcej do zobaczenia"
         }
     ],
     "contact": [
@@ -556,6 +739,14 @@
             "web": "Web",
             "reservation": "Reserva de entradas",
             "phone": "Número de teléfono"
+        },
+        {
+            "language": "pl",
+            "title": "Kontakt",
+            "address": "Adres",
+            "web": "Sieć",
+            "reservation": "Rezerwacja biletów",
+            "phone": "Numer telefonu"
         }
     ],
     "face_recognition_people": [
@@ -762,6 +953,75 @@
                 },
                 {
                     "name": "Clotilde de Clam-Gallas",
+                    "img": "/people/clotilda_clamgallas_mladsi.jpg"
+                }
+            ]
+        },
+        {
+            "language": "pl",
+            "people": [
+                {
+                    "name": "Fridrich of Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Melchior of Redern",
+                    "img": "/people/melchior_redern.jpg"
+                },
+                {
+                    "name": "Catherine of Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Christopher of Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Albrecht of Wallenstein",
+                    "img": "/people/albrecht_valdstejn.jpg"
+                },
+                {
+                    "name": "Matthias of Gallas",
+                    "img": "/people/matyas_gallas.jpg"
+                },
+                {
+                    "name": "Antonius of Gallas",
+                    "img": "/people/antonin_pankrac_gallas.jpg"
+                },
+                {
+                    "name": "Francis Ferdinand of Gallas",
+                    "img": "/people/frantisek_ferdinand_gallas.jpg"
+                },
+                {
+                    "name": "John Wenceslas of Gallas",
+                    "img": "/people/jan_vaclav_gallas.jpg"
+                },
+                {
+                    "name": "Philip Joseph of Gallas",
+                    "img": "/people/filip_josef_gallas.jpg"
+                },
+                {
+                    "name": "Christian Philip of Clam-Gallas",
+                    "img": "/people/kristian_filip_clamgallas.jpg"
+                },
+                {
+                    "name": "Christian Christopher of Clam-Gallas",
+                    "img": "/people/kristian_krystof_clamgallas.jpg"
+                },
+                {
+                    "name": "William of Clam-Gallas",
+                    "img": "/people/vilem_clamgallas.jpg"
+                },
+                {
+                    "name": "Edward of Clam-Gallas",
+                    "img": "/people/eduard_clamgallas.jpg"
+                },
+                {
+                    "name": "Francis of Clam-Gallas",
+                    "img": "/people/frantisek_clamgallas.jpg"
+                },
+                {
+                    "name": "Clotilde of Clam-Gallas",
                     "img": "/people/clotilda_clamgallas_mladsi.jpg"
                 }
             ]
@@ -1245,6 +1505,236 @@
             "img": "/history/houses.jpg",
             "card_label": "Conozca a los propietarios individuales de la mansión Frýdlant.",
             "button": "Aprende más",
+            "houses": [
+                {
+                    "title": "Ronowitzer",
+                    "description": "Founders of Frýdlant Castle.",
+                    "img": "/coat_of_arms/ronovci.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Ronowitzer",
+                            "years": "?-1278",
+                            "label": "The oldest history of the Frýdlant castle is connected with the Ronowitzer family, who had it built in the 13th century.",
+                            "button": "More",
+                            "text": "The oldest history of the Frýdlant castle is connected with the Ronowitzer family, who had it built in the 13th century. We don't know much about their activities in the northern part of Bohemia. The first known member of this family was Smil, who was a member of the retinue of King Přemysl Otakar I. His sons Henry and Častolov still use the epithet 'of Zittau' in 1238, but in 1257 we already find a mention of 'Častolov of Frýdlant'. The expansion of this family was limited in 1278 by King Přemysl Otakar II., when he took the estate from the Ronowitzer family and sold it to the Biberstein family.",
+                            "img": "/coat_of_arms/ronovci.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Biberstein",
+                    "description": "The longest ruling house, which was responsible for the expansion of the castle.",
+                    "img": "/coat_of_arms/biberstejnove.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Biberstein",
+                            "years": "1278-1551",
+                            "label": "Representatives of the Biberstein family became the owners of the Frýdlant castle for the next almost 300 years, and their reign is mainly connected with the construction expansion of the castle and the further growth of Frýdlant manor.",
+                            "button": "More",
+                            "text": "Representatives of the Biberstein family became the owners of the Frýdlant castle for the next almost 300 years, and their reign is mainly connected with the construction expansion of the castle and the further growth of Frýdlant manor. Due to this family's efforts for further territorial gains, there have been several conflicts with neighboring ones nobles (e.g. the burning of Nymburk in 1326) and even clash with the royal army of Wenceslaus IV. \n\nDuring the Hussite Wars, Frýdlant became the center of the anti-Hussite opposition, and the Frýdlant manor was attacked several times between 1420 and 1433. The town of Frýdlant and other villages in the vicinity were several times burned out. The Biberstein family then remained in opposition even against King Charles of Poděbrady and were involved in other military conflicts. During the rule of the last Biberstein, the Frýdlant manor became completely Protestant, which was followed by family of Redern. The last male descendant, Christoph, died in 1551 without an heir and thus the manor fell to the Czech royal chamber.",
+                            "img": "/coat_of_arms/biberstejnove.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Redern",
+                    "description": "The Silesian house, which contributed to the growth of Protestantism and the construction of the chateau.",
+                    "img": "/coat_of_arms/redernove.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Friedrich of Redern",
+                            "years": "?-1564",
+                            "label": "Friedrich of Redern was a member of the Silesian knightly family.",
+                            "button": "More",
+                            "text": "Friedrich of Redern was a member of the Silesian knightly family. During his lifetime, he held the position of president of the Silesian Land Chamber and was a member of the royal commission to record the state of the Frýdlant manor after death of the last owner. In 1558 it was Friedrich, who bought the North Bohemian estates of Liberec, Frýdlant and Zawidow. After buying them, he reached elevation to nobility. He and his wife Salomena of Schönaich had a total of 10 children. He died in 1564 while staying in Wroclaw, Poland.",
+                            "img": "/coat_of_arms/redernove.png"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Melchior of Redern",
+                            "years": "1555-1600",
+                            "label": "He was the ninth of a total of ten children of Friedrich of Redern.",
+                            "button": "More",
+                            "text": "He was the ninth of a total of ten children of Friedrich of Redern. He studied law at a protestant university in Heidelberg and then together with his brother Christopher went on a cavalier trip to France, where in 1572 he witnessed the murder of the Huguenots during the so-called Bartholomew's Night. In addition to France, he also visited the Italian cities of Rome, Padua or Naples. Melchior eventually joined the service in the army. In the 1570s and 1580s, he took part in the siege of Gdańsk, the anti-Hungarian campaign, the war in the Netherlands or the Siege of Pskov. \n\nAfter death of his brother Christopher in 1591 he became the owner of the Frýdlant manor. He married Catherine of Šlik, the sister of one of the most influential Protestant noblemen, Jáchym Ondřej of Šlik, who was the owner of the neighboring estate. During his lifetime, construction modifications were made in the castle area. He added one castle wing, the of the castle, the Renaissance wing of thechateau was created, and eventually also the chateau chapel. In the 1590s, Melchior returned to the Hungarian battlefields several times as an officer. As early as the spring of 1600, he participated in a meeting in Vienna about the next military advance against the Turks, during the autumn however, he interrupts his military campaign due to health reasons and died in September of this year.",
+                            "img": "/people/melchior_redern.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "Catherine of Redern",
+                            "years": "1553-1617",
+                            "label": "Catherine of Redern, born Šlik, was the sister of Jáchym Ondřej of Šlik, one of those executed at Old Town Square in 1621.",
+                            "button": "More",
+                            "text": "Catherine of Redern, born Šlik, was the sister of Jáchym Ondřej of Šlik, one of those executed at Old Town Square in 1621. Between 1600 and 1611 she managed the Frýdlant manor for her underaged son Christopher. Her work on the Frýdlant estate is mainly connected with disputes with the local townspeople regarding the right to brew beer. Bad relations with the locals eventually resulted in her staying primarily at castle in Liberec. \n\nDuring her tenure, the chateau chapels in Frýdlant and Liberec were completed, and other churches were built in the entire Frýdlant manor. She died in 1617 in Liberec, she was to be buried in the family tomb in Frýdlant, but that never happened and the place of burial is still unknown.",
+                            "img": "/people/katerina_redern.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Christopher of Redern",
+                            "years": "1591-1641",
+                            "label": "Christopher took over the administration of the estate in 1611.",
+                            "button": "More",
+                            "text": "Christopher took over the administration of the estate in 1611. He continued the dispute with the townspeople of Frýdlant, which began during his mother's reign. After the outbreak of Bohemian uprising, together with his uncle Jáchym Ondřej of Šlik, he was involved on the side of Protestant union where he became the commander of a cavalry division. He was already suffering from health problems at this time. \n\nAfter defeat in 1620, his manor was confiscated and he lived in exile on the Zawidow estate. In 1627, the Zawidow estate was also confiscated from him. He then lived in the residence of his wife Magdalena of Hundt in Poland. During the raid Swedes to Bohemia between 1639-1640, he returned to Frýdlant, but in the same year he had to leave Frýdlant manor to Wallenstein. He dies in exile sometime after 1641.",
+                            "img": "/people/krystof_redern.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Albrecht of Wallenstein",
+                    "description": "Albrecht of Wallenstein was a Czech military leader, politician and one of the most important figures in the Czech history.",
+                    "img": "/coat_of_arms/albrecht.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Albrecht von Wallenstein",
+                            "years": "1591-1641",
+                            "label": "Albrecht of Wallenstein was born into a not very wealthy and influential Protestant family and eventually became one of the most powerful men of European importance.",
+                            "button": "More",
+                            "text": "Albrecht of Wallenstein was born into a not very wealthy and influential Protestant family and eventually became one of the most powerful men of European importance. His tenure at Frýdlant was not long, it lasted only 12 years, even so, this is the time that made this place and the manor the most famous and it was even raised to a dukedom.\n\n The life of Albrecht of Wallenstein was connected with service in the army from a young age. He soon defected from the Protestant camp to the imperial service and on the battlefields of the Thirty Years' War he attained the highest rank in military command, i.e. Generalissimo of the Imperial Army. His possessions, which included the manor of Frýdlant were then more or less spared from major war conflicts and that is why they were referred to as 'the happy land - terra felix'.\n\n As for the Frýdlant manor, during Wallenstein's reign, we can talk about an economic rise, primarily in industries that were associated with the needs of the time – mining and metal processing or gunpowder production. The castle and chateau were uninhabited and only minor structural modifications took place. Wallenstein stayed here only for a few days in 1627, 1628 and 1630. The end of Wallenstein's life was heralded by the loss of trust from the emperor, who felt threatened by Walstein, which is why Wallenstein was murdered by his officers at the beginning of 1634.",
+                            "img": "/people/albrecht_valdstejn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gallas",
+                    "description": "House from northern Italy, which contributed to the expansion of the Frýdlant manor to include Lemberk Castle and its surroundings.",
+                    "img": "/coat_of_arms/gallasove.png",
+                    "button": "More",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Matthias of Gallas",
+                            "years": "1588-1647",
+                            "label": "The life of Matthias of Gallas and his social rise were, as in the case of Wallenstein, tightly connected with the period of the Thirty Years' War.",
+                            "button": "More",
+                            "text": "The life of Matthias of Gallas and his social rise were, as in the case of Wallenstein, tightly connected with the period of the Thirty Years' War. Matthias joined the army as a young man and became famous for the first time in the wars for the Mantuan inheritance on the side of the Catholic League. In 1628 he entered the service of Albrecht of Wallenstein and became one of his generals. In 1632 he attained the rank of earl. After the betrayal of Wallenstein, he became the heir to the Frydlant manor and later the commander-in-chief of the Imperial army, where he worked until the end of the Thirty Years' War. For Frýdlant, his reign meant the period between 1640-1649 when the castle and town were occupied by Swedish crew. Matthias died in Vienna in 1647.",
+                            "img": "/people/matyas_gallas.jpg"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Antonius of Gallas",
+                            "years": "1638-1695",
+                            "label": "Antonius is the younger of the sons of Matthias of Gallas.",
+                            "button": "More",
+                            "text": "Antonius is the younger of the sons of Matthias of Gallas. He lost his father at the age of 9. After studies and a cavalier journey after France and Benelux, together with his brother Francis Ferdinand, he took over the administration of inherited manors. During his lifetime, he worked as a chamberlain in the service of the Elector of Bavaria and inherited from his father the command of military regiments. His economic situation worsened to the point that he was forced to sell his share to manor and to gave up military regiments as well. In the end, he fell into debt and lived in Kladsk on estates of his son Philip Francis.",
+                            "img": "/people/antonin_pankrac_gallas.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "Francis Ferdinand of Gallas",
+                            "years": "1635-1697",
+                            "label": "Francis is the elder of the sons of Matthias of Gallas.",
+                            "button": "More",
+                            "text": "Francis is the elder of the sons of Matthias of Gallas. After completing his studies and cavalier journey, he took over the administration of the inherited manors. The only court title he received was the titular court chamberlain. During his life he stayed mainly on his manors in Bohemia, mostly in Prague and at the castle in Hoříněves. His life in Frýdlant is mainly connected with the rebellion of the subjects led by the blacksmith Ondřej of Stelzig, which was suppressed in 1680. He died in 1697 and his remains are kept in the ancestral tomb in Hejnice.",
+                            "img": "/people/frantisek_ferdinand_gallas.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "John Wenceslaus of Gallas",
+                            "years": "1671-1719",
+                            "label": "The most important member of this family together with Matthias of Gallas.",
+                            "button": "More",
+                            "text": "The most important member of this family together with Matthias of Gallas. He worked in the service of emperors Joseph I. and Charles VI. as an imperial chamberlain, a true privy councilor and diplomat. He worked in the diplomatic service in London, The Hague and Rome. He was eventually appointed viceroy in Naples, where he died in 1719. He is the founder of the later Clam-Gallas Palace in Prague's Old Town.",
+                            "img": "/people/jan_vaclav_gallas.jpg"
+                        },
+                        {
+                            "number": 5,
+                            "name": "Philip Joseph of Gallas",
+                            "years": "1703-1757",
+                            "label": "The last member of the Gallas family, thanks to whom the Frýdlant estate was expanded to include the area around Lemberk.",
+                            "button": "More",
+                            "text": "The last member of the Gallas family, thanks to whom the Frýdlant estate was expanded to include the area around Lemberk. During his life he held the official positions of the highest regional hofmeister of the Kingdom of Bohemia and the highest court judge. After the Habsburg army suffered a defeat by the Prussians in the Battle of Liberec, the Frýdlant region was plundered by the Prussians. \n\nHe died in 1757 without a male heir, the estate was then managed by his wife Marie Anna. After her death the estate was passed to his nephew Christian Philip of Clam. The condition for this was the merging coats of arms and the addition of the name Gallas. This gave rise to the house Clam-Gallas.",
+                            "img": "/people/filip_josef_gallas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Clam-Gallas",
+                    "description": "The last family living in the Frýdlant castle. During her tenure, a major reconstruction of the Renaissance wing of the chateau and the construction of a new wing took place.",
+                    "img": "/coat_of_arms/clamgallasove.png",
+                    "button": "Learn",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Christian Philip of Clam-Gallas",
+                            "years": "1748-1805",
+                            "label": "The first of the Clam-Gallas line, who also held offices at the Habsburg court during his lifetime.",
+                            "button": "More",
+                            "text": "The first of the Clam-Gallas line, who also held offices at the Habsburg court during his lifetime. He became royal chamberlain of three emperors and was promoted to knight of the order of St. Stephen. He expanded the family estates by another territory. \n\nHe was a great lover and patron of the arts. In his Prague residence he hosted, for example, Mozart or Beethoven. In the Frýdlant region, he is primarily associated with the founding of the spa town of Libverda, in Prague then with the Klamovka estate.",
+                            "img": "/people/kristian_filip_clamgallas.jpg"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Christian Christopher of Clam-Gallas",
+                            "years": "1771-1838",
+                            "label": "Christian Christopher of Clam-Gallas continued his father's legacy in terms of career and patronage.",
+                            "button": "More",
+                            "text": "Christian Christopher of Clam-Gallas continued his father's legacy in terms of career and patronage. He had the rank of Supreme Marshal of the Czech Kingdom. He married Josefina Caroline Clary-Aldringen, also a great lover of art. Together they maintained contact with, for example, Ludwig van Beethoven. \n\nHe contributed to further construction activity in Libverda, where new spa pavilions were built. Around Klamovka,he established gardens with sculptural decoration.",
+                            "img": "/people/kristian_krystof_clamgallas.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "William of Clam-Gallas",
+                            "years": "1801-1822",
+                            "label": "The elder of Christian Christopher's sons.",
+                            "button": "More",
+                            "text": "The elder of Christian Christopher's sons. He died very young at the age of 21. He is buried in the ancestral tomb in Hejnice.",
+                            "img": "/people/vilem_clamgallas.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Edward of Clam-Gallas",
+                            "years": "1805-1891",
+                            "label": "Edward was the younger of Christian Christopher's sons and also the most prominent member of the Clam-Gallas family.",
+                            "button": "More",
+                            "text": "Edward was the younger of Christian Christopher's sons and also the most prominent member of the Clam-Gallas family. In 1823 he entered the army as a young man, where he reached the rank of general. He fought under the command of Marshal Radecký in Northern Italy during the First Italian War of Independence, then fought in Hungary and returned to the Second War in Northern Italy. The most significant of the battles in which he participated are the battles of Magenta and Solferin. \n\nDuring the Prussian-Austrian War, he suffered a defeat at the Battle of Jičín, for which he was judged by a court-martial. Even though he was acquitted, he never returned to the army and lived out his life in Frýdlant and Liberec. \n\nDuring his stay in Frýdlant, he had the local chateau undergo extensive reconstruction and building modifications, during which the newest wing of the chateau was created. He died in 1891 at the age of 86.",
+                            "img": "/people/eduard_clamgallas.jpg"
+                        },
+                        {
+                            "number": 5,
+                            "name": "Francis of Clam-Gallas",
+                            "years": "1854-1930",
+                            "label": "The last male descendant of the Clam-Gallas family.",
+                            "button": "More",
+                            "text": "The last male descendant of the Clam-Gallas family. He too continued his civil service career, was chamberlain and privy councilor, but above all he devoted himself to the management of the family estates Liberec, Frýdlant, Grabštejn and Lemberk. \n\nThe First World War, the creation of the Czechoslovak Republic and also the land reform intervened in his life. In addition to farming, he also devoted his whole life to volunteer work and charity, to which he actively contributed. \n\nHe died in Frýdlanta in 1930 and left behind 7 daughters. The youngest of them, Clotilde, lived in Frýdlant until the end of World War II.",
+                            "img": "/people/frantisek_clamgallas.jpg"
+                        },
+                        {
+                            "number": 6,
+                            "name": "Clotilde of Clam-Gallas",
+                            "years": "1898-1975",
+                            "label": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein.",
+                            "button": "More",
+                            "text": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein. During Francis' lifetime, his properties were divided between his daughters. Clotilde then received the Frýdlant Castle. She remained single after her father's death, she took care of her widowed mother. After 1945, she had to move abroad and the castle was nationalized.",
+                            "img": "/people/clotilda_clamgallas_mladsi.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "language": "pl",
+            "path": "/history_overview",
+            "title": "Przegląd historii",
+            "button": "Ucz się więcej",
+            "img": "/history/history.jpg",
+            "card_label": "Get to know the history of the Frýdlant castle and chateau.",
+            "description": "Frýdlant is one of largest and most important heritage sites in Northern Bohemia. It consists of two architectural complexes: a medieval castle and a renaissance chateau. The castle was built around the mid-13th century. In 1278, the domain became property of the Biberstein house who took major part in building the large castle palace. Between 1558 and 1620, Frýdlant was owned by the Redern house that continued to upgrade the domain. The Rederns were good managers and warriors, but also builders and art supporters. They built the new renaissance chateau and the chapel. \n\nBetween 1622 and 1634, the castle belonged to Albrecht of Wallenstein. He bought it for 150,000 guldens and gradually built a large domain. His estates flourished greatly during the Thirty Years War as they supplied his army. The Frýdlant region was called Terra felix – the happy country. \n\nAfter Albrecht’s murder in 1634, the emperor gave Frýdlant to the Gallas house, and since 1759 the domain was owned by the Clam-Gallases, an important aristocratic house active in diplomatic and military circles at the imperial court. They remained until 1945 when Frýdlant became property of the state. \n\nThe original gothic castle hasn’t been preserved in its entirety. Nowadays, the castle is a large two-floor building around the small, irregularly shaped courtyard, with the predominant cylindrical tower – a bergfrit. The castle was growing over time, and underwent two renaissance reconstructions in the 16th century. The chapel and the renaissance chateau were built at the turn of the 16th and 17th century by Marco Spazzio di Lancio. The last big reconstruction took place in the 1860s, when the castle warden wing was rebuilt. \n\nIn 1801, the Clam-Gallases enabled public access to a part of the castle with exhibitions, making it the first castle museum in the Central Europe. The current exhibition includes this museum, the chapel with valuable items, and two chateau wings.",
+            "label": "History of castle Frýdlant"
+        },
+        {
+            "language": "pl",
+            "path": "/houses",
+            "title": "Rody",
+            "img": "/history/houses.jpg",
+            "card_label": "Poznajcie poszczególnych właścicieli dworu Frýdlant.",
+            "button": "Ucz się więcej",
             "houses": [
                 {
                     "title": "Ronowitzer",
@@ -1980,6 +2470,162 @@
                     "card_label": "La visita al castillo finaliza en la oficina señorial.",
                     "button": "Visita",
                     "text": "La visita al castillo finaliza en la oficina señorial. Hay muebles de oficina, entre ellos un archivador.\n\nTambién vemos varios mapas aquí, el más interesante de ellos es un mapa pintado del siglo XVII que representa toda la propiedad de Frydlant en ese momento. También hay mapas más nuevos, ya sea un distrito escolar o un mapa turístico de la región de Liberec.\n\nEntre otras cosas, en las paredes hay retratos de algunos de los propietarios del castillo.\n\nUna curiosidad es la tarifa de entrada para los visitantes del castillo de Frýdlant de postrimerías del siglo XIX e inicios del XX.\n\nEsta sala es la última sala de este circuito. Desde aquí bajamos por una escalera de caracol hasta el patio del castillo y allí finalizamos el recorrido. Si desean conocer otras partes de las instalaciones, no duden en visitar otros circuitos.\n\nMuchas gracias por su visita y esperamos que les haya sido de agrado."
+                }
+            ]
+        },
+        {
+            "tour_id": "castle",
+            "language": "pl",
+            "title": "Zamek",
+            "img": "/castle/castle.jpg",
+            "rooms_label": "pokoi",
+            "time": "60 minut",
+            "description": "Ta trasa prowadzi przez Górny Zamek, który jest najstarszą częścią Frýdlantskiej ziemi. Nad całą trasą dominuje duża sala rycerska z galerią rodową, zbrojownią, salą bankietową czy pokaźną kolekcją mundurów pracowniczych.",
+            "button": "Rozpocząć wycieczkę",
+            "rooms": [
+                {
+                    "audio": "/pl/castle/pl_room_1.mp3",
+                    "number": 1,
+                    "img": "/castle/dolni_nadvori.jpg",
+                    "title": "Dziedziniec dolny",
+                    "card_label": "Znajdujemy się na dziedzińcu dolnym , z którego roztacza się widok na cały obiekt.",
+                    "button": "Odwiedzać",
+                    "text": "Dzień dobry , witamy Państwa bardzo serdecznie na zamku we Frydlancie i życzymy przyjemnego zwiedzania . Znajdujemy się na dziedzińcu dolnym , z którego roztacza się widok na cały obiekt. Widzimy średniowieczny zamek , kaplicę zamkową oraz stare i nowe skrzydło pałacowe . Gotycka warownia wzniesiona została około XIII wieku . Najstarszą częścią zamku jest wysoka , okrągła wieża , zwana Indicą . Kaplica została zbudowana w latach 1598 - 1602 na polecenie ówczesnych właścicieli zamku , państwa Melchiora i Kathariny von Redern . Po zwiedzaniu kaplicy przejdziemy przez pochodzące z XVI wieku skrzydło renesansowego pałacu , którego elewacje ozdobione są pięknymi sgrafittami . Zwiedzanie zakończymy w najnowszej części pałacu , nazywanej kasztelańskim , wzniesionej w połowie XIX wieku z polecenia Eduarda Clam - Gallasa .\n\nDroga prowadząca na górę nazywana jest rycerską . Po niej to właśnie wjeżdżali konno rycerze udający się na zamek . Damy wnoszone były natomiast w lektykach , my niestety musimy pokonać tę drogę pieszo ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_2.mp3",
+                    "number": 2,
+                    "img": "/castle/pred_kapli.jpg",
+                    "title": "Przed bramą zamkową",
+                    "card_label": "Znajdujemy się przed gotyckim zamkiem z XIII wieku , wzniesionym na bazaltowej skale.",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się przed gotyckim zamkiem z XIII wieku , wzniesionym na bazaltowej skale . Według legendy , skała ta została niegdyś zaorana przez diabelskie pazury , dlatego nazywana jest 'diabelskimi organami' . Łuk nad naszymi głowami to przejście dla szlachty prowadzące z zamku do kaplicy . Nad bramą widzimy także dwa herby : Antona Pankriatusa Gallasa i jego żony Wiktorii de Arco . ( W całej historii zamku mieszkało tutaj sześć szlacheckich rodów , Gallasowie to piąty z kolei ród ) . W czasie wchodzenia po schodach na dziedziniec zamkowy warto zwrócić uwagę na dawny sprzęt gaśniczy z XVIII i XIX wieku , wystawiony po prawej stronie ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_3.mp3",
+                    "number": 3,
+                    "img": "/castle/hradni_nadvori.jpg",
+                    "title": "Dziedziniec zamkowy",
+                    "card_label": "Znajdujemy się na małym dziedzińcu zamkowym .",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się na małym dziedzińcu zamkowym . Konfiguracja skały uniemożliwiała budowanie zamku do znacznej szerokości , dlatego dla zyskania miejsca musiano wznieść budowlę do znacznej wysokości .\n\nPierwotny zamek gotycki przebudowany został w XVI wieku w stylu renesansowym . Na umieszczonej nad drzwiami płycie znajduje się łacińska inskrypcja ,informująca że pierwsza renesansowa przebudowa ukończona została w roku 1551 za panowania Krzysztofa von Bibersztejna . Umieszczony powyżej największy herb należy do Mathyasa hrabiego Gallasa de Campo . Natomiast nad wejściem do zamku znajduje się mała tarcza herbowa z rogiem jelenia , jest to herb rodziny Bibersztejnów .\n\nZ tego miejsca widoczna jest dobrze ogromna wieża Indica . Mierzy ona 49 metrów wysokości , zaś jej średnica wynosi ponad 10 metrów . Natomiast grubość muru na 2 pierwszym piętrze osiąga prawie 4 metry . We wnętrzu tej masywnej budowli znajdowały się więzienia i skarbiec . Teraz udamy się na pierwsze piętro do pierwszego pomieszczenia zamkowego ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_4.mp3",
+                    "number": 4,
+                    "img": "/castle/prvni_hradni.jpg",
+                    "title": "pierwsze pomieszczenie zamkowe",
+                    "card_label": "W pierwszym pomieszczeniu zapoznamy Państwa z historią zamku .",
+                    "button": "Odwiedzać",
+                    "text": "W pierwszym pomieszczeniu zapoznamy Państwa z historią zamku . Od połowy XIII wieku władzę sprawował na zamku ród Ronowiców , jedna z najmożniejszych rodzin szlacheckich w Czechach . Ich herb widoczny jest nad drzwiami wejściowymi ( dwie skrzyżowane gałęzie ) . W roku 1278 król czeski , Przemysł Ottokar II odebrał zamek Ronowicom . Jeszcze w tym samym roku saski szlachcic Rudolf von Bibersztein nabył Frydlant za cenę 800 funtów srebra . W posiadaniu rodu Bibersztejnów zamek pozostawał przez prawie 300 lat . Ostatni męski potomek z frydlantskiej linii Bibersztejnów zmarł w roku 1551 . Przez następne siedem lat zamek podlegał bezpośrednio Koronie czeskiej . W roku 1558 Frydlant został kupiony przez Fryderyka von Rederna , lecz zmarł on już w roku 1564 , a dobra odziedziczyli jego synowie . Od roku 1591 jako jedyny pozostał Melchior von Redern ( portret po prawej stronie , ten wyższy pan ), a po jego śmierci dobrami zarządzała wdowa po nim - Katarzyna von Redern ( portret na wprost ) . Odziedziczyła ona nie tylko Frydlanckie dobra , ale także olbrzymie długi , których większość udało jej się jednak spłacić . Procesowała się także z frydlanckim mieszczaństwem o prawo do warzenia piwa . Proces ten przegrała i na złość mieszkańcom kazała wybudować na swojej działce we frydlanckim rynku dom , wysunięty o trzy metry przed linię pozostałych budowli . Po śmierci Katarzyna von Redern panem na Frydlancie został jej syn Krzysztof ( portret po prawej stronie , niższy pan ) , który wziął udział w powstaniu stanów czeskich przeciwko cesarzowi Ferdynandowi . Po bitwie na Białej Górze i upadku powstania majątek Redernów został skonfiskowany .\n\nNa obrazku po lewej stronie , przy oknie widzimy kryptę rodzinną Redernów , która znajduje się we frydlanckim kościele . Widzimy także w gablotach części szat i uzbrojenia ,oraz kość wyciągnięte z grobu Melchiora von Rederna w 1927 roku ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_5.mp3",
+                    "number": 5,
+                    "img": "/castle/albrecht.jpg",
+                    "title": "Albrecht von Waldstein",
+                    "card_label": "Albrecht von Waldstein nabył skonfiskowane dobra Redernów w roku 1622 za kwotę 150 000 guldenów, a więc bardzo korzystnie .",
+                    "button": "Odwiedzać",
+                    "text": "Albrecht von Waldstein nabył skonfiskowane dobra Redernów w roku 1622 za kwotę 150 000 guldenów, a więc bardzo korzystnie .\n\nWaldstein był czeskim szlachcicem , postacią historyczną z okresu wojny trzydziestoletniej . Był człowiekiem bardzo ambitnym . W roku 1624 otrzymał tytuł księcia Frydlantu , rezydował jednakże na zamku w Jičínie , we Frydlancie zatrzymywał się rzadko . Po bitwie na Białej Górze był przez krótki czas jednym z najbogatszych ludzi w Czechach , brakowało mu jedynie królewskiej korony . Dlatego paktował ze Szwedami i innymi przeciwnikami Habsburgów , jednak równocześnie Waldstein nadal pozostawał naczelnym dowódcą wojsk cesarskich . O jego tajnych rokowaniach wiedzieli niektórzy z generałów . Dwaj z nich : Octavio Piccolomini i Mathyas Gallas de Campo poinformowali cesarza o planach Waldsteina . Na początku roku 1634 podjęto we Wiedniu decyzję o konieczności usunięcia Waldsteina . Dnia 25 lutego tego samego roku został on zamordowany na zamku w Chebie na zachodzie Czech . ( Przy drzwiach do następnej sali widzimy dwa obrazy przedstawiające sceny z zamordowania Waldstejna. )\n\nPo prawej stronie od wejścia drugi portret przedstawia właśnie portret Waldstejna pochodzący z XVII wieku . Obok jest portret jego nadwornego astrologa : Giovanni Baptista Seni i horoskop , z którego przepowiadał Waldsteinowi przyszłość . Na lewo od drzwi pierwszy portret przedstawia drugą żonę Waldstejna -hrabiankę Izabelę Katarzynę z domu Harrach , dalej jest portret ich córki - Elżbiety . Dalej - kardynał Arnošt Harrach . A na największym obrazie widzimy konia zdobytego przez Waldsteina jako trofeum wojenne podczas bitwy pod Lützen w roku 1632 roku . Poprzednim właścicielem owego pięknego wierzchowca był król szwedzki Gustaw Adolf , który zginął podczas tej bitwy . Podpis 'Mas Qverido' można przetłumaczyć jako 'Mój Ukochany' . Obok znajduje się jeszcze drzewo genealogiczne rodziny Waldsteinów . Nad drzwiami znajduje się herb Waldsteina . Teraz przejdziemy do sali rycerskiej ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_6.mp3",
+                    "number": 6,
+                    "img": "/castle/rytirsky_sal.jpg",
+                    "title": "Sala rycerska",
+                    "card_label": "Znajdujemy się we wielkiej sali rycerskiej , które od roku 1801 służy jako galeria obrazów rodziny Gallasów i Clam - Gallasów.",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się we wielkiej sali rycerskiej , które od roku 1801 służy jako galeria obrazów rodziny Gallasów i Clam - Gallasów.\n\nW roku 1634 Mathyas hrabia Gallas de Campo ( pierwszy po lewej stronie ) otrzymał dobra Frydlanckie w nagrodę za pomoc w zamordowaniu Albrechta von Waldsteina . Jeszcze w tym samym roku miasto i zamek zostały zajęte przez wojska szwedzkie , które pozostały tu do roku 1649 . Obok Mathyasa znajduje się portret jego żony . Mathyas Gallas miał czterech synów i pięć córek . Naprzeciw niego po prawej stronie jest portret jego syna - Antona Pankriatusa Gallasa , natomiast po prawej stronie przy drzwiach wejściowych jest portret drugiego syna Mathyasa - Franciszka Ferdynanda Gallasa , a po lewej stronie wisi przy drzwiach portret jego żony Joanny Emerencjany . Franciszek Ferdynand założył klasztor i rodzinną kryptę Gallasów w kościele w pobliskich Hejnicach . Po prawej stronie wisi portret syna Franciszka Ferdynanda i Joanny Emerencjany - Jan Wacław Gallas (na portrecie jest w białej peruczce ) . Jan Wacław był dyplomatą cesarskim . W roku 1719 został ogłoszony wicekrólem Neapolu , w tym samym roku zmarł i został tam też pochowany . Jednakże zgodnie z ostatnią wolą zmarłego , jego serce złożono w rodzinnej krypcie w Hejnicach . Naprzeciwko jest portret jego żony Marii Anny z domu hrabianki von Dietrichstein .\n\nOstatnim panem na Frydlancie z rodziny Gallasów był Filip Józef - syn Jana Wacława ( portret Filipa Józefa wisi obok Jana Wacława ). Obok Filipa jest jego żona Anna Maria . Wraz z jego śmiercią wygasł ród Gallasów . Majątek odziedziczył , zgodnie z ostatnią wolą Filipa Józefa , siostrzeniec jego żony - Krystian von Clam , jednakże pod warunkiem , że do nazwiska i herbu rodziny Clamów zostaną dołączone atrybuty Gallasów . W ten sposób powstał jeden z najzamożniejszych i najbardziej wpływowych rodów szlacheckich w Czechach i Austrii , rodzina Clam - Gallas. Pierwszy z tego rodu to właśnie Krystian Filip Clam- Gallas ( jego portret wisi po lewej stronie przy drzwiach do następnej sali ) . Krystian Filip założył nieopodal Frydlantu znane uzdrowisko Libverda."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_7.mp3",
+                    "number": 7,
+                    "img": "/castle/piano.jpg",
+                    "title": "Clam - gallasowie",
+                    "card_label": "Obraz nad fortepianem przedstawia kolejnego pana na Frydlancie - Krystiana Krzysztofa Clam - Gallasa , jest to syn Krystiana Filipa , którego przed chwilą widzieliśmy w sali rycerskiej .",
+                    "button": "Odwiedzać",
+                    "text": "Obraz nad fortepianem przedstawia kolejnego pana na Frydlancie - Krystiana Krzysztofa Clam - Gallasa , jest to syn Krystiana Filipa , którego przed chwilą widzieliśmy w sali rycerskiej . Krystian Krzysztof był wielkim miłośnikiem sztuki i muzyki . Obok jest portret jego żony - hrabianki Józefiny Klary z domu Klary - Aldringen . Wraz z mężem wspierała muzykę i teatr . Potrafiła pięknie śpiewać oraz grać na gitarze i fortepianie . Przyjaźniła się ona osobiście z Ludwigiem van Beethovenem i koncertowała z nim w znanym czeskim uzdrowisku Teplice .\n\nKrystian Krzysztof i Józefina mieli dwóch synów . Starszy z nich , Wilhelm zginął tragicznie w wieku dwudziestu lat ( na najmniejszym portrecie ) . Młodszy syn , Eduard przejął zarządzanie majątkiem bezpośrednio po śmierci ojca w roku 1838 ( portret po prawej stronie przy drzwiach do następnej sali ).\n\nEduard Clam - Gallas należał do ścisłej grupy najważniejszych austriackich generałów. W drugiej połowie XIX wieku walczył u północnych Włoszech u boku samego marszałka Radetzky 'ego . Eduard miał tylko jednego syna - Franciszka Clam - Gallasa . Znajduje się tutaj jego popiersie .\n\nFranciszek Clam- Gallas zmarł w roku 1930 . Nie pozostawił po sobie żadnego męskiego potomka , miał za to siedem córek . Jedna z nich - Klotylda mieszkała na zamku do kwietnia 1945 roku , kiedy frydlantskie dobra zostały jej skonfiskowane na podstawie Beneszowych dekretów . Klotylda była ostatnia panią tego zamku , nie miała dzieci , była samotna , zmarła w 1975 roku w Salzburgu ( Austria ) i tam została pochowana . Od roku 1945 Frydlant pozostaje w posiadaniu skarbu państwa ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_8.mp3",
+                    "number": 8,
+                    "img": "/castle/eduard.jpg",
+                    "title": "Gabinet eduarda clam - gallasa",
+                    "card_label": "Znajdujemy się w gabinecie generała Eduarda Clam - Gallasa .",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się w gabinecie generała Eduarda Clam - Gallasa . W witrynie u okna na prawo są jego odznaczenia ( pomiędzy nimi order Złotego Runa ) i dalej na w drugiej witrynie widzimy przedmioty jego żony Klotyldy Clam - Gallas . We dwóch szafach widzimy generalskie uniformy Eduarda . Na lewo przy drzwiach do następnej sali znajdują się prezenty jakie otrzymał generał Eduard od swych przyjaciół . Także po lewej stronie przy drzwiach , którymi weszliśmy znajduje się album ze zdjęciami oficerów generała Eduarda . Obrazy na ścianie przedstawiają bitwy prowadzone przez Austro - Węgry na terenie północnych Włoch w drugiej połowie XIX wieku ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_9.mp3",
+                    "number": 9,
+                    "img": "/castle/uniformy.jpg",
+                    "title": "Uniformy",
+                    "card_label": "Stoimy w narożnym pomieszczeniu skrzydła Bibersztejnów .",
+                    "button": "Odwiedzać",
+                    "text" :"Stoimy w narożnym pomieszczeniu skrzydła Bibersztejnów . Z okien rozciąga się widok na południowo - wschodnie pasmo Gór Izerskich . W pomieszczeniu tym znajdują się uniformy jakie nosiła służba w XIX wieku . Są tu stroje woźnicy , leśniczego , nadleśniczego , adjukta , odźwiernego i komorników . Na dnie szafy są nakrycia głowy i peruczki . To pomieszczenie służyło niegdyś za pokój gościnny ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_10.mp3",
+                    "number": 10,
+                    "img": "/castle/nositka.jpg",
+                    "title": "Lektyka i tarcze",
+                    "card_label": "W tym pomieszczeniu widzimy lektykę , w której noszono damy , widzimy też dolną część wózeczka dla dzieci oraz barokowe sanie .",
+                    "button": "Odwiedzać",
+                    "text": "W tym pomieszczeniu widzimy lektykę , w której noszono damy , widzimy też dolną część wózeczka dla dzieci oraz barokowe sanie .\n\nTutaj widzimy tarcze strzeleckie , do których strzelano aby przygotować się do polowania . Pod oknem na stoliku stoi mała tarcza , do której można było strzelać w pomieszczeniach ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_11.mp3",
+                    "number": 11,
+                    "img": "/castle/lovecky_salon.jpg",
+                    "title": "Łowiecki salonik",
+                    "card_label": "W tym pomieszczeniu są wystawione łowieckie trofea .",
+                    "button": "Odwiedzać",
+                    "text": "W tym pomieszczeniu są wystawione łowieckie trofea . Widzimy tu obraz przedstawiający ostatniego wilka na Frydlantsku , zastrzelonego w roku 1766 . Pod oknem widzimy bardzo ciekawy stół , którego blat zrobiony jest ze 130 letniej brzozy . Widzimy też inny ciekawy stół , krzesło i żyrandol zrobione z rogów jelenich ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_12.mp3",
+                    "number": 12,
+                    "img": "/castle/jidelna.jpg",
+                    "title": "Zamkowa jadalnia",
+                    "card_label": "Znajdujemy się w jadalni zamkowej , gdzie widzimy piec kaflowy z XVII wieku , obok wisi zegar także z XVII wieku .",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się w jadalni zamkowej , gdzie widzimy piec kaflowy z XVII wieku , obok wisi zegar także z XVII wieku . Cynowe naczynia w większości pochodzą z XVIII i XIX wieku .\n\nWychodząc z jadalni po lewej stronie zobaczymy drzwi prowadzące niegdyś do więzienia .\n\nA teraz udamy się na drugie piętro zamkowe ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_13.mp3",
+                    "number": 13,
+                    "img": "/castle/zbrojnice1.jpg",
+                    "title": "Zbrojownia",
+                    "card_label": "Dawniej znajdowała się tutaj sala audiencyjna .",
+                    "button": "Odwiedzać",
+                    "text": "Dawniej znajdowała się tutaj sala audiencyjna . Później pomieszczenie to zostało zmienione w zbrojownie . Wystawione bronie należą już od XIX wieku do najbardziej podziwianych eksponatów frydlanskich zbiorów . Już w 1801 roku tutejsi właściciele udostępnili zamek zwiedzającym . I tak powstało pierwsze w Europie Środkowej zamkowe muzeum . W większości znajdują się tu strzelby , muszkiety , halabardy - broń , którą używali husyci , działa i moździeże z XVII wieku ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_14.mp3",
+                    "number": 14,
+                    "img": "/castle/postroje.jpg",
+                    "title": "Uprzęże",
+                    "card_label": "W następnym pomieszczeniu prezentujemy uprząż końską .",
+                    "button": "Odwiedzać",
+                    "text": "W następnym pomieszczeniu prezentujemy uprząż końską . Są tu derki , czapraki i siodła. Naprzeciw wyeksponowane są uprzęże szorowe , które służyły do ciągnięcia powozów - są pozłacane , natomiast po lewej stronie widzimy uprzęże chomątowe , które są posrebrzane . Ciekawe jest wyposażenie konnego gońca , które znajduje się po lewej stronie drzwi do następnego pomieszczenia . Jest to wielki kapelusz na listy , który był zakładany na plecy , ogromne buty z cholewami , które nakładało się na zwykłe obuwie dla ochrony przed zimnem, deszczem i śniegiem . Widzimy jeszcze siodło i bicz gońca konnego ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_15.mp3",
+                    "number": 15,
+                    "img": "/castle/obrazarna.jpg",
+                    "title": "Galeria obrazów",
+                    "card_label": "W następnym pomieszczeniu mieści się galeria obrazów .",
+                    "button": "Odwiedzać",
+                    "text": "W następnym pomieszczeniu mieści się galeria obrazów . Wiszą w niej przeważnie portrety frydlantskich panów i ich rodzin . Ich portrety widzieliśmy już w sali rycerskiej i przyległych pomieszczenia . Wyjątkiem są portrety : hiszpańskiej infantki Małgorzaty Teresy żony cesarza Leopolda I . Jej portret wisi nad drzwiami , którymi weszliśmy tutaj . A drugi portret przedstawia Annę Duńska .\n\nWidzimy tu także piękną alabastrową paterę na owoce , która stoi na stole . A po prawej stronie na stoliku jest stu letnie jajo strusie ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_16.mp3",
+                    "number": 16,
+                    "img": "/castle/vrchnostenska.jpg",
+                    "title": "Pańska kancelaria",
+                    "card_label": "Pomieszczenie to zostało urządzone jako kancelaria pana zamku .",
+                    "button": "Odwiedzać",
+                    "text": "Pomieszczenie to zostało urządzone jako kancelaria pana zamku . Stara barokowa kancelaria służyła jako ewidencja poddanych . Na ścianie jest obraz olejny przedstawiający mapę frydlantskiej ziemi z końca XVII wieku .W rogu stoi malowana szafka narożna. W lewo od wisi portret Jana Wacława Gallasa , między oknami jest zdjęcie generała Eduarda Clam - Gallasa , a na prawo od drzwi , którymi weszliśmy zobaczymy portret syna generała Eduarda , czyli Franciszka Clam - Gallasa . Nad drzwiami wisi relief ze świętym Florianem - patronem strażaków .\n\nZwiedzanie zamku Frydlant dobiegło końca . Dziękujemy Państwu serdecznie za uwagę ."
                 }
             ]
         },
@@ -2772,6 +3418,162 @@
                     "card_label": "Hemos llegado al final de nuestro recorrido.",
                     "button": "Visita",
                     "text": "Hemos llegado al final de nuestro recorrido. La capilla de Santa Ana está construida en el sitio de la torre de vigilancia original del castillo. También fue construida por los Redern, y la construcción fue realizada por Marcus Spazzio de Lancia. Por cierto, ese también diseñó y construyó el palacio por el que pasamos hoy.\n\nEl castillo está conectado a la capilla por un arco de riostra, esta vez tan amplio que forma un pasillo cómodo de conexión, para que la familia pueda llegar desde el castillo a la capilla a través de los espacios interiores.\n\nLuego, la capilla está conectada con el palacio, por lo que puede recorrer todos los edificios principales del complejo sin tener que salir fuera del edificio.\n\nEl pasillo del arco de riostra conducía directamente al oratorio de la capilla, donde se sentaba la nobleza. Está justo encima de ustedes. Debajo de la familia en el espacio detrás de la verja, donde hoy se pueden ver túnicas sacerdotales y casullas de los siglos XVIII y XIX, había bancos reservados para la gente más adinerada del pueblo y bancos sencillos eran entonces para otros visitantes y personal del castillo que también participaba en la misa. La capilla tiene dos altares. Uno protestante, es de principios del siglo XVII (autor: Ambrosio Fritch), que decoró la capilla bajo la familia Redern, y el otro católico, que fue colocado en la capilla por los Gallas, es sólo de finales del siglo XVII.\n\nFue ese que estaba decorado con la imagen de Santa Ana, que da nombre a la capilla. La estatua que vemos en el altar hoy representa a Santa Rosalía.\n\nLa capilla se complementa luego con un púlpito y en la parte superior del primer piso podemos ver el órgano. Los esgrafiados neorrenacentistas bajo el oratorio muestran escenas de la vida de Cristo.\n\nBueno, como les dije, esta es la última zona que verán hoy en la ruta del palacio. Desde aquí, bajaremos por la segunda escalera y me despediré de ustedes abajo en la puerta.\n\nSaldremos justo enfrente del castillo alto, allí aún se pueden subir unos escalones hasta el mirador de Valdstein, donde se ve todo el tramo del castillo por el que hemos pasado hoy. Se ve el arco de conexión encima de ustedes y un camino debajo que los llevará de regreso al patio principal y fuera del recinto. Pueden bajar por las escaleras o por el camino antiguo de caballero.\n\nEspero que hayan disfrutado el recorrido y si continúan en la ruta del castillo, esperen al guía en el patio bajo.\n\nUna vez más les doy gracias por la visita y espero que tengan un buen día y que, en algún momento, volvamos a vernos."
+                }
+            ]
+        },
+        {
+            "tour_id": "chateau",
+            "language": "pl",
+            "title": "Pałac",
+            "img": "/chateau/chateau.jpg",
+            "rooms_label": "pokoi",
+            "time": "60 minut",
+            "description": "Ta wycieczka prowadzi gościa przez bogato wyposażony zamek i historię ostatnich właścicieli Clam Gallas. W pełni wyposażona trasa zwiedzania odwzorowuje zamek i jego ponad 20 pomieszczeń na wszystkich piętrach.",
+            "button": "Rozpocząć wycieczkę",
+            "rooms": [
+                {
+                    "audio": "/pl/chateau/pl_room_1.mp3",
+                    "number": 1,
+                    "img": "/chateau/dolni_nadvori.jpg",
+                    "title": "Dziedziniec Dolny",
+                    "card_label": "Znajdujemy się na dziedzińcu dolnym , z którego roztacza sie widok na caŁy obiekt .",
+                    "button": "Odwiedzać",
+                    "text": "Dzień dobry , witamy Państwa bardzo serdecznie na zamku Frydlant i życzymy przyjemnego zwiedzania . Znajdujemy się na dziedzińcu dolnym , z którego roztacza sie widok na caŁy obiekt . Widzimy średniowieczny zamek , renesansową kaplicę oraz nowe i stare skrzydŁo paŁacowe. Gotycka warownia wzniesiona zostaŁa w poŁowie XIII wieku . Najstarszą częścią zamku jest wysoka wieża zwana Indika. Kaplica zostaŁa zbudowana w latach 1598- 1602 na polecenie ówczesnych wŁaścicieli zamku – Melchiora i Katarzyny von Redern . Stara renesansowa część paŁacu ozdobiona jest sgraffitami – jest to renesansowa technika zdobienia tynku pochodząca z Włoch. Do starej paŁacowej części dobudowano w XIX wieku nową tzw. SkrzydŁo Kasztelańskie.\n\nDroga prowadząca na zamek nazywana jest Rycerską . Po niej rycerze wjeżdżali konno a damy byŁy wnoszone w lektykach ."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_2.mp3",
+                    "number": 2,
+                    "img": "/chateau/kuchyne.jpg",
+                    "title": "Kuchnia PaŁacowa",
+                    "card_label": "Trasa paŁacowa opowie nam o najnowszej historii zamku Frydlant .",
+                    "button": "Odwiedzać",
+                    "text": "Trasa paŁacowa opowie nam o najnowszej historii zamku Frydlant . Skupimy się na ostatnim męskim potomku rodu Clam Gallas , który nosiŁ imię Franz. Dowiedzą się Państwo sporo o nim i jego najbliższej rodzinie.\n\nNaszą wycieczkę zaczynamy nietradycyjnie bo od kuchni, która byŁa częścią parteru przeznaczonego na pomieszczenia gospodarcze. ZnajdowaŁa się tu nie tylko kuchnia i spiżarnia ale także kuchnia dla sŁużby i kancelaria majordomusa. Dalsze pomieszczenia gospodarcze w postaci magla czy skŁadu bielizny znajdowaŁy się w wieżyczce nad wejściem na dziedziniec .\n\nKuchnia w tej postaci jaką widzimy pochodzi z przeŁomu XIX i XX wieku . Kuchnia paŁacowa budziŁa się do życia jako pierwsza . OkoŁo 4 rano zapalano w piecu i zaczynaŁo się przygotowywanie śniadania. Kucharka i jej pomocnicy wstawali najwcześniej pracując nad listą potraw na dany dzień. Menu byŁo konsultowane z panią domu czyli Marią Clam Gallas – żoną wcześniej wspomnianego Franza .\n\nDwoje orginalnych menu , które zachowaŁy się widzimy na stole pod oknem.\n\nFrydlantska kuchnia jest dosyć nowoczesna jak na tamte czasy . Widzimy tu zbiór naczyń miedzianych i ceramicznych . Piece kuchenne pochŁaniaŁy dużo drewna , które musiaŁo być w zasięgu ręki , dlatego obok kuchni znajduje się drewutnia. Piec ogrzewaŁ także wodę , która byŁa wpompowywana do zbiornika znajdującego się w Łazience na pierwszym piętrze. Ogrzana woda byŁa odprowadzana rurami , które widzimy przy suficie.\n\nWyposażenie kuchni i dalszych komnat jest orginalne. Zamek Frydlant nie zostaŁ rozkradziony w trakcie wojny i także po jej ukończeniu.\n\nJedzenie noszono z kuchni schodami do jadalni.\n\nTeraz przejdziemy przez spiżarnię , po drodze zobaczymy jeszcze pomieszenie sŁużbowe i przejdziemy do części mieszkalnej."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_3.mp3",
+                    "number": 3,
+                    "img": "/chateau/pripravna.jpg",
+                    "title": "Korytarz przy kredensie",
+                    "card_label": "Znajdujemy się w korytarzu dla sŁużby .",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się w korytarzu dla sŁużby .\n\nMożna się stąd dostać do podgrzewalni posiŁków inaczej kredens . Teraz mamy wystawione tu serwisy obiadowe oraz mnóstwo ceramiki , porcelany i naczynia cynowe. Piecyk , na którym podgrzewano jedzenie znajduje za oknem po prawej stonie. Podgrzane jedzenie wydawano sŁużbie przez okienko i wnoszono do jadalni.\n\nWidzimy dwa napisy na ścianie , które przetŁumaczone brzmią –\n\n1.Uważaj na język albo kontroluj to co mówisz\n\n2.Zachowaj spokój bez gniewu i zŁości"
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_4.mp3",
+                    "number": 4,
+                    "img": "/chateau/erbovni_sal.jpg",
+                    "title": "Sala Herbowa lub Salon Gier",
+                    "card_label": "Jesteśmy na pierwszym piętrze paŁacowym , na którym mieszczą się pokoje reprezentacyjne oraz pokoje pana zamku.",
+                    "button": "Odwiedzać",
+                    "text": "Jesteśmy na pierwszym piętrze paŁacowym , na którym mieszczą się pokoje reprezentacyjne oraz pokoje pana zamku. Znajdujemy się w salonie , który sŁużyŁ jako pokój gier . Widzimy stóŁ bilardowy, który pierwotnie staŁ w zamkowej części . StóŁ zostaŁ przeniesiony tutaj w XIX wieku ponieważ stary zamek zacząŁ od 1801 roku tworzyć muzeum rodzinne. Widzimy także stolik do ruletki , stoŁy szachowe i do trik traka .\n\nW tej sali poznamy także historię wszystkich rodów zamieszkujących tę siedzibę , począwszy od średniowiecza a skończywszy na XX stuleciu. Widzimy herby wszystich rodzin . Nie jest przypadkiem , że w tej sali , przez którą przechodzili wszyscy goście wyeksponowano wszystkie herby . Franz Clam Gallas mógŁ się pochwalić bogatą historią tego miejsca .\n\nPierwszy herb przedstawia ród Ronoviców , który panowaŁ na zamku jako pierwszy do 1278 roku. Następnie przez prawie 300 lat zamek należaŁ do rodziny Bibersztejnów . To dzięki nimi zamek zostaŁ przebudowany w XVI wieku zmieniając się w renesansową warownię. Po śmierci ostatniego męskiego potomka z rodu Bibersztejn zamek w poŁowie XVI wieku kupili Redernowie . Ich panowanie nie trwaŁo dŁugo ale za to w największym stopniu rozbudowali Frydlant. Powiększyli zamek , zbudowali kaplicę oraz paŁac renesansowy , w którym teraz znajdujemy się. Pierwotnie w paŁacu renesansowym znajdowaŁy się kancelarie i pokoje dla sŁużby. Po Redernach zamek znalazŁ się we wŁadaniu Albrechta von Waldsztejna . Jego pobyt na zamku ograniczyŁ się tylko do kilku wizyt , ale dzięki niemu ziemia frydlancka byŁa strategicznie tak dobrze zabezpieczona ,że przez kilka lat żadna bitwa jej nie dotkŁa , dlatego mówiono o niej TERRA FELIX – SZCZĘŚLIWA ZIEMIA. Waldsztejn byŁ czŁowiekiem odważnym , ambitnym oraz ogromnie bogatym , dlatego niebezpiecznym nawet dla Habsburgów . Cechy jego charakteru zgubiŁy go , zostaŁ zamordowany w Chebie w 1634 roku przez wojska Habsburgów . Zdradzili go jego wspóŁtowarzysze. Między nimi byŁ Mathias von Gallas pochodzący z Włoch , który w nagrodę za zdradę Albrechta dostaŁ od króla 500 000 zŁotych oraz Frydlanckie Państwo wraz z zamkiem . Paradoksalnie Mathias krótko nacieszyŁ się nabytym zamkiem ponieważ na kilka lat warownię obsadziŁo wojsko szwedzkie . Gallas pŁaciŁ im spore pieniądze aby w zbyt dużym stopniu nie zdewastowali zamku , i tak się też staŁo a nawet zostaŁy po nich pamiątki w postaci rozbudowanej fortyfikacji i barbakanu . W poŁowie XVIII wieku rodzina Gallas Łączy się z rodem Clamów ponieważ ostatni Gallas nie doczekaŁ się męskiego potomka a nie chciaŁ by jego nazwisko zaginęŁo . Przez poŁączenie dwóch rodów oraz herbów powstaŁa rodzina Clam Gallas panująca na zamku do roku 1945. Frýdlant zostaŁ odebrny ostatniej wŁaścicielce Clotyldzie Clam Gallas na postawie dekretów Benesza . Clotylda jedna z córek Franza i Marii Clam Gallasów jako ostatnia wŁaścicielka Frydlantu umarŁa we Salzburg w 1975 roku , byŁa bezdzietna i samotna ."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_5.mp3",
+                    "number": 5,
+                    "img": "/chateau/jidelna.jpg",
+                    "title": "Jadalnia",
+                    "card_label": "Bezpośrednio do Sali Herbowej dobudowana zostaŁa w XIX wieku paŁacowa jadalnia, z której można przejść na taras , na którym w sŁoneczne i ciepŁe dni spożywano posiŁki.",
+                    "button": "Odwiedzać",
+                    "text": "Bezpośrednio do Sali Herbowej dobudowana zostaŁa w XIX wieku paŁacowa jadalnia, z której można przejść na taras , na którym w sŁoneczne i ciepŁe dni spożywano posiŁki. Widzimy w jadalni okno w stylu angielskim , piec w stylu wŁoskim , obok pieca wbudowane jest w ściane lawabo , w którym obmywano sobie dŁonie po posiŁkach. Na stole króluje porcelana angielska a przy oknie stoji tzw. Pomocnik – poziomowy stolik na naczynia albo potrawy. Wróćmy do okna . Ozdobione jest herbem Clam Gallasów . Łączy w sobie symbole dwóch rodzin – austryjackiego kota rodziny Clam oraz wŁoskiego orŁa rodziny Gallasów. Natomiast w środku występuje Diana – bogini Łowu. Z okna rozciąga się widok na Góry Izerskie.\n\nŚciany jadalni pokryte są drewnem i myśliwskimi trofeami. Ściany zdobione są motywami czterech cnót – Wiary , Nadzieji , Sprawiedliwości oraz MiŁości.\n\nNa suficie widzimy Jupitera – wŁadcę Panteonu, który jest bogiem światŁa i nieba , Merkurego – rzymskiego boga handlu i zysku , Justicję – personifikację sprawiedliwości oraz Fortunę – boginię losu.\n\nJadalnia byŁa używana parę razy dziennie . Śniadanie byŁo podawane w formie bufetu. Dzieci jadaŁy osobno , razem z guwernantką. O 13.30 rozlegaŁ się gong ogŁaszający obiad. Najważniejsza byŁa kolacja , wtedy byŁy prowadzone dŁugie rozmowy na różne tematy . Między gŁównymi posiŁkami podawano desery okoŁo 11.00 i 17.00 w prywatnych salonach."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_6.mp3",
+                    "number": 6,
+                    "img": "/chateau/modry_salon.jpg",
+                    "title": "Salon BŁękitny",
+                    "card_label": "Luksusowy salon z wielkim dywanem w perskie wzory i skórzanymi tapetami jest gŁównym salonem na tym piętrze .",
+                    "button": "Odwiedzać",
+                    "text": "Luksusowy salon z wielkim dywanem w perskie wzory i skórzanymi tapetami jest gŁównym salonem na tym piętrze . Tutaj odbywaŁy się spotkania towarzyskie , dlatego ten salon byŁ najbardziej reprezentacyjny . Chciano w ten sposób pokazać status rodzinny . Znajdują się tutaj bardzo cenne eksponaty – belgijska i holenderska ceramika, holenderskie obrazy z XVII wieku . Widzimy także portret Franza Clam Gallasa. Kominek jest w barwach żóŁto – niebieskich , jest to kolor herbu Clam Gallas . Do tego salonu prowadzą drzwi z gŁównego korytarza , na którym znajdują się schody na dalsze piętra paŁacowe. Z tego salonu także prowadzą drzwi na taras , gdzie rozpościera się widok na stary zamkowy browar i rzekę Smiedę oraz fosę zamkową wybudowaną przez Szwedów. Salon ten sŁużyŁ rodzinie Franza jako gŁówne pomieszczenie do odpoczynku i spotkań towarzyskich ."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_7.mp3",
+                    "number": 7,
+                    "img": "/chateau/knihovna.jpg",
+                    "title": "MaŁa biblioteka",
+                    "card_label": "Ściany tego saloniku zdobią także tapety skórzane tzw. Kurdybany .",
+                    "button": "Odwiedzać",
+                    "text": "Ściany tego saloniku zdobią także tapety skórzane tzw. Kurdybany . Widzimy także podręczną biblioteczkę , która zawiera tyko maŁą część księgozbioru jaki posiadamy. Główna biblioteka znajduje się w części zamkowej , zaŁożyŁ ją w XVII wieku Franz Ferdynand Gallas . Zawiera on okoŁo 16 000 książek datowanych od XVI do XX wieku . Dominuje tu ceramika holenderska – delfteńska."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_8.mp3",
+                    "number": 8,
+                    "img": "/chateau/prijimaci_salon.jpg",
+                    "title": "Sala audiencyjna",
+                    "card_label": "Dostaliśmy się do prywatnych komnat Franza Clam Gallasa .",
+                    "button": "Odwiedzać",
+                    "text": "Dostaliśmy się do prywatnych komnat Franza Clam Gallasa . Przedostatni wŁaściciel Frydlantu urodziŁ się w 1854 roku . Nigdy nie zrobiŁ tak wielkiej kariery wojskowej jak jego ojciec – gen. Eduard Clam Gallas ale i tak staŁ się nadporucznikiem puŁku dragonów . Prócz Frydlantu jego majątek obejmowaŁ także posiadŁości jak Grabsztejn , Lemberk, paŁac w Libercu , w Wiedniu a także ogromny paŁac w Pradze. Z żoną Marią dochowali się siedmiu córek . Kiedy wiadomo byŁo już , że nie doczekają się męskiego potomka , majątek zostaŁ podzielony miedzy córkami . Przedostatnia córka Clotylda przejęŁa Frýdlant. Salon ten , zresztą jak caŁe to piętro powstaŁo w stylu neorenesansowym , zaprojektowaŁ je dziadek Clotyldy – gen Eduard Clam Gallas. Widzimy tu portrety wŁaścicieli zamku , o których wspominaliśmy w Sali herbowej –\n\nMelchior von Redern wraz z synem Krzysztofem\n\nAlbrecht von Waldszejn\n\nMathias Gallas\n\nKrystian Filip Clam Gallas – pra pra dziadek Clotyldy"
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_9.mp3",
+                    "number": 9,
+                    "img": "/chateau/pracovna.jpg",
+                    "title": "Pracownia",
+                    "card_label": "Dalszym prywatnym pomieszczeniem jest pracownia Franza Clam Gallasa.",
+                    "button": "Odwiedzać",
+                    "text": "Dalszym prywatnym pomieszczeniem jest pracownia Franza Clam Gallasa. W odróżnieniu od wcześniejszych pomieszczeń , gdzie przyjmowano gości ten salon byŁ caŁkowicie prywatny i niedostępny. Prócz biurka , przy którym pracowaŁ Franz widzimy dalszą część księgozbioru – mamy tu wszystkie powieści Dickensa. Franz swoje dzieciństwo przeżyŁ w Czechach i Austrii . MiaŁ angielską guwernantkę , która staraŁa się o jego wychowanie w duchu nowej tradycji. StudiowaŁ historię i prawo we Wiedniu. Ojciec siedmiu córek byŁ bardzo szanowany przez poddanych . ByŁ sprawiedliwy i miaŁ poczucie humoru. Franz finansowaŁ rozwój lokalnych stowarzyszeń , byŁ wielkim propagatorem turystyki – finansowaŁ powstawanie szlaków turystycznych i schronisk w Górach Izerskich , kochaŁ sporty zimowe. ByŁ czŁonkiem klubu automobilowego i golfowego a we Wiedniu zaŁożyŁ pierwszy klub tenisowy. PrzekazywaŁ spore sumy na renowacje kościoŁów i szkóŁ oraz na socialną pomoc swych poddanych. Jako znakomity jeździec konny towarzyszyŁ cesarzowej Sissi podczas polowań w Angli. Powstanie państwa CzechosŁowackiego pozbawiŁo go tytuŁu szlacheckiego a reforma rolna odebraŁa mu ponad poŁowę majątku ziemskiego . Dla niego jednak najważniejsze byŁo to , by pracownicy jego nie stracili pracy . Wszystkie te wydarzenia pogorszyŁy jego stan zdrowia. Franz Clam Gallas zmarŁ na wylew w 1930 roku. Podczas konduktu pogrzebowego jego herb byŁ niesiony do góry nogami – oznaczaŁo to , że byŁ ostatnim męskim potokiem rodu Clam Gallas.\n\nMożemy zobaczyć na biurku fotografię mŁodego Franza wraz z żoną Marią oraz Franza jako woźnicę z zaprzęgiem skŁadającym się z jego czterech córek. Na ostatnim zdięciu widzimy siedzącego w fotelu gen. Eduarda Clam Gallasa- ojca Franza."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_10.mp3",
+                    "number": 10,
+                    "img": "/chateau/loznice.jpg",
+                    "title": "Sypialnia Franza Clam Gallasa",
+                    "card_label": "Wyposażona jest tak samo jak wcześniejsze pomieszczenia w meble z przeŁomu XVIII i XIX wieku .",
+                    "button": "Odwiedzać",
+                    "text": "Wyposażona jest tak samo jak wcześniejsze pomieszczenia w meble z przeŁomu XVIII i XIX wieku . Na stoliku toaletowym znajdują się przybory do golenia , misy i dzbany do mycia sygnowane herbem Frydlantu , mydelniczka oraz podŁużne nacznie na szczoteczki do mycia zębów. Na stoliku przy dzwiach wystawione są zdięcia rodzinne. Obok szafy widzimy zdięcie wszystkich siedmiu córek Franza ustawionych od najstarszej do najmŁodszej . Clotylda – ostatnia pani zamku stoji jako druga od lewej strony."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_11.mp3",
+                    "number": 11,
+                    "img": "/chateau/kvetinovy_salon.jpg",
+                    "title": "Salon Kwiatowy",
+                    "card_label": "Zwiedzanie damskiego piętra zaczynamy od gŁównego pomieszczenia , którym jest salon kwiatowy nazywany także muzycznym.",
+                    "button": "Odwiedzać",
+                    "text": "Zwiedzanie damskiego piętra zaczynamy od gŁównego pomieszczenia , którym jest salon kwiatowy nazywany także muzycznym. Na tym piętrze dominujacy jest kolor niebieski – dawniej jako kolor damski. Widzimy tu orginalne tapety we wzory kwiatowe , który powtarza się na zasŁonach , suficie oraz tapicerce meblowej – ta jest odnowiona. Inicjatorką tego salonu byŁa matka Franza – Clotylda starsza . Portret Clotyldy starszej znajduje się między oknami . Po jej prawej stronie widzimy portret mŁodego gen Eduarda Clam Gallasa – męża Clotyldy starszej a zarazem ojca Franza. Naprzeciw Eduarda patrzac na lewo wisi portret starszego brata gen Edurda Clam Gallasa – Wilhelma, który zmarŁ na tyfus w 1822 roku w wieku 20 lat . Po lewej stronie od portretu Wilhelma Clam Gallasa widzimy portret Krystiana Krzysztofa Clam Gallasa , który byŁ ojcem Eduarda i Wilhelma . Za rządów gen Eduarda paŁac przeszedŁ wielką przebudowę , on także zaprojektowaŁ piętro męskie i sfinansowaŁ budowę najnowszego skrzydŁa paŁacowego tzw. Kasztelańskiego. Eduard Clam Gallas zmarŁ w wieku 86 lat w 1891 roku . Nad XIX wieczną komodą pochodzącą z Francji widzimy portret maŁego księcia Schwarzenberga – jeden z siostrzeńców ostatniej wŁaścicielki – Clotyldy . Siostry Clotyldy wdaŁy się w tak znakomite rody jak Auerspergowie, Lichtensztajnowie, Arco – Zinnebergowie oraz Schwarzenbergowie. Jedna z sióstr - Eduardyna Clam Gallas zawarŁa związek nierówny , biorąc za męża nieszlachcica , byŁ to doktor Vinklbauer. W salonie tym odbywaŁy się rodzinne spotkania a także maŁe rodzinne koncerty. Z salonu kwiatowego przechodzi się przez wszystkie pokoje tzw. Anfiladą , która przeważnie kończyŁa się jak w naszym przypadku z jednej strony lustrem a z drugiej strony widokiem na okno, czasami też tam wisiaŁ obraz.\n\nNajdŁuższa anfilada w Czechach – 80 metów , znajduje się w paŁacu Valtice."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_12.mp3",
+                    "number": 12,
+                    "img": "/chateau/loznice_damske1.jpg",
+                    "title": "Apartamenty Marii i Clotyldy",
+                    "card_label": "Zwiedzamy teraz 6 pomieszczeń , które po śmierci Franza zamieszkaŁy jego żona i córka Clotylda.",
+                    "button": "Odwiedzać",
+                    "text": "Zwiedzamy teraz 6 pomieszczeń , które po śmierci Franza zamieszkaŁy jego żona i córka Clotylda. StworzyŁy 2 apartamenty każdy skŁadający się z 3 pokoji. Pierwszy apartament zamieszkiwaŁa żona Franza – Maria Clam Gallas , w skŁad tego apartamentu wchodzi – sypialnia , garderoba i salonik .\n\nMaria z domu Hoyos miaŁa hiszpańskich przodków. UrodziŁa się 12 sierpnia 1858 na zamku Horn w Austrii jako jedna z siedmiorga dzieci Karola Hoyos – Sprinzenstein i Eleonory von Paar .\n\nDrugi apartament należaŁ do Clotyldy , tu także widzimy sypialnie, salon i garderobę.\n\nClotylda urodziŁa się 1 stycznia 1898 roku , dostaŁa imię po swej babce. Po śmierci ojca jako spodkobierczyni zamku Frydlant dbaŁa o historię rodu zatrudniając archiwistę i kronikarza – Josefa Bergla. GromadziŁa także rodzinne pamiątki . Tak samo jak jej siostry miaŁa guwernantkę z Anglii , jak każda mŁoda szlachcianka uczestniczyŁa na pierwszym swoim balu we Wiedniu. BraŁa także udziaŁ w pogrzebie cesarza Franciszka Józefa w 1916 roku. Po śmierci matki w 1938 roku przeniosŁa się do najnowszej paŁacowej części tzw. skrzydŁa kasztelańskiego. Ciekawostką jest , że po zbombardowaniu Berlina na zamku zostaŁ zdeponowany księgozbiór z berlińskiej miejskiej biblioteki. W roku 1945 na podstawie Dekretów Beneša zamek skonfiskowano Clotyldzie . ZmarŁa w Salzburku 21.11.1975 roku. ByŁa ostatnia która nosiŁa nazwisko Clam Gallas."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_13.mp3",
+                    "number": 13,
+                    "img": "/chateau/koupelna.jpg",
+                    "title": "Łazienka",
+                    "card_label": "Łazienka ta powstaŁa pod koniec XIX wieku , już wtedy dziaŁaŁa kanalizacja i wodociągi.",
+                    "button": "Odwiedzać",
+                    "text": "Łazienka ta powstaŁa pod koniec XIX wieku , już wtedy dziaŁaŁa kanalizacja i wodociągi. Dominuje tu wanna , na ścianie wisi drewnina deska , która byŁa wkŁadana do wanny i wytwarzaŁa bąbelki. Obok wanny widzimy też zbiornik na ciepŁą wodę , która byŁa tu wtŁaczana z kuchni gdzie byŁa podgrzewana ."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_14.mp3",
+                    "number": 14,
+                    "img": "/chateau/chodba.jpg",
+                    "title": "Korytarz królewski",
+                    "card_label": "Schody , które widzimy po lewej stronie prowadzą na poddasze , które także zwiedzimy.",
+                    "button": "Odwiedzać",
+                    "text": "Schody , które widzimy po lewej stronie prowadzą na poddasze , które także zwiedzimy. Korytarz nosi taką nazwę ponieważ widzimy tu portrety monarchów europejskich z przeŁomu XVI i XVII wieku . Zobaczymy w korytarzu przepiękną barokową szafę – intarsjowaną. Nad szafą widzimy czaszkę bawoŁa – pamiątka z podróży po Afryce. Przy piecu wisi suszarka na ubrania , widzimy także gong do wzywania na posiŁki oraz żardinierę na kwiaty ."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_15.mp3",
+                    "number": 15,
+                    "img": "/chateau/podkrovi.jpg",
+                    "title": "Poddasze",
+                    "card_label": "W tej części zobaczymy pokoje dziecięce , pokoje sŁużby i pokój guwernantki , która zajmowaŁa się dziećmi państwa.",
+                    "button": "Odwiedzać",
+                    "text": "W tej części zobaczymy pokoje dziecięce , pokoje sŁużby i pokój guwernantki , która zajmowaŁa się dziećmi państwa. Zaczniemy od pokoju dzieciecego z tapetami z XIX wieku , byŁ to francuski komiks – Szary Wary.\n\nNastępny salonik to także pokój dziecięcy ,zobaczymy tu zabawki - na Łóżku leży ulubieniec córek Franza – Pączek.\n\nNastępnie widzimy pokój sŁużby , który jest peŁny uniformów pracowników zamku z XIX wieku.\n\nNastępny pokój to sypialnia sŁużby a obok dalsza sypialnia dziecięca.\n\nZ sypialni dziecięcej wchodzimy do salonu , który tworzyŁ pokój do nauki . Tu guwernantka uczyŁa mŁodsze córki Franza i Marii , natomiast do strarszch przychodziŁy nauczycielki z miasta. Dziewczęta uczyŁy się języków obcych , geografi , przyrody , matematyki itd. Widzimy tu sprzęty i pomoce do nauki oraz instrumenty muzyczne. Widzimy także na ścianach podobizny przodków hrabianek Clam Gallasowych .\n\nWyjdziemy na korytarz i tam zobaczymy jeszcze sypialnie guwernantki ."
+                },
+                {
+                    "audio": "/pl/chateau/pl_room_16.mp3",
+                    "number": 16,
+                    "img": "/chateau/kaple.jpg",
+                    "title": "Kaplica PaŁacowa",
+                    "card_label": "Znajdujemy się w Kaplicy PaŁacowej pod wezwaniem św Anny .",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się w Kaplicy PaŁacowej pod wezwaniem św Anny . ZostaŁa ona zbudowana na miejscu starej wieży strażniczej na przeŁomie XVI i XVII wieku . Budowe kaplicy sfinansowali Redernowie – trzecia z koleji rodzina panująca na zamku, widzieliśmy ich herb w Sali herbowej. Redernowie byli protestantami więc dzieki nim powstaŁ oŁtarz renesansowy protestancki- oŁtarz na wprost po wejściu do kaplicy. Potem powstaŁ oŁtarz barokowy , katolicki z inicjatywy rodziny Gallas – piąta z koleji rodzina panująca. Kaplica w XIX wieku byŁa gruntownie odrestaurowana. PowstaŁy wtedy sgraffita na ścianach oraz malowidŁa na stropie. W XIX wieku zakupiono we Wiedniu organy. Mamy tu też wystawione ornaty i naczynia liturgiczne .\n\nWychodzimy z kaplicy kończąc trasę – paŁacową.\n\nTeraz stoimy przed zamkiem zbudowanym w XIII wieku. Zamek zostaŁ zbudowany na skale bazaltowej.\n\nTeraz schodzimy na dziedziniec schodami , droga rycerska jest niezbyt bezpieczna .\n\nDziękujemy i żegnamy Państwa."
                 }
             ]
         }
