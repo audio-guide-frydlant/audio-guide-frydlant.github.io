@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99a72f68.css",
-    "main.js": "/static/js/main.80974fc5.js",
+    "main.js": "/static/js/main.a0e5cb4e.js",
     "static/media/stanovy_salon.bak.jpg": "/static/media/stanovy_salon.bak.7b67f8cd229ecc0f8db7.jpg",
     "static/media/pl_room_4.mp3": "/static/media/pl_room_4.e72cb04af73a693ddc03.mp3",
     "static/media/es_room_4.mp3": "/static/media/es_room_4.971494a5818b7f5b9a1f.mp3",
@@ -198,10 +198,10 @@
     "static/media/icon-128.png": "/static/media/icon-128.987b6916ad8cabc59e8a.png",
     "index.html": "/index.html",
     "main.99a72f68.css.map": "/static/css/main.99a72f68.css.map",
-    "main.80974fc5.js.map": "/static/js/main.80974fc5.js.map"
+    "main.a0e5cb4e.js.map": "/static/js/main.a0e5cb4e.js.map"
   },
   "entrypoints": [
     "static/css/main.99a72f68.css",
-    "static/js/main.80974fc5.js"
+    "static/js/main.a0e5cb4e.js"
   ]
 }
