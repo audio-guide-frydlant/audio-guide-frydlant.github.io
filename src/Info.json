@@ -48,10 +48,10 @@
             "language":"es",
             "help": "¿Cómo usar la aplicación?",
             "help_tour":"¿Cómo iniciar un recorrido?",
-            "help_tour_content":"Después de abrir la aplicación, haga clic en el botón 'Seleccionar recorrido' en la página de inicio. Posteriormente, verá una lista de todos los circuitos turísticos disponibles. Elija el que compró un boleto para. Al hacer clic en el recorrido, verá una descripción general de las salas por las que pasará durante el recorrido. Elige la primera, es decir, la marcada con el número 1. Tras seleccionarla, aparecerá una pantalla con información más detallada de la sala, incluido el audio.",
-            "help_room":"¿Cómo cambio de habitación?",
-            "help_room_content":"Puede cambiar a la habitación siguiente o anterior usando los botones en la parte inferior de la pantalla. Los gestos también están disponibles para usted. Desliza el dedo hacia la izquierda para cambiar a la habitación siguiente, desliza el dedo hacia la izquierda para ir a la habitación anterior. También puede cambiar de habitación si está escuchando audio y su pantalla está bloqueada. Las flechas están disponibles en la notificación mostrada para cambiar.",
-            "help_more_functions":"¿La audioguía tiene características adicionales?",
+            "help_tour_content":"Después de abrir la aplicación, haga clic en el botón 'Seleccionar recorrido' en la página de inicio. A continuación, verá una lista de todos los circuitos de recorrido disponibles. Elige el para el cual ha comprado la entrada. Al hacer clic en el recorrido, verá una descripción general de las habitaciones por las que pasará durante el recorrido. Elige la primera, es decir, la que está marcada con el número 1. Después de seleccionarla, aparecerá una pantalla con información más detallada sobre la habitación, incluido el audio.",
+            "help_room":"¿Cómo cambio de habitaciones? ",
+            "help_room_content":"Puede cambiar a la siguiente o anterior habitación utilizando los botones en la parte inferior de la pantalla. Los desplazamientos rápidos también están disponibles. Deslice a la izquierda para pasar a la siguiente habitación, deslice a la derecha para la habitación anterior. También puede cambiar de habitación si está escuchando el audio y la pantalla está bloqueada. Las flechas están disponibles en la notificación mostrada para cambiar.",
+            "help_more_functions":"¿La audio guía tiene funciones adicionales? ",
             "help_more_functions_content":"Sí, la audioguía ofrece muchas características adicionales. puede encontrar su descripción general después de hacer clic en la navegación debajo del elemento 'Menú'."
         },
         {
@@ -85,8 +85,8 @@
         {
             "language": "es",
             "info": "Información",
-            "tours_info": "Primero, elige el tour para el que has comprado un billete. Luego espere en el lugar donde comienza el recorrido. Su guía lo recogerá allí.",
-            "history_info": "En esta sección, puede aprender sobre la historia del castillo y el castillo. Puede leer una breve historia o conocer a las familias individuales que han sido propietarias de la mansión aquí a lo largo de los años.",
+            "tours_info": "Primero, elija el recorrido para el cual ha comprado la entrada. Luego espere en el lugar donde comienza el recorrido. Su guía lo recogerá allí.",
+            "history_info": "En esta sección, puede Aprendar sobre la historia del castillo y el palacio. Puede leer una breve historia o conocer a las familias individuales que han sido propietarias de la finca aquí a lo largo de los años.",
             "where_to_info": "Si desea realizar otro viaje, le recomendamos visitar los siguientes lugares de la zona cercana.",
             "rooms_overview": "Aquí puede ver una descripción general de las habitaciones ubicadas en la ruta turística que ha elegido."
         },
@@ -339,9 +339,9 @@
             "rooms": "Habitaciones",
             "menu": "Menú",
             "history": "Historia",
-            "houses": "Casas",
+            "houses": "Linajes nobles",
             "owners": "Propietarios",
-            "tours": "Excursiones",
+            "tours": "Rutas",
             "map": "Mapa",
             "where_to_next": "¿Dónde seguir?",
             "gallery": "Galería",
@@ -390,8 +390,8 @@
             "language": "es",
             "letter": "Tamaño de fuente",
             "language_label": "Idioma",
-            "default": "Por defecto",
-            "medium": "Medio",
+            "default": "Pequeño",
+            "medium": "Mediano",
             "large": "Grande"
         },
         {
@@ -472,11 +472,11 @@
         },
         {
             "language": "es",
-            "home": "Hogar",
-            "tours": "Excursiones",
+            "home": "Inicio ",
+            "tours": "Rutas",
             "rooms": "Habitaciones en recorrido",
             "menu": "Menú",
-            "back": "Volver al anterior"
+            "back": "Volver atrás "
         },
         {
             "language": "pl",
@@ -574,25 +574,25 @@
         },
         {
             "language": "es",
-            "button": "Visita",
+            "button": "Visitar",
             "places": [
                 {
-                    "title": "Castillo de Grabštejn",
-                    "description": "Grabštejn fue originalmente un castillo gótico, construido a mediados del siglo XIII, que se encuentra cerca del Área de la Triple Frontera donde se encuentran la República Checa, Alemania y Polonia. Fue remodelado en el siglo XVI como castillo renacentista, y en la actualidad ofrece al visitante varias visitas guiadas.",
+                    "title": "El castillo de Grabštejn",
+                    "description": "El castillo de Grabštejn fue originalmente un castillo gótico, construido a mediados del siglo XIII, que se encuentra cerca del área de la Triple Frontera donde se encuentran la República Checa, Alemania y Polonia. Fue remodelado en el siglo XVI como castillo renacentista, y en la actualidad ofrece al visitante varias visitas guiadas.",
                     "url": "https://hrad-grabstejn.cz/en",
                     "img": "/where_to_next/grabstejn.jpg",
                     "src":"Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
-                    "title": "Castillo de lemberk",
-                    "description": "El predecesor del castillo barroco actual fue el castillo medieval de Lemberk, fundado en la década de 1340 por Havel de Markvartic, esposo de Santa Zdislava. En la segunda mitad del siglo XVI fue reconstruido en un castillo renacentista y adquirió su aspecto actual después de mediados del siglo XVII bajo los señores de Breda. Los últimos propietarios fueron la familia Clam-Gallas, hasta 1945.",
+                    "title": "El castillo de Lemberk",
+                    "description": "El antecesor del castillo barroco actual fue el castillo medieval de Lemberk, fundado en la década de 1340 por Havel de Markvartic, esposo de Santa Zdislava. En la segunda mitad del siglo XVI se reconstruyó en un castillo renacentista y adquirió su aspecto actual después del siglo XVII bajo los señores de Breda. Los últimos propietarios fueron la familia Clam-Gallas, hasta 1945.",
                     "url": "https://www.zamek-lemberk.cz/en",
                     "img": "/where_to_next/lemberk.jpg",
                     "src":"Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Cervecería Albrecht",
-                    "description": "La producción de cerveza señorial en Frýdlant se documenta por primera vez en 1381, aparentemente la cerveza se elaboraba en el castillo. En el siglo XVI, la familia Redern construyó una nueva cervecería independiente cerca del río Smědá, en el sitio donde todavía se encuentra la operación actual. El edificio de pisos con entramado de madera de la cervecería Renaissance está representado en el llamado mapa Glaubic.",
+                    "description": "La producción de cerveza señorial en Frýdlant se documenta por primera vez en 1381, aparentemente la cerveza se elaboraba en el castillo. En el siglo XVI, una nueva cervecería independiente construida por la familia Redern cerca del río Smědá, en el sitio donde todavía se encuentra la operación actual. El edificio de pisos con entramado de madera de la cervecería renacentista está representado en el llamado mapa Glaubic.",
                     "url": "https://pivovar-albrecht.com/",
                     "img": "/people/katerina_redern.jpg",
                     "src":""
@@ -1492,226 +1492,226 @@
             "language": "es",
             "path": "/history_overview",
             "title": "Descripción general de la historia",
-            "button": "Aprende más",
+            "button": "Aprenda más",
             "img": "/history/history.jpg",
-            "card_label": "Conozca la historia del castillo y palacio de Frýdlant.",
-            "description": "Frýdlant is one of largest and most important heritage sites in Northern Bohemia. It consists of two architectural complexes: a medieval castle and a renaissance chateau. The castle was built around the mid-13th century. In 1278, the domain became property of the Biberstein house who took major part in building the large castle palace. Between 1558 and 1620, Frýdlant was owned by the Redern house that continued to upgrade the domain. The Rederns were good managers and warriors, but also builders and art supporters. They built the new renaissance chateau and the chapel. \n\nBetween 1622 and 1634, the castle belonged to Albrecht of Wallenstein. He bought it for 150,000 guldens and gradually built a large domain. His estates flourished greatly during the Thirty Years War as they supplied his army. The Frýdlant region was called Terra felix – the happy country. \n\nAfter Albrecht’s murder in 1634, the emperor gave Frýdlant to the Gallas house, and since 1759 the domain was owned by the Clam-Gallases, an important aristocratic house active in diplomatic and military circles at the imperial court. They remained until 1945 when Frýdlant became property of the state. \n\nThe original gothic castle hasn’t been preserved in its entirety. Nowadays, the castle is a large two-floor building around the small, irregularly shaped courtyard, with the predominant cylindrical tower – a bergfrit. The castle was growing over time, and underwent two renaissance reconstructions in the 16th century. The chapel and the renaissance chateau were built at the turn of the 16th and 17th century by Marco Spazzio di Lancio. The last big reconstruction took place in the 1860s, when the castle warden wing was rebuilt. \n\nIn 1801, the Clam-Gallases enabled public access to a part of the castle with exhibitions, making it the first castle museum in the Central Europe. The current exhibition includes this museum, the chapel with valuable items, and two chateau wings.",
-            "label": "History of castle Frýdlant"
+            "card_label": "Conozca la historia del castillo y castillo de Frýdlant.",
+            "description": "Frýdlant es uno de los sitios patrimoniales más grandes e importantes de Bohemia del Norte. Se compone de dos conjuntos arquitectónicos: un castillo medieval y un palacio renacentista. El castillo fue construido a mediados del siglo XIII. En 1278, el dominio pasó a ser propiedad de la casa Biberstein, que participó en la construcción del gran palacio del castillo. Entre 1558 y 1620, Frýdlant fue propiedad de la casa Redern que continuó mejorando la propiedad. Los Redern eran buenos administradores y guerreros, pero también constructores y amantes del arte. Construyeron el nuevo palacio renacentista y la capilla.\n\nEntre 1622 y 1634, el castillo perteneció a Alberto de Wallenstein (Albrecht de Valdstein). Lo compró por 150.000 florines y gradualmente construyó un gran dominio. Sus propiedades florecieron enormemente durante la Guerra de los Treinta Años, ya que abastecieron a su ejército. La región de Frýdlant se llamaba Terra felix, el país feliz.\n\nDespués del asesinato de Albrecht en 1634, el emperador entregó a Frýdlant a la casa Gallas, y desde 1759 el dominio pasó a ser propiedad de los Clam-Gallas, una importante casa aristocrática activa en los círculos diplomáticos y militares de la corte imperial. Permanecieron aquí hasta 1945 cuando Frýdlant pasó a ser propiedad del estado.\n\nEl castillo gótico original no se ha conservado en su totalidad. Hoy en día, el castillo es un gran edificio de dos pisos alrededor de un pequeño patio de forma irregular, con la torre cilíndrica predominante, una “bergfrit”. El castillo fue creciendo con el tiempo y sufrió dos reconstrucciones renacentistas en el siglo XVI. La capilla y el castillo renacentista fueron construidos a finales del siglo XVI y principios XVII por Marco Spazzio di Lancio. La última gran reconstrucción tuvo lugar en la década de 1860, cuando se reconstruyó el ala del guardián del castellano.\n\nEn 1801, los Clam-Gallas abrieron una parte del castillo al público con exposiciones, convirtiéndolo en el primer museo-castillo en Europa Central. La exposición actual incluye este museo, la capilla con objetos valiosos y dos alas del castillo.",
+            "label": "Historia del castillo Frýdlant"
         },
         {
             "language": "es",
             "path": "/houses",
-            "title": "Casas",
+            "title": "Linajes nobles",
             "img": "/history/houses.jpg",
-            "card_label": "Conozca a los propietarios individuales de la mansión Frýdlant.",
-            "button": "Aprende más",
+            "card_label": "Conozca a los propietarios individuales de la finca Frýdlant.",
+            "button": "Aprenda más",
             "houses": [
                 {
-                    "title": "Ronowitzer",
-                    "description": "Founders of Frýdlant Castle.",
+                    "title": "Los Ronov",
+                    "description": "Fundadores del castillo de Frýdlant.",
                     "img": "/coat_of_arms/ronovci.png",
-                    "button": "More",
+                    "button": "Más",
                     "owners": [
                         {
                             "number": 1,
-                            "name": "Ronowitzer",
+                            "name": "Los Ronov",
                             "years": "?-1278",
-                            "label": "The oldest history of the Frýdlant castle is connected with the Ronowitzer family, who had it built in the 13th century.",
-                            "button": "More",
-                            "text": "The oldest history of the Frýdlant castle is connected with the Ronowitzer family, who had it built in the 13th century. We don't know much about their activities in the northern part of Bohemia. The first known member of this family was Smil, who was a member of the retinue of King Přemysl Otakar I. His sons Henry and Častolov still use the epithet 'of Zittau' in 1238, but in 1257 we already find a mention of 'Častolov of Frýdlant'. The expansion of this family was limited in 1278 by King Přemysl Otakar II., when he took the estate from the Ronowitzer family and sold it to the Biberstein family.",
+                            "label": "La historia más antigua del castillo de Frýdlant está relacionada con la casa de Ronov que lo mandó construir en el siglo XIII.",
+                            "button": "Más",
+                            "text": "La historia más antigua del castillo de Frýdlant está relacionada con la casa Ronov, que lo mandó construir en el siglo XIII. No sabemos mucho sobre sus actividades en la parte norte de Bohemia. El primer miembro conocido de esta familia fue Smil, quien era miembro del séquito del rey Přemysl Otakar I. Sus hijos Enrique y Častolov todavía usan el epíteto 'de Zittau' en 1238, pero en 1257 ya encontramos una mención de 'Častolov de Frýdlant'. La expansión de esta familia se vio limitada en 1278 por el rey Přemysl Otakar II., cuando le quitó la propiedad a la casa Ronov y se la vendió a la casa Biberstein.",
                             "img": "/coat_of_arms/ronovci.png"
                         }
                     ]
                 },
                 {
-                    "title": "Biberstein",
-                    "description": "The longest ruling house, which was responsible for the expansion of the castle.",
+                    "title": "Los Biberstein",
+                    "description": "La casa que más tiempo gobernó en Frýdlant y que fue responsable de la expansión del castillo.",
                     "img": "/coat_of_arms/biberstejnove.png",
-                    "button": "More",
+                    "button": "Más",
                     "owners": [
                         {
                             "number": 1,
                             "name": "Biberstein",
                             "years": "1278-1551",
-                            "label": "Representatives of the Biberstein family became the owners of the Frýdlant castle for the next almost 300 years, and their reign is mainly connected with the construction expansion of the castle and the further growth of Frýdlant manor.",
-                            "button": "More",
-                            "text": "Representatives of the Biberstein family became the owners of the Frýdlant castle for the next almost 300 years, and their reign is mainly connected with the construction expansion of the castle and the further growth of Frýdlant manor. Due to this family's efforts for further territorial gains, there have been several conflicts with neighboring ones nobles (e.g. the burning of Nymburk in 1326) and even clash with the royal army of Wenceslaus IV. \n\nDuring the Hussite Wars, Frýdlant became the center of the anti-Hussite opposition, and the Frýdlant manor was attacked several times between 1420 and 1433. The town of Frýdlant and other villages in the vicinity were several times burned out. The Biberstein family then remained in opposition even against King Charles of Poděbrady and were involved in other military conflicts. During the rule of the last Biberstein, the Frýdlant manor became completely Protestant, which was followed by family of Redern. The last male descendant, Christoph, died in 1551 without an heir and thus the manor fell to the Czech royal chamber.",
+                            "label": "Representantes de la casa Biberstein se convirtieron en los propietarios del castillo Frýdlant  durante los siguientes casi 300 años, y su dominio está relacionado principalmente con la expansión de la construcción del castillo y el mayor crecimiento de la mansión señorial de Frýdlant.",
+                            "button": "Más",
+                            "text": "Los representantes de la casa Biberstein se convirtieron en los propietarios del castillo de Frýdlant durante casi 300 años, y su dominio está principalmente relacionado con la expansión y construcción del castillo y el crecimiento continuo del señorío de Frýdlant. Debido a los esfuerzos de esta familia por obtener más territorio, se produjeron varios conflictos con los nobles vecinos (por ejemplo, el incendio de Nymburk en 1326) e incluso enfrentamientos con el ejército real de Wenceslao IV. Durante las Guerras Husitas, Frýdlant se convirtió en el centro de la oposición anti-husita, y el señorío de Frýdlant fue atacado varias veces entre 1420 y 1433. La ciudad de Frýdlant y otros pueblos de los alrededores fueron quemados en varias ocasiones. La casa Biberstein se mantuvo en oposición incluso contra el rey Jorge de Poděbrady y estuvo involucrada en otros conflictos militares. Durante el gobierno del último miembro de la familia Biberstein, el señorío de Frýdlant se convirtió completamente al protestantismo. El último descendiente varón, Cristóbal, murió en 1551 sin heredero, y así el castillo con todas las tierras señoriales pasó a la cámara real checa.",
                             "img": "/coat_of_arms/biberstejnove.png"
                         }
                     ]
                 },
                 {
-                    "title": "Redern",
-                    "description": "The Silesian house, which contributed to the growth of Protestantism and the construction of the chateau.",
+                    "title": "Los Redern",
+                    "description": "La casa de silesia, que contribuyó al crecimiento del protestantismo y la construcción del castillo.",
                     "img": "/coat_of_arms/redernove.png",
-                    "button": "More",
+                    "button": "Más",
                     "owners": [
                         {
                             "number": 1,
-                            "name": "Friedrich of Redern",
+                            "name": "Federico de Redern",
                             "years": "?-1564",
-                            "label": "Friedrich of Redern was a member of the Silesian knightly family.",
-                            "button": "More",
-                            "text": "Friedrich of Redern was a member of the Silesian knightly family. During his lifetime, he held the position of president of the Silesian Land Chamber and was a member of the royal commission to record the state of the Frýdlant manor after death of the last owner. In 1558 it was Friedrich, who bought the North Bohemian estates of Liberec, Frýdlant and Zawidow. After buying them, he reached elevation to nobility. He and his wife Salomena of Schönaich had a total of 10 children. He died in 1564 while staying in Wroclaw, Poland.",
+                            "label": "Federico de Redern era miembro de una familia caballeresca de Silesia.",
+                            "button": "Más",
+                            "text": "Federico de Redern era miembro de la familia caballeresca de Silesia. Durante su vida, ocupó el cargo de presidente de la Cámara de Tierras de Silesia y fue miembro de la comisión real para registrar el estado del señorío de Frýdlant después de la muerte del último propietario. En 1558 fue Federico quien compró las propiedades de Liberec, Frýdlant y Zawidow en Bohemia del Norte. Después de comprarlos, alcanzó la elevación a la nobleza. Él y su esposa Salomena de Schönaich tuvieron un total de 10 hijos. Murió en 1564 durante su estancia en Wroclaw, Polonia.",
                             "img": "/coat_of_arms/redernove.png"
                         },
                         {
                             "number": 2,
-                            "name": "Melchior of Redern",
+                            "name": "Melchor de Redern",
                             "years": "1555-1600",
-                            "label": "He was the ninth of a total of ten children of Friedrich of Redern.",
-                            "button": "More",
-                            "text": "He was the ninth of a total of ten children of Friedrich of Redern. He studied law at a protestant university in Heidelberg and then together with his brother Christopher went on a cavalier trip to France, where in 1572 he witnessed the murder of the Huguenots during the so-called Bartholomew's Night. In addition to France, he also visited the Italian cities of Rome, Padua or Naples. Melchior eventually joined the service in the army. In the 1570s and 1580s, he took part in the siege of Gdańsk, the anti-Hungarian campaign, the war in the Netherlands or the Siege of Pskov. \n\nAfter death of his brother Christopher in 1591 he became the owner of the Frýdlant manor. He married Catherine of Šlik, the sister of one of the most influential Protestant noblemen, Jáchym Ondřej of Šlik, who was the owner of the neighboring estate. During his lifetime, construction modifications were made in the castle area. He added one castle wing, the of the castle, the Renaissance wing of thechateau was created, and eventually also the chateau chapel. In the 1590s, Melchior returned to the Hungarian battlefields several times as an officer. As early as the spring of 1600, he participated in a meeting in Vienna about the next military advance against the Turks, during the autumn however, he interrupts his military campaign due to health reasons and died in September of this year.",
+                            "label": "Fue el noveno de un total de diez hijos de Friedrich de Redern.",
+                            "button": "Más",
+                            "text": "Fue el noveno de un total de diez hijos de Federico de Redern. Estudió derecho en una universidad protestante en Heidelberg y luego, junto con su hermano Christopher, realizó un viaje de caballeros a Francia, donde en 1572 presenció el asesinato de los hugonotes durante la llamada Noche de Bartolomé. Además de Francia, también visitó las ciudades italianas de Roma, Padua o Nápoles. Melchor finalmente se unió al servicio en el ejército. En las décadas de 1570 y 1580 participó en el asedio de Gdańsk, la campaña anti húngara, la guerra de los Países Bajos o el asedio de Pskov. Después de la muerte de su hermano Christopher en 1591, se convirtió en propietario del señorío de Frýdlant. Se casó con Catalina de Šlik, pariente de uno de los nobles protestantes más influyentes, Joaquín Andreas de Šlik, que era el propietario de la finca vecina. Durante su vida se realizaron modificaciones constructivas en la zona del castillo. Agregó un ala al castillo, se creó el ala renacentista del palacio y, finalmente, también la capilla del castillo. En la década de 1590, Melchor regresó varias veces a los campos de batalla húngaros como oficial. A principios de la primavera de 1600 participó en una reunión en Viena sobre el próximo avance militar contra los turcos, sin embargo durante el otoño interrumpió su campaña militar por motivos de salud y falleció en septiembre de ese año.",
                             "img": "/people/melchior_redern.jpg"
                         },
                         {
                             "number": 3,
-                            "name": "Catherine of Redern",
+                            "name": "Catalina de Redern ",
                             "years": "1553-1617",
-                            "label": "Catherine of Redern, born Šlik, was the sister of Jáchym Ondřej of Šlik, one of those executed at Old Town Square in 1621.",
-                            "button": "More",
-                            "text": "Catherine of Redern, born Šlik, was the sister of Jáchym Ondřej of Šlik, one of those executed at Old Town Square in 1621. Between 1600 and 1611 she managed the Frýdlant manor for her underaged son Christopher. Her work on the Frýdlant estate is mainly connected with disputes with the local townspeople regarding the right to brew beer. Bad relations with the locals eventually resulted in her staying primarily at castle in Liberec. \n\nDuring her tenure, the chateau chapels in Frýdlant and Liberec were completed, and other churches were built in the entire Frýdlant manor. She died in 1617 in Liberec, she was to be buried in the family tomb in Frýdlant, but that never happened and the place of burial is still unknown.",
+                            "label": "Catalina de Redern, nacida Šlik, era una pariente de Joaquín Andreas de Šlik, uno de los ejecutados en la Plaza de la Ciudad Vieja en 1621.",
+                            "button": "Más",
+                            "text": "Catalina de Redern, nacida Šlik, era una pariente de Joaquín Andreas de Šlik, uno de los ejecutados en la Plaza de la Ciudad Vieja en 1621. Entre 1600 y 1611, ella administró la finca de Frýdlant en nombre de su hijo menor de edad, Christopher. Su trabajo en la finca de Frýdlant está principalmente relacionado con disputas con los habitantes locales sobre el derecho a elaborar cerveza. Las malas relaciones con los habitantes locales eventualmente resultaron en que ella se quedara principalmente en el castillo de Liberec. Durante su mandato, se completaron las capillas del castillo en Frýdlant y Liberec, y se construyeron otras iglesias en todo el señorío de Frýdlant. Falleció en 1617 en Liberec, y se suponía que sería enterrada en la tumba familiar en Frýdlant, pero eso nunca sucedió y el lugar de su sepultura sigue siendo desconocido.",
                             "img": "/people/katerina_redern.jpg"
                         },
                         {
                             "number": 4,
-                            "name": "Christopher of Redern",
+                            "name": "Cristóbal de Redern",
                             "years": "1591-1641",
-                            "label": "Christopher took over the administration of the estate in 1611.",
-                            "button": "More",
-                            "text": "Christopher took over the administration of the estate in 1611. He continued the dispute with the townspeople of Frýdlant, which began during his mother's reign. After the outbreak of Bohemian uprising, together with his uncle Jáchym Ondřej of Šlik, he was involved on the side of Protestant union where he became the commander of a cavalry division. He was already suffering from health problems at this time. \n\nAfter defeat in 1620, his manor was confiscated and he lived in exile on the Zawidow estate. In 1627, the Zawidow estate was also confiscated from him. He then lived in the residence of his wife Magdalena of Hundt in Poland. During the raid Swedes to Bohemia between 1639-1640, he returned to Frýdlant, but in the same year he had to leave Frýdlant manor to Wallenstein. He dies in exile sometime after 1641.",
+                            "label": "Christopher se hizo cargo de la administración de la finca en 1611.",
+                            "button": "Más",
+                            "text": "Cristóbal asumió la administración de la finca en 1611. Continuó la disputa con los habitantes del pueblo de Frýdlant, que había comenzado durante el reinado de su madre. Después del estallido del levantamiento de Bohemia, se unió a la unión protestante junto con su tío Joaquín Andreas de Šlik, y se convirtió en el comandante de una división de caballería. En ese momento, ya estaba experimentando problemas de salud.\n\nDespués de la derrota en 1620, su señorío fue confiscado y se exilió en la finca Zawidow. En 1627, también le confiscaron la propiedad de Zawidow. Luego se estableció en la residencia de su esposa, Magdalena de Hundt, en Polonia. Durante la incursión de los suecos en Bohemia entre 1639 y 1640, regresó a Frýdlant, pero ese mismo año tuvo que abandonar la mansión de Frýdlant. Falleció en el exilio en algún momento después de 1641.",
                             "img": "/people/krystof_redern.jpg"
                         }
                     ]
                 },
                 {
-                    "title": "Albrecht of Wallenstein",
-                    "description": "Albrecht of Wallenstein was a Czech military leader, politician and one of the most important figures in the Czech history.",
+                    "title": "La casa de silesia, que contribuyó al crecimiento del protestantismo y la construcción del castillo.",
+                    "description": "Albrecht de Wallenstein fue un líder militar checo, político y una de las figuras más importantes de la historia checa.",
                     "img": "/coat_of_arms/albrecht.png",
-                    "button": "More",
+                    "button": "Más",
                     "owners": [
                         {
                             "number": 1,
-                            "name": "Albrecht von Wallenstein",
+                            "name": "Alberto de Wallenstein",
                             "years": "1591-1641",
-                            "label": "Albrecht of Wallenstein was born into a not very wealthy and influential Protestant family and eventually became one of the most powerful men of European importance.",
-                            "button": "More",
-                            "text": "Albrecht of Wallenstein was born into a not very wealthy and influential Protestant family and eventually became one of the most powerful men of European importance. His tenure at Frýdlant was not long, it lasted only 12 years, even so, this is the time that made this place and the manor the most famous and it was even raised to a dukedom.\n\n The life of Albrecht of Wallenstein was connected with service in the army from a young age. He soon defected from the Protestant camp to the imperial service and on the battlefields of the Thirty Years' War he attained the highest rank in military command, i.e. Generalissimo of the Imperial Army. His possessions, which included the manor of Frýdlant were then more or less spared from major war conflicts and that is why they were referred to as 'the happy land - terra felix'.\n\n As for the Frýdlant manor, during Wallenstein's reign, we can talk about an economic rise, primarily in industries that were associated with the needs of the time – mining and metal processing or gunpowder production. The castle and chateau were uninhabited and only minor structural modifications took place. Wallenstein stayed here only for a few days in 1627, 1628 and 1630. The end of Wallenstein's life was heralded by the loss of trust from the emperor, who felt threatened by Walstein, which is why Wallenstein was murdered by his officers at the beginning of 1634.",
+                            "label": "Albrecht de Wallenstein nació en una familia protestante no muy rica e influyente y eventualmente se convirtió en uno de los hombres más poderosos de importancia europea.",
+                            "button": "Más",
+                            "text": "Albrecht de Wallenstein nació en una familia protestante no muy rica e influyente y eventualmente se convirtió en uno de los hombres más poderosos de importancia europea. Su mandato en Frýdlant no fue largo, duró solo 12 años, aun así, este es el tiempo que hizo que este lugar y la mansión fueran los más famosos e incluso se elevó a un ducado.\n\n La vida de Alberto de Wallenstein estuvo ligada al servicio en el ejército desde muy joven. Pronto desertó del campo protestante al servicio imperial y en los campos de batalla de la Guerra de los Treinta Años alcanzó el rango más alto en el mando militar, es decir, Generalísimo del Ejército Imperial. Sus posesiones, que incluían la mansión de Frýdlant, se salvaron más o menos de los principales conflictos bélicos y por eso se las denominó 'la tierra feliz - terra felix'. En cuanto a la mansión Frýdlant, durante el reinado de Wallenstein, podemos hablar de un auge económico, principalmente en industrias que estaban asociadas con las necesidades de la época: minería y procesamiento de metales o producción de pólvora. El castillo y el castillo estaban deshabitados y solo se realizaron modificaciones estructurales menores. Wallenstein permaneció aquí solo unos días en 1627, 1628 y 1630. El final de la vida de Wallenstein fue anunciado por la pérdida de confianza del emperador, quien se sintió amenazado por Wallenstein, razón por la cual Wallenstein fue asesinado por sus oficiales a principios de 1634.",
                             "img": "/people/albrecht_valdstejn.jpg"
                         }
                     ]
                 },
                 {
                     "title": "Gallas",
-                    "description": "House from northern Italy, which contributed to the expansion of the Frýdlant manor to include Lemberk Castle and its surroundings.",
+                    "description": "Casa del norte de Italia que contribuyó a la expansión de la mansión señorial de Frýdlant para incluir el castillo de Lemberk y sus alrededores.",
                     "img": "/coat_of_arms/gallasove.png",
-                    "button": "More",
+                    "button": "Más",
                     "owners": [
                         {
                             "number": 1,
-                            "name": "Matthias of Gallas",
+                            "name": "Matías de Gallas",
                             "years": "1588-1647",
-                            "label": "The life of Matthias of Gallas and his social rise were, as in the case of Wallenstein, tightly connected with the period of the Thirty Years' War.",
-                            "button": "More",
-                            "text": "The life of Matthias of Gallas and his social rise were, as in the case of Wallenstein, tightly connected with the period of the Thirty Years' War. Matthias joined the army as a young man and became famous for the first time in the wars for the Mantuan inheritance on the side of the Catholic League. In 1628 he entered the service of Albrecht of Wallenstein and became one of his generals. In 1632 he attained the rank of earl. After the betrayal of Wallenstein, he became the heir to the Frydlant manor and later the commander-in-chief of the Imperial army, where he worked until the end of the Thirty Years' War. For Frýdlant, his reign meant the period between 1640-1649 when the castle and town were occupied by Swedish crew. Matthias died in Vienna in 1647.",
+                            "label": "La vida de Matías de Gallas y su ascenso social estuvieron, como en el caso de Wallenstein, estrechamente relacionados con el período de la Guerra de los Treinta Años.",
+                            "button": "Más",
+                            "text": "La vida de Matías de Gallas y su ascenso social estuvieron, al igual que en el caso de Wallenstein, estrechamente relacionados con el período de la Guerra de los Treinta Años. Matías se unió al ejército cuando era joven y se hizo famoso por primera vez en las guerras de sucesión de Mantua, del lado de la Liga Católica. En 1628 entró al servicio de Alberto de Wallenstein y se convirtió en uno de sus generales. En 1632 alcanzó el rango de conde. Después de la traición de Wallenstein, se convirtió en el heredero de la mansión de Frýdlant y más tarde en el comandante-jefe del ejército imperial, donde trabajó hasta el final de la Guerra de los Treinta Años. Para Frýdlant, su reinado significó el período entre 1640 y 1649, cuando el castillo y la ciudad fueron ocupados por las fuerzas suecas. Matías murió en Viena en 1647.",
                             "img": "/people/matyas_gallas.jpg"
                         },
                         {
                             "number": 2,
-                            "name": "Antonius of Gallas",
+                            "name": "Antonio de Gallas",
                             "years": "1638-1695",
-                            "label": "Antonius is the younger of the sons of Matthias of Gallas.",
-                            "button": "More",
-                            "text": "Antonius is the younger of the sons of Matthias of Gallas. He lost his father at the age of 9. After studies and a cavalier journey after France and Benelux, together with his brother Francis Ferdinand, he took over the administration of inherited manors. During his lifetime, he worked as a chamberlain in the service of the Elector of Bavaria and inherited from his father the command of military regiments. His economic situation worsened to the point that he was forced to sell his share to manor and to gave up military regiments as well. In the end, he fell into debt and lived in Kladsk on estates of his son Philip Francis.",
+                            "label": "Antonio es el más joven de los hijos de Matías de Gallas.",
+                            "button": "Más",
+                            "text": "Antonio es el más joven de los hijos de Matías de Gallas. Perdió a su padre a la edad de 9 años. Después de estudios y un viaje caballeresco por Francia y Benelux, junto con su hermano Francisco Fernando, se hizo cargo de la administración de los feudos heredados. Durante su vida, trabajó como chambelán al servicio del Elector de Baviera y heredó de su padre el mando de regimientos militares. Su situación económica empeoró hasta el punto de que se vio obligado a vender su parte de señoríos y también a renunciar a los regimientos militares. Al final, se endeudó y vivió en Kladsko en las propiedades de su hijo Felipe Francisco.",
                             "img": "/people/antonin_pankrac_gallas.jpg"
                         },
                         {
                             "number": 3,
-                            "name": "Francis Ferdinand of Gallas",
+                            "name": "Francisco Fernando de Gallas",
                             "years": "1635-1697",
-                            "label": "Francis is the elder of the sons of Matthias of Gallas.",
-                            "button": "More",
-                            "text": "Francis is the elder of the sons of Matthias of Gallas. After completing his studies and cavalier journey, he took over the administration of the inherited manors. The only court title he received was the titular court chamberlain. During his life he stayed mainly on his manors in Bohemia, mostly in Prague and at the castle in Hoříněves. His life in Frýdlant is mainly connected with the rebellion of the subjects led by the blacksmith Ondřej of Stelzig, which was suppressed in 1680. He died in 1697 and his remains are kept in the ancestral tomb in Hejnice.",
+                            "label": "Francisco es el mayor de los hijos de Matías de Gallas.",
+                            "button": "Más",
+                            "text": "Francisco es el mayor de los hijos de Matías de Gallas. Tras finalizar sus estudios y su periplo caballeresco, se hizo cargo de la administración de los señoríos heredados. El único título de corte que recibió fue el de chambelán de corte titular. Durante su vida permaneció principalmente en sus mansiones en Bohemia, principalmente en Praga y en el castillo de Horineves. Su vida en Frýdlant está relacionada principalmente con la rebelión de los súbditos liderada por el herrero Andreas Stelzig, que fue reprimida en 1680. Murió en 1697 y sus restos se conservan en la tumba ancestral de Hejnice.",
                             "img": "/people/frantisek_ferdinand_gallas.jpg"
                         },
                         {
                             "number": 4,
-                            "name": "John Wenceslaus of Gallas",
+                            "name": "Juan Wenceslao de Gallas",
                             "years": "1671-1719",
-                            "label": "The most important member of this family together with Matthias of Gallas.",
-                            "button": "More",
-                            "text": "The most important member of this family together with Matthias of Gallas. He worked in the service of emperors Joseph I. and Charles VI. as an imperial chamberlain, a true privy councilor and diplomat. He worked in the diplomatic service in London, The Hague and Rome. He was eventually appointed viceroy in Naples, where he died in 1719. He is the founder of the later Clam-Gallas Palace in Prague's Old Town.",
+                            "label": "El miembro más importante de esta familia junto con Matías de Gallas.",
+                            "button": "Más",
+                            "text": "El miembro más importante de esta familia junto con Matías de Gallas. Trabajó al servicio de los emperadores José I y Carlos VI como chambelán imperial, un verdadero consejero privado y diplomático. Trabajó en el servicio diplomático en Londres, La Haya y Roma. Finalmente, fue nombrado virrey en Nápoles, donde murió en 1719. Es el fundador del posterior Palacio Clam-Gallas en el casco antiguo de Praga.",
                             "img": "/people/jan_vaclav_gallas.jpg"
                         },
                         {
                             "number": 5,
-                            "name": "Philip Joseph of Gallas",
+                            "name": "Felipe José de Gallas",
                             "years": "1703-1757",
-                            "label": "The last member of the Gallas family, thanks to whom the Frýdlant estate was expanded to include the area around Lemberk.",
-                            "button": "More",
-                            "text": "The last member of the Gallas family, thanks to whom the Frýdlant estate was expanded to include the area around Lemberk. During his life he held the official positions of the highest regional hofmeister of the Kingdom of Bohemia and the highest court judge. After the Habsburg army suffered a defeat by the Prussians in the Battle of Liberec, the Frýdlant region was plundered by the Prussians. \n\nHe died in 1757 without a male heir, the estate was then managed by his wife Marie Anna. After her death the estate was passed to his nephew Christian Philip of Clam. The condition for this was the merging coats of arms and the addition of the name Gallas. This gave rise to the house Clam-Gallas.",
+                            "label": "El último miembro de la familia Gallas, gracias a la cual la finca Frýdlant se amplió para incluir el área alrededor de Lemberk.",
+                            "button": "Más",
+                            "text": "El último miembro de la casa Gallas, gracias a la cual la finca Frýdlant se amplió para incluir el área alrededor de Lemberk. Durante su vida ocupó los cargos oficiales del más alto ayo regional del Reino de Bohemia y el juez del tribunal supremo. Después de que el ejército de los Habsburgo sufriera una derrota ante los prusianos en la Batalla de Liberec, la región de Frýdlant fue saqueada por los prusianos.\n\nMurió en 1757 sin un heredero varón, la finca fue entonces administrada por su esposa Marie Anna. Después de su muerte, la propiedad pasó a su sobrino Cristián Felipe de Clam. La condición para eso fue la fusión de los escudos de armas y la adición del nombre Gallas. Eso dio origen a la casa Clam-Gallas.",
                             "img": "/people/filip_josef_gallas.jpg"
                         }
                     ]
                 },
                 {
                     "title": "Clam-Gallas",
-                    "description": "The last family living in the Frýdlant castle. During her tenure, a major reconstruction of the Renaissance wing of the chateau and the construction of a new wing took place.",
+                    "description": "La casa Clam-Gallas vive en el castillo de Frýdlant. Durante su mandato, se llevó a cabo una importante reconstrucción del ala renacentista del castillo y la construcción de nuevas alas.",
                     "img": "/coat_of_arms/clamgallasove.png",
-                    "button": "Learn",
+                    "button": "Más",
                     "owners": [
                         {
                             "number": 1,
-                            "name": "Christian Philip of Clam-Gallas",
+                            "name": "Cristián Felipe de Clam-Gallas",
                             "years": "1748-1805",
-                            "label": "The first of the Clam-Gallas line, who also held offices at the Habsburg court during his lifetime.",
-                            "button": "More",
-                            "text": "The first of the Clam-Gallas line, who also held offices at the Habsburg court during his lifetime. He became royal chamberlain of three emperors and was promoted to knight of the order of St. Stephen. He expanded the family estates by another territory. \n\nHe was a great lover and patron of the arts. In his Prague residence he hosted, for example, Mozart or Beethoven. In the Frýdlant region, he is primarily associated with the founding of the spa town of Libverda, in Prague then with the Klamovka estate.",
+                            "label": "El primero de la línea Clam-Gallas, que también ocupó cargos en la corte de los Habsburgo durante su vida.",
+                            "button": "Más",
+                            "text": "El primero de la línea Clam-Gallas, que también ocupó cargos en la corte de los Habsburgo durante su vida. Se convirtió en chambelán real de tres emperadores y fue ascendido a caballero de la orden de San Esteban. Amplió los latifundios familiares con otro territorio.\n\nFue un gran amante y mecenas de las artes. En su residencia de Praga acogió, por ejemplo, a Mozart o Beethoven. En la región de Frýdlant, se le asocia principalmente con la fundación de la ciudad balneario de Libverda, en Praga luego con la finca Klamovka.",
                             "img": "/people/kristian_filip_clamgallas.jpg"
                         },
                         {
                             "number": 2,
-                            "name": "Christian Christopher of Clam-Gallas",
+                            "name": "Cristián Cristóbal de Clam-Gallas",
                             "years": "1771-1838",
-                            "label": "Christian Christopher of Clam-Gallas continued his father's legacy in terms of career and patronage.",
-                            "button": "More",
-                            "text": "Christian Christopher of Clam-Gallas continued his father's legacy in terms of career and patronage. He had the rank of Supreme Marshal of the Czech Kingdom. He married Josefina Caroline Clary-Aldringen, also a great lover of art. Together they maintained contact with, for example, Ludwig van Beethoven. \n\nHe contributed to further construction activity in Libverda, where new spa pavilions were built. Around Klamovka,he established gardens with sculptural decoration.",
+                            "label": "Cristián Cristóbal de Clam-Gallas continuó el legado de su padre en términos de carrera y patrocinio.",
+                            "button": "Más",
+                            "text": "Cristián Cristóbal de Clam-Gallas continuó el legado de su padre en términos de carrera y patrocinio. Tenía el rango de Mariscal Supremo del Reino Checo. Se casó con Josefina Carolina Clary-Aldringen, también gran amante del arte. Juntos mantuvieron contacto con, por ejemplo, Ludwig van Beethoven.\n\nContribuyó a una mayor actividad de construcción en Libverda, donde se construyeron nuevos pabellones de spa. Alrededor de Klamovka, estableció jardines con decoración escultórica.",
                             "img": "/people/kristian_krystof_clamgallas.jpg"
                         },
                         {
                             "number": 3,
-                            "name": "William of Clam-Gallas",
+                            "name": "Guillermo de Clam-Gallas",
                             "years": "1801-1822",
-                            "label": "The elder of Christian Christopher's sons.",
-                            "button": "More",
-                            "text": "The elder of Christian Christopher's sons. He died very young at the age of 21. He is buried in the ancestral tomb in Hejnice.",
+                            "label": "Guillermo de Clam-Gallas",
+                            "button": "Más",
+                            "text": "El mayor de los hijos de Cristián Cristóbal. Murió muy joven a la edad de 21 años. Está enterrado en la tumba ancestral en Hejnice.",
                             "img": "/people/vilem_clamgallas.jpg"
                         },
                         {
                             "number": 4,
-                            "name": "Edward of Clam-Gallas",
+                            "name": "Eduardo de Clam-Gallas",
                             "years": "1805-1891",
-                            "label": "Edward was the younger of Christian Christopher's sons and also the most prominent member of the Clam-Gallas family.",
-                            "button": "More",
-                            "text": "Edward was the younger of Christian Christopher's sons and also the most prominent member of the Clam-Gallas family. In 1823 he entered the army as a young man, where he reached the rank of general. He fought under the command of Marshal Radecký in Northern Italy during the First Italian War of Independence, then fought in Hungary and returned to the Second War in Northern Italy. The most significant of the battles in which he participated are the battles of Magenta and Solferin. \n\nDuring the Prussian-Austrian War, he suffered a defeat at the Battle of Jičín, for which he was judged by a court-martial. Even though he was acquitted, he never returned to the army and lived out his life in Frýdlant and Liberec. \n\nDuring his stay in Frýdlant, he had the local chateau undergo extensive reconstruction and building modifications, during which the newest wing of the chateau was created. He died in 1891 at the age of 86.",
+                            "label": "Eduardo era el más joven de los hijos de Cristiano Cristóbal y también el miembro más destacado de la familia Clam-Gallas.",
+                            "button": "Más",
+                            "text": "Eduardo era el más joven de los hijos de Cristiano Cristóbal y también el miembro más destacado de la familia Clam-Gallas. En 1823 ingresó de joven al ejército, donde alcanzó el grado de general. Luchó bajo el mando del mariscal Radetykz en el norte de Italia durante la Primera Guerra de Independencia italiana, luego luchó en Hungría y regresó a la Segunda Guerra en el norte de Italia. Las batallas más significativas en las que participó son las batallas de Magenta y Solferino.\n\nDurante la Guerra Prusiano-Austríaca, sufrió una derrota en la Batalla de Jičín, por lo que fue juzgado por un consejo de guerra. Aunque fue absuelto, nunca volvió al ejército y vivió el resto de su vida en Frýdlant y Liberec.\n\nDurante su estadía en Frýdlant, hizo que el castillo local se sometiera a una extensa reconstrucción y modificaciones, durante las cuales se creó el ala más nueva del castillo. Murió en 1891 a la edad de 86 años.",
                             "img": "/people/eduard_clamgallas.jpg"
                         },
                         {
                             "number": 5,
-                            "name": "Francis of Clam-Gallas",
+                            "name": "Francisco de Clam-Gallas",
                             "years": "1854-1930",
-                            "label": "The last male descendant of the Clam-Gallas family.",
-                            "button": "More",
-                            "text": "The last male descendant of the Clam-Gallas family. He too continued his civil service career, was chamberlain and privy councilor, but above all he devoted himself to the management of the family estates Liberec, Frýdlant, Grabštejn and Lemberk. \n\nThe First World War, the creation of the Czechoslovak Republic and also the land reform intervened in his life. In addition to farming, he also devoted his whole life to volunteer work and charity, to which he actively contributed. \n\nHe died in Frýdlanta in 1930 and left behind 7 daughters. The youngest of them, Clotilde, lived in Frýdlant until the end of World War II.",
+                            "label": "El último descendiente masculino de la familia Clam-Gallas.",
+                            "button": "Más",
+                            "text": "El último descendiente masculino de la familia Clam-Gallas también continuó su carrera en el servicio civil, siendo chambelán y consejero privado, pero sobre todo se dedicó a la gestión de las propiedades familiares Liberec, Frýdlant, Grabštejn y Lemberk.\n\nLa Primera Guerra Mundial y la creación de la República Checoslovaca, así como la reforma agraria intervinieron en su vida. Además de la agricultura, también dedicó toda su vida al trabajo voluntario y la caridad contribuyendo activamente a ello.\n\nMurió en Frýdlant en 1930 y dejó 7 hijas. La segunda más joven de ellas, Clotilde, vivió en Frýdlant hasta el final de la Segunda Guerra Mundial.",
                             "img": "/people/frantisek_clamgallas.jpg"
                         },
                         {
                             "number": 6,
-                            "name": "Clotilde of Clam-Gallas",
+                            "name": "Clotilde de Clam-Gallas",
                             "years": "1898-1975",
-                            "label": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein.",
-                            "button": "More",
-                            "text": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein. During Francis' lifetime, his properties were divided between his daughters. Clotilde then received the Frýdlant Castle. She remained single after her father's death, she took care of her widowed mother. After 1945, she had to move abroad and the castle was nationalized.",
+                            "label": "Clotilde de Clam-Gallas era la segunda hija menor de Francis Clam-Gallas y Maria Hoyos-Sprinzenstein.",
+                            "button": "Más",
+                            "text": "Clotilde de Clam-Gallas era la segunda hija menor de Francis Clam-Gallas y María Hoyos-Sprinzenstein. Durante la vida de Francisco, sus propiedades se dividieron entre sus hijas. Clotilde recibió entonces el castillo de Frýdlant. Permaneció soltera y después de la muerte de su padre, se hizo cargo de su madre viuda. Después de 1945, tuvo que mudarse al extranjero y el castillo fue nacionalizado.",
                             "img": "/people/clotilda_clamgallas_mladsi.jpg"
                         }
                     ]
