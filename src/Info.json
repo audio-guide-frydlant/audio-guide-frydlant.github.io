@@ -2191,8 +2191,8 @@
                 {
                     "audio": "/de/castle/de_room_7.mp3",
                     "number": 7,
-                    "img": "/castle/piano.jpg",
-                    "title": "Beim Klavier",
+                    "img": "/castle/mala_jidelna.jpg",
+                    "title": "Der Raum hinter dem Rittesaal",
                     "card_label": "In diesem Raum finden wir zahlreiche Bildnisse, die eng mit der Familie Clam-Gallas zusammenhängen.",
                     "button": "Besuchen",
                     "text": "In diesem Raum finden wir zahlreiche Bildnisse, die eng mit der Familie Clam-Gallas zusammenhängen.\n\nDas erste ist ein Porträt von Christian Christoph Clam-Gallas, dem Sohn von Christian Philip, dem gerade erwähnten Mann, der zu seinem ursprünglichen Namen 'Clam' den Namen 'Gallas' hinzufügen musste. Neben ihm können wir auch seine schöne Frau Josefine Clam-Gallas sehen. Beide waren echte Kunst- und Musikliebhaber und zusammen förderten sie diesen Bereich. Josefine war sogar mit Ludwig van Beethoven befreundet, der ihr zwei seiner Kompositionen widmete.\n\nDas Ehepaar hatte zwei Söhne, William und Eduard. William können Sie hier links sehen. William war der ältere Sohn und so sollte er auch der Erbe des Familienvermögens werden. Das wäre auch passiert, wenn William im jungen Alter von 20 Jahren während einer Jagd nicht stark verletzt worden wäre. Er fiel nämlich beim Reiten von seinem Pferd [x] und erschoss sich dabei aus Versehen. Das wäre an sich aber nicht fatal gewesen, weil er natürlich sofort ins Krankenhaus gebracht und dort gepflegt wurde. Im Krankenhaus bekam aber William in seine Wunde Typhus und das führte zu seinem Tod.. Nach Williams Tod bekam sein jüngerer Bruder Eduard auch die Chance, sich durchzusetzen. Für ihn wurde es der Anfang einer erfolgreichen Karriere.\n\nEduard Clam-Gallas wurde ein sehr bedeutender österreichischer General und war in diesem Bereich so erfolgreich, dass er sogar den Orden vom Goldenen Vlies, einer der höchsten Auszeichnungen in Europa, erhielt. Außer ihm erhielt diesen Orden hier nur ein einziger Mann und zwar Albrecht von Waldstein, der Herzog von Frýdlant. Das ist schließlich auch der Grund, warum hier in der Burg der Orden vom Goldenen Vlies zu sehen ist. Bevor wir den nächsten Raum betreten, um uns ihn sogar im Original anzuschauen, beachten Sie noch Eduards großes Porträt rechts vom Ausgang. Um seinen Hals hängt nämlich nichts Geringeres als der gerade erwähnte Orden.\n\nDie Verwaltung des Gutes übernahm nach Eduard sein Sohn Franz Clam-Gallas, der bereits der letzte männliche Besitzer war. Franz war unter seinen Untertanen sehr beliebt, weil er gerecht war und Sinn für Humor hatte. Mit seiner Frau hatte er sogar 7 Töchter. Nach seinem Tod im Jahre 1930 bekam jede Tochter eine seiner Herrschaften. Frýdlant wurde von der zweitjüngsten Tochter Clotilde geerbt. Clotilde war die allerletzte Besitzerin von Frýdlant, bis das Gut 1645 nach dem Zweiten Weltkrieg vom Staat wegen ihrer deutschen Staatsangehörigkeit konfisziert wurde.\n\nNach der Verstaatlichung hatte Frýdlant nämlich im Vergleich zu anderen Burgen Glück. Als Clotilde wegzog, wurde das ganze Objekt sofort geschlossen und so blieb fast alles sehr gut erhalten. Darum sind die Burg und das Schloss Frýdlant ungewöhlich gut ausgestattet und über 90 % der Ausstattung stammt direkt von hier."
@@ -2200,42 +2200,51 @@
                 {
                     "audio": "/de/castle/de_room_8.mp3",
                     "number": 8,
-                    "img": "/castle/eduard.jpg",
-                    "title": "Eduards Arbeitszimmer",
-                    "card_label": "Dieser Raum ist als Büro von Eduard Clam-Gallas eingerichtet.",
+                    "img": "/castle/sporkove.jpg",
+                    "title": "Zimmer mit dem Porträt von Franz Anton Spork",
+                    "card_label": "Das Bild (2.Bild von links) mit dem Mann im Grünem Mantel is ein origineles Bild vondem berühmten Böhmischen Barockmahler Peter Johann Brandl.",
                     "button": "Besuchen",
-                    "text": "Dieser Raum ist als Büro von Eduard Clam-Gallas eingerichtet. Im Schaukasten sind Geschenke ausgestellt, die er von seinen Kollegen und Freunden bekam und in der Vitrine rechts vom Fenster sind seine militärischen Auszeichnungen zu sehen, darunter auch der originale Orden vom Goldenen Vlies. An den Wänden hängen Bilder, die verschiedene Schlachten in Österreich und Norditalien im 19. Jahrhundert darstellen."
+                    "text": "Das Bild (2.Bild von links) mit dem Mann im Grünem Mantel is ein origineles Bild vondem berühmten Böhmischen Barockmahler Peter Johann Brandl (24.10.1668 –24.9.1735) . Der Mann im Bild is Graf Franz Anton Spork (9.3.1662 – 30.3.1738), einbedeutender Kunstmäze und Verleger."
                 },
                 {
                     "audio": "/de/castle/de_room_9.mp3",
                     "number": 9,
-                    "img": "/castle/uniformy.jpg",
-                    "title": "Uniformen",
-                    "card_label": "Nun stehen wir in einem Eckzimmer, in dem sich zahlreiche Uniformen der herrschaftlichen Bediensteten befinden, die im 19. Jahrhundert getragen wurden.",
+                    "img": "/castle/hostinsky_pokoj.jpg",
+                    "title": "Gästewohnzimmer",
+                    "card_label": "An der Wand ist zu sehen ein grosser Kupferstich aus dem Jahr 1765.",
                     "button": "Besuchen",
-                    "text": "Nun stehen wir in einem Eckzimmer, in dem sich zahlreiche Uniformen der herrschaftlichen Bediensteten befinden, die im 19. Jahrhundert getragen wurden. Zu sehen sind sowohl Sommer- und Winteruniformen eines Kutschers, als auch Uniformen eines Försters, eines Adjutanten und eines Dieners.\n\nVon den Fenstern aus haben wir einen schönen Blick auf das Isergebirge, das sich über Frýdlant und seine Umgebung erhebt. Beim schönen Wetter ist von hier aus sogar der Gipfel des Isergebirges zu sehen – die 1124m hohe Tafelfichte."
+                    "text": "An der Wand ist zu sehen ein grosser Kupferstich aus dem Jahr 1765, die evige Stadt Rom. Dann auch ein Schmuckschrank mit verschiedenen Tieren, Intarsie aus dem Elfanbein, Marmor, Schildpatt."
                 },
                 {
                     "audio": "/de/castle/de_room_10.mp3",
                     "number": 10,
-                    "img": "/castle/nositka.jpg",
-                    "title": "Sänfte",
-                    "card_label": "Wir haben gerade zwei kleine Räume erreicht.",
+                    "img": "/castle/loznice.jpg",
+                    "title": "Gästeschlafzimmer",
+                    "card_label": "Auch hier ist noch ein Schmuckschrank zu sehen.",
                     "button": "Besuchen",
-                    "text": "Wir haben gerade zwei kleine Räume erreicht. Im ersten befindet sich rechts eine Damensänfte und vor den Fenstern ein Barockschlitten und eine Kutsche.\n\nIn Sänften ließ sich der Adel zwischen den Burggebäuden und in die Stadt tragen. Der sehr schlechte Zustand der damaligen Straßen stand in krassem Gegensatz zu den teuren Kleidern des Adels, so dass Getragenwerden oft die einzige Möglichkeit war, von einem Ort zum anderen zu gelangen, ohne sich zu sehr zu beschmutzen. Sänften wurden außerdem auch von alten und kranken Menschen benutzt. Weil Sänften selbst ungefähr 70 kg wiegen konnten und darin noch ein Mensch war, mussten sie immer von vier Dienern gleichzeitig getragen werden, die die Sänften auf ihren Schultern hatten. Zwei Diener waren vorne, zwei hinten.\n\nHier gibt es vor den Fenstern auch einen Barockschlitten, dessen Ausschmückung viele Besucher überrascht. Der Schlitten sollte nämlich wie ein bekanntes Meerestier aussehen. Weil aber damals böhmische Adeligen gar keine Ahnung davon hatten, wie Meerestiere wirklich aussehen, bildeten sie sie einfach so ab, wie sie sich die verschiedenen Tiere vorstellten. Darum sieht der Schlitten heute ziemlich komisch aus – das Meerestier sollte nämlich ursprünglich ein Delphin sein.\n\nWährend Sie durch den zweiten Raum in den Jagdsalon gehen, erkennen Sie Zielscheiben aus dem 18. und 19. Jahrhundert, die an den Wänden hängen. Es kommt nur selten vor, dass man so alte und trotzdem so gut erhaltene Zielscheiben bewundern kann, denn damals wurden immer fast alle Zielscheiben direkt nach der Veranstaltung verbrannt. Der Grund war einfach – niemand konnte sehen, wie schlecht die Adeligen schossen. Aber wenn es auf der anderen Seite passierte, dass die Adeligen wortwörtlich ins Schwarze trafen, machte man eine Ausnahme und stellte die Zielscheibe aus. Darum wurden einige Zielscheiben erhalten."
+                    "text": "Auch hier ist noch ein Schmuckschrank zu sehen, hier Schlösser und Burgen. Vorne an der Wand eine Holzuhr ca 300 Jahre alt. Neben dem Schrank eine Spanische Wand mitdem Jahreszahl 23.August 1719, also ca 305 Jahre alt."
                 },
                 {
                     "audio": "/de/castle/de_room_11.mp3",
                     "number": 11,
-                    "img": "/castle/lovecky_salon.jpg",
+                    "img": "/castle/lovecak.jpg",
                     "title": "Jagdsalon",
                     "card_label": "In diesem Raum sind Jagdtrophäen ausgestellt.",
                     "button": "Besuchen",
-                    "text": "In diesem Raum sind Jagdtrophäen ausgestellt. Die Geweihe an den Wänden zeugen vom Jagdsport, der auf dem Gut Frýdlant sehr beliebt war. Im Isergebirge wurden meistens Hirsche gejagt, aber auch Wildschweine, Bären und Wölfe. Der letzte Wolf im ganzen Isergebirge wurde 1766 in Frýdlant erlegt – er ist auf dem Gemälde neben der Tür abgebildet.\n\nAm Fenster steht noch ein Tisch. Auf ihm können Sie einen Teil der großen Pfeifensammlung hier sehen. Eduard und sein Sohn Franz Clam-Gallas waren nämlich echte Pfeifenliebhaber und zusammen sammelten sie um die 220 Stücke. Pfeifensammeln war jedoch ein teurer Spaß, weil die Pfeifen oft Edelbein, Gold, Silber oder teures Holz enthalten. Und auch die Tischplatte selbst ist interessant – sie wurde nämlich aus einer 130 Jahre alten Birke angefertigt.\n\nIm nächsten Raum sind noch weitere Tiere zu sehen. Diesmal aber solche, die Sie bestimmt noch nie gesehen haben.\n\nTiere mit zwei Köpfen, sechs Beinen oder Tumor. Tiermissgeburten auszustopfen und dann zu sammeln war nämlich im Mittelalter eine Gewohnheit. Die meisten Tiere wurden jedoch schon tot gefunden – darum handelt es sich meistens noch um Babys."
+                    "text": "In diesem Raum sind Jagdtrophäen ausgestellt. Die Geweihe an den Wänden zeugenvom Jagdsport, der auf dem Gut Frýdlant sehr beliebt war. Im Isergebirge wurdenmeistens Hirsche gejagt, aber auch Wildschweine, Bären und Wölfe. Der letzte Wolf imganzen Isergebirge wurde 1766 in Frýdlant erlegt – er ist auf dem Gemälde neben derTür abgebildet.\n\nIm Jagdzimmer sind 4 Schießscheiben ... eine mit dem Jahreszahl 1801 ... damals gründete man in der lehren Burg das erste Museum im dem Mitteleuropa."
                 },
                 {
                     "audio": "/de/castle/de_room_12.mp3",
                     "number": 12,
+                    "img": "/castle/radetzky.jpg",
+                    "title": "Marschal Radezky und Eduard Clam-Gallas",
+                    "card_label": "In einer Vitrine ... im Oval zu sehen ist der bekannte Feldmarschall Josef WenzelRadeatzky.",
+                    "button": "Besuchen",
+                    "text": "In einer Vitrine ... im Oval zu sehen ist der bekannte Feldmarschall Josef WenzelRadeatzky. Das Bild und seine Uniform sind seine Geschänke seinem jünerem KolegenEduard Clam-Gallas.\n\nUnd in der zweiten Vitrine ist feierliche Uniform des Grafen Eduard Clam-Gallas mit demgrossen Orden ... vom goldenem Vlies im Original.\n\nAn der Wand ist unser Kaiser Franz Joseph I. (18.8.1830 – 21.11.1916). Von ihm hatGraf Eduard Clam-Gallas den Orden im 19.Jahrhudert bekommen."
+                },
+                {
+                    "audio": "/de/castle/de_room_13.mp3",
+                    "number": 13,
                     "img": "/castle/jidelna.jpg",
                     "title": "Renaissancespeisesaal",
                     "card_label": "Der ursprüngliche Burgspeisesaal ist im Renaissancebaustil eingerichtet.",
@@ -2243,8 +2252,8 @@
                     "text": "Der ursprüngliche Burgspeisesaal ist im Renaissancebaustil eingerichtet. Sie sehen Zinngeschirr, den ältesten Kachelofen im ganzen Objekt und am Ausgang eine Holzuhr. In Wahrheit tafelten hier aber Adeligen nur bis zum 16. Jahrhundert, als das Alte Schloss erbaut wurde. Seitdem tafelten sie in der Regel dort. Im Schloss war es nämlich wärmer, schöner und gemütlicher. In der Burg hielten sich dann eher Dienstboten auf.\n\nHinter der Tür befindet sich noch eine Terrasse mit einer wunderschönen Aussicht auf den unteren Schlosshof und die Stadt Frýdlant."
                 },
                 {
-                    "audio": "/de/castle/de_room_13.mp3",
-                    "number": 13,
+                    "audio": "/de/castle/de_room_14.mp3",
+                    "number": 14,
                     "img": "/castle/vezeni.jpg",
                     "title": "Gefängnis",
                     "card_label": "Jetzt stehen wir vor einem der zwei Gefängnisse.",
@@ -2252,8 +2261,8 @@
                     "text": "Jetzt stehen wir vor einem der zwei Gefängnisse. Die Mauern hier sind rund, weil wir uns in dem hohen Turm Indica befinden. Diesen Turm konnten Sie auch am Anfang der Führung auf dem oberen Burghof sehen.\n\nNun gehen wir weiter nach oben in die zweite Etage der Burg, in die Rüstkammer."
                 },
                 {
-                    "audio": "/de/castle/de_room_14.mp3",
-                    "number": 14,
+                    "audio": "/de/castle/de_room_15.mp3",
+                    "number": 15,
                     "img": "/castle/zbrojnice1.jpg",
                     "title": "Rüstkammer – Teil 1",
                     "card_label": "Wir betreten nun für manche den interessantesten Raum – die Rüstkammer.",
@@ -2261,8 +2270,8 @@
                     "text": "Wir betreten nun für manche den interessantesten Raum – die Rüstkammer. Schauen Sie zuerst links. Dort sind zwei sog. Hakenbüsten aus dem 15. und 16. Jahrhundert zu sehen. Sie werden deshalb so genannt, weil diese Waffen einen so starken Rückstoß hatten, dass es notwendig war, sie an den Burgzinnen zu befestigen, um Verletzungen zu vermeiden. Sie war eigentlich schon wie eine kleine Kanone. Eine Hakenbüchse wurde immer von 2 Soldaten gleichzeitig benutzt, da sie bis zu 70 kg gewogen hat. Die Schussweite der Hakenbüchse war nur etwa 100 Meter. Mit der Hakenbüchse konnte man auch nur sehr schlecht zielen. Darum wurden diese Waffen von den viel leichteren und viel zuverlässigeren Musketen am Ende des 16. Jahrhunderts ersetzt. Musketen sehen Sie rechts.\n\nMusketen sind fast gleichzeitig die verbreitesten Waffen in Europa geworden. Sie wurden einfach überall verwendet. Kämpfer mit Musketen wurden Musketiere genannt. Das Kaliber der Muskete ist 17-25 mm, die Schussweite ist 200-300 m. Da Musketen aber trotzdem relativ schwer waren – 5-10 kg - wurden sogenannte Musketengabeln verwendet, auf denen man die Muskete stabilisierte. Dadurch konnte man genauer und einfacher schießen. Die Musketengabel können Sie sich neben der Kanone rechts anschauen.\n\nAußerdem verdienen Ihre Aufmerksamkeit bestimmt noch zahlreiche Rüstungen, Schwerter, Schilde, Helme und Armbrüste."
                 },
                 {
-                    "audio": "/de/castle/de_room_15.mp3",
-                    "number": 15,
+                    "audio": "/de/castle/de_room_16.mp3",
+                    "number": 16,
                     "img": "/castle/zbrojnice2.jpg",
                     "title": "Rüstkammer – Teil 2",
                     "card_label": "Im zweiten Raum, der auch zur Rüstkammer gehört, sind hauptsächlich Musketen ausgestellt, die von einem der Besitzer, Franz Ferdinand Gallas, gekauft wurden.",
@@ -2270,8 +2279,8 @@
                     "text": "Im zweiten Raum, der auch zur Rüstkammer gehört, sind hauptsächlich Musketen ausgestellt, die von einem der Besitzer, Franz Ferdinand Gallas, gekauft wurden. Auf ihren Patronentaschen stehen seine Initialen: F. F. G. V. G – Franz Ferdinand Graf von Gallas. Ausgestellt sind hier auch Mörser und kleine Kanonen, die als zeremonielle Waffen verwendet wurden."
                 },
                 {
-                    "audio": "/de/castle/de_room_16.mp3",
-                    "number": 16,
+                    "audio": "/de/castle/de_room_17.mp3",
+                    "number": 17,
                     "img": "/castle/postroje.jpg",
                     "title": "Kutschergeschirre",
                     "card_label": "In diesem Raum sind alte Kutschergeschirre.",
@@ -2280,8 +2289,8 @@
                 
                 },
                 {
-                    "audio": "/de/castle/de_room_17.mp3",
-                    "number": 17,
+                    "audio": "/de/castle/de_room_18.mp3",
+                    "number": 18,
                     "img": "/castle/obrazarna.jpg",
                     "title": "Gemäldegalerie",
                     "card_label": "Dieser Raum diente als zweite Gemäldegalerie der Burg.",
@@ -2289,13 +2298,22 @@
                     "text": "Dieser Raum diente als zweite Gemäldegalerie der Burg. Darum sind hier wieder Porträts der Besitzer von Frýdlant und ihrer Verwandten, die wir schon im Großen Rittersaal kennengelernt haben. \n\nDie einzige Ausnahme ist die Vitrine auf dem Tisch, in der sich ein Straußenei und vebranntes Geld befinden – Souvenirs vom Reisen der Familie Clam-Gallas."
                 },
                 {
-                    "audio": "/de/castle/de_room_18.mp3",
-                    "number": 18,
-                    "img": "/castle/vrchnostenska.jpg",
+                    "audio": "/de/castle/de_room_19.mp3",
+                    "number": 19,
+                    "img": "/castle/dymky.jpg",
+                    "title": "Pfeifensammlung",
+                    "card_label": "Hier sehen Sie eine grosse Pfeifensamlung ca 180 Pfeifen.",
+                    "button": "Besuchen",
+                    "text": "Hier sehen Sie eine grosse Pfeifensamlung ca 180 Pfeifen, anderen sind noch imSchloss zu sehen. Pfeifen aus verschidenen Materialen ... Meeresschaum, Holz, Glas... und auch in verschidenen Formen."
+                },
+                {
+                    "audio": "/de/castle/de_room_20.mp3",
+                    "number": 20,
+                    "img": "/castle/vrchnostenska_nova.jpg",
                     "title": "Büro",
                     "card_label": "Der letzte Raum der Burg ist als Büro aus dem 17.Jahrhundert eingerichtet.",
                     "button": "Besuchen",
-                    "text": "Der letzte Raum der Burg ist als Büro aus dem 17.Jahrhundert eingerichtet. Interessant ist zum Beispiel die größere Landkarte, die umgekehrt ist – ihr Norden ist unten und ihr Süden wiederum oben.\n\nWeil das Büro auch der letzte Raum der Burgführung ist, haben Sie nun Zeit, sich es anzuschauen. Wenn Sie fertig sind, gehen wir runter und beenden unsere Führung.\n\nAn dieser Stelle möchten wir uns von Ihnen verabschieden. Wir danken Ihnen für Ihre Aufmerksamkeit und hoffen, Sie haben die Burgführung genossen. Geben Sie jetzt bitte diesen Text Ihrem Burgführer zurück. Wir wünschen Ihnen einen schönen Tag und freuen uns auf ein Wiedersehen!"
+                    "text": "Der letzte Raum der Burg ist als Büro aus dem 17.Jahrhundert eingerichtet. Interessant ist z.B.die größere Landkarte, die umgekehrt ist – ihr Norden ist unten und ihr Süden wiederumoben.\n\nLinks von der Tür sehen Sie die Karte der Herrschaft Frýdlant aus dem Jahre 1660.\n\nDer letzte Wolf im ganzen Isergebirge wurde 1766 in Frýdlant erlegt – er ist auf dem Gemälde rechts von Ihnen zu sehen.\n\nWeil das Büro auch der letzte Raum der Burgführung ist, haben Sie nun Zeit, sich esanzuschauen. Wenn Sie fertig sind, gehen wir runter und beenden unsere Führung.An dieser Stelle möchten wir uns von Ihnen verabschieden. Wir danken Ihnen für IhreAufmerksamkeit und hoffen, Sie haben die Burgführung genossen. Wir wünschen Ihnen einen schönen Tag undfreuen uns auf ein Wiedersehen!"
                 }
             ]
         },
@@ -2540,92 +2558,119 @@
                 {
                     "audio": "/pl/castle/pl_room_7.mp3",
                     "number": 7,
-                    "img": "/castle/piano.jpg",
-                    "title": "Clam - gallasowie",
-                    "card_label": "Obraz nad fortepianem przedstawia kolejnego pana na Frydlancie - Krystiana Krzysztofa Clam - Gallasa , jest to syn Krystiana Filipa , którego przed chwilą widzieliśmy w sali rycerskiej .",
+                    "img": "/castle/mala_jidelna.jpg",
+                    "title": "Sala biesiadna",
+                    "card_label": "Obraz nad stołem przedstawia kolejnego pana na Frydlancie - Krystiana Krzysztofa Clam - Gallasa , jest to syn Krystiana Filipa , którego przed chwilą widzieliśmy w sali rycerskiej .",
                     "button": "Odwiedzać",
-                    "text": "Obraz nad fortepianem przedstawia kolejnego pana na Frydlancie - Krystiana Krzysztofa Clam - Gallasa , jest to syn Krystiana Filipa , którego przed chwilą widzieliśmy w sali rycerskiej . Krystian Krzysztof był wielkim miłośnikiem sztuki i muzyki . Obok jest portret jego żony - hrabianki Józefiny Klary z domu Klary - Aldringen . Wraz z mężem wspierała muzykę i teatr . Potrafiła pięknie śpiewać oraz grać na gitarze i fortepianie . Przyjaźniła się ona osobiście z Ludwigiem van Beethovenem i koncertowała z nim w znanym czeskim uzdrowisku Teplice .\n\nKrystian Krzysztof i Józefina mieli dwóch synów . Starszy z nich , Wilhelm zginął tragicznie w wieku dwudziestu lat ( na najmniejszym portrecie ) . Młodszy syn , Eduard przejął zarządzanie majątkiem bezpośrednio po śmierci ojca w roku 1838 ( portret po prawej stronie przy drzwiach do następnej sali ).\n\nEduard Clam - Gallas należał do ścisłej grupy najważniejszych austriackich generałów. W drugiej połowie XIX wieku walczył u północnych Włoszech u boku samego marszałka Radetzky 'ego . Eduard miał tylko jednego syna - Franciszka Clam - Gallasa . Znajduje się tutaj jego popiersie .\n\nFranciszek Clam- Gallas zmarł w roku 1930 . Nie pozostawił po sobie żadnego męskiego potomka , miał za to siedem córek . Jedna z nich - Klotylda mieszkała na zamku do kwietnia 1945 roku , kiedy frydlantskie dobra zostały jej skonfiskowane na podstawie Beneszowych dekretów . Klotylda była ostatnia panią tego zamku , nie miała dzieci , była samotna , zmarła w 1975 roku w Salzburgu ( Austria ) i tam została pochowana . Od roku 1945 Frydlant pozostaje w posiadaniu skarbu państwa ."
+                    "text": "Obraz nad stołem przedstawia kolejnego pana na Frydlancie - Krystiana Krzysztofa Clam - Gallasa , jest to syn Krystiana Filipa , którego przed chwilą widzieliśmy w sali rycerskiej . Krystian Krzysztof był wielkim miłośnikiem sztuki i muzyki . Obok jest portret jego żony - hrabianki Józefiny Klary z domu Klary - Aldringen . Wraz z mężem wspierała muzykę i teatr . Potrafiła pięknie śpiewać oraz grać na gitarze i fortepianie . Przyjaźniła się ona osobiście z Ludwigiem van Beethovenem i koncertowała z nim w znanym czeskim uzdrowisku Teplice .\n\nKrystian Krzysztof i Józefina mieli dwóch synów . Starszy z nich , Wilhelm zginął tragicznie w wieku dwudziestu lat ( na najmniejszym portrecie ) . Młodszy syn , Eduard przejął zarządzanie majątkiem bezpośrednio po śmierci ojca w roku 1838 ( portret po prawej stronie przy drzwiach do następnej sali ).\n\nEduard Clam - Gallas należał do ścisłej grupy najważniejszych austriackich generałów. W drugiej połowie XIX wieku walczył u północnych Włoszech u boku samego marszałka Radetzky 'ego . Eduard miał tylko jednego syna - Franciszka Clam - Gallasa . Znajduje się tutaj jego popiersie .\n\nFranciszek Clam- Gallas zmarł w roku 1930 . Nie pozostawił po sobie żadnego męskiego potomka , miał za to siedem córek . Jedna z nich - Klotylda mieszkała na zamku do kwietnia 1945 roku , kiedy frydlantskie dobra zostały jej skonfiskowane na podstawie Beneszowych dekretów . Klotylda była ostatnia panią tego zamku , nie miała dzieci , była samotna , zmarła w 1975 roku w Salzburgu ( Austria ) i tam została pochowana . Od roku 1945 Frydlant pozostaje w posiadaniu skarbu państwa ."
                 },
                 {
                     "audio": "/pl/castle/pl_room_8.mp3",
                     "number": 8,
-                    "img": "/castle/eduard.jpg",
-                    "title": "Gabinet eduarda clam - gallasa",
-                    "card_label": "Znajdujemy się w gabinecie generała Eduarda Clam - Gallasa .",
+                    "img": "/castle/sporkove.jpg",
+                    "title": "Galeria Rodziny Špork",
+                    "card_label": "Karolina Špork była prababką ostatniej pani zamku.",
                     "button": "Odwiedzać",
-                    "text": "Znajdujemy się w gabinecie generała Eduarda Clam - Gallasa . W witrynie u okna na prawo są jego odznaczenia ( pomiędzy nimi order Złotego Runa ) i dalej na w drugiej witrynie widzimy przedmioty jego żony Klotyldy Clam - Gallas . We dwóch szafach widzimy generalskie uniformy Eduarda . Na lewo przy drzwiach do następnej sali znajdują się prezenty jakie otrzymał generał Eduard od swych przyjaciół . Także po lewej stronie przy drzwiach , którymi weszliśmy znajduje się album ze zdjęciami oficerów generała Eduarda . Obrazy na ścianie przedstawiają bitwy prowadzone przez Austro - Węgry na terenie północnych Włoch w drugiej połowie XIX wieku ."
+                    "text": "Karolina Špork była prababką ostatniej pani zamku. Karolina przywiozła na zamek mnóstwo obrazów i książek. W tej komnacie widzimy portrety jej przodków a także jej samej jako małej dziewczynki w dwóch odsłonach.\n\nWisi tu także jeden z cenniejszych obrazów w naszych zbiorach – portret Antoniego Šporka, którego autorem jest Petr Brandl- jeden z bardziej znanych barokowych malarzy w Czechach."
                 },
                 {
                     "audio": "/pl/castle/pl_room_9.mp3",
                     "number": 9,
-                    "img": "/castle/uniformy.jpg",
-                    "title": "Uniformy",
-                    "card_label": "Stoimy w narożnym pomieszczeniu skrzydła Bibersztejnów .",
+                    "img": "/castle/hostinsky_pokoj.jpg",
+                    "title": "Salon gościnny",
+                    "card_label": "Najważniejszym gościem na zamku był cesarz Józef II, który podczas podróży poCzechach nocował właśnie w tym pomieszczeniu .",
                     "button": "Odwiedzać",
-                    "text" :"Stoimy w narożnym pomieszczeniu skrzydła Bibersztejnów . Z okien rozciąga się widok na południowo - wschodnie pasmo Gór Izerskich . W pomieszczeniu tym znajdują się uniformy jakie nosiła służba w XIX wieku . Są tu stroje woźnicy , leśniczego , nadleśniczego , adjukta , odźwiernego i komorników . Na dnie szafy są nakrycia głowy i peruczki . To pomieszczenie służyło niegdyś za pokój gościnny ."
+                    "text" :"Najważniejszym gościem na zamku był cesarz Józef II, który podczas podróży poCzechach nocował właśnie w tym pomieszczeniu . Na dłuższy okres w gościnęprzyjeżdżała rodzina oraz przyjaciele, dla których gospodarze starali się zapewnićkomfortowe warunki do przenocowania, odpoczynku i zabawy. We wcześniejszympomieszczeniu odbywały się biesiady przy suto zastawionym stole. W komnacie wktórej znajdujemy się goście spędzali czas na rozmowach, zabawie a także słuchalimuzyki.\n\nWidzimy tu miedzioryt z XVIII wieku przedstawiający Rzym."
                 },
                 {
                     "audio": "/pl/castle/pl_room_10.mp3",
                     "number": 10,
-                    "img": "/castle/nositka.jpg",
-                    "title": "Lektyka i tarcze",
-                    "card_label": "W tym pomieszczeniu widzimy lektykę , w której noszono damy , widzimy też dolną część wózeczka dla dzieci oraz barokowe sanie .",
+                    "img": "/castle/loznice.jpg",
+                    "title": "Sypialnia",
+                    "card_label": "Sypialnia urządzona jest w stylu barokowym.",
                     "button": "Odwiedzać",
-                    "text": "W tym pomieszczeniu widzimy lektykę , w której noszono damy , widzimy też dolną część wózeczka dla dzieci oraz barokowe sanie .\n\nTutaj widzimy tarcze strzeleckie , do których strzelano aby przygotować się do polowania . Pod oknem na stoliku stoi mała tarcza , do której można było strzelać w pomieszczeniach ."
+                    "text": "Sypialnia urządzona jest w stylu barokowym. Znajduje się tu przepiękny kabinetwłoski, którego szuflady są inkrustowane kością słoniową, szylkretem i kamieniamiszlachetnymi."
                 },
                 {
                     "audio": "/pl/castle/pl_room_11.mp3",
                     "number": 11,
-                    "img": "/castle/lovecky_salon.jpg",
-                    "title": "Łowiecki salonik",
-                    "card_label": "W tym pomieszczeniu są wystawione łowieckie trofea .",
+                    "img": "/castle/lovecak.jpg",
+                    "title": "Salonik myśliwski",
+                    "card_label": "Widzimy tu tarcze strzeleckie, do których strzelano aby przygotować się dopolowania.",
                     "button": "Odwiedzać",
-                    "text": "W tym pomieszczeniu są wystawione łowieckie trofea . Widzimy tu obraz przedstawiający ostatniego wilka na Frydlantsku , zastrzelonego w roku 1766 . Pod oknem widzimy bardzo ciekawy stół , którego blat zrobiony jest ze 130 letniej brzozy . Widzimy też inny ciekawy stół , krzesło i żyrandol zrobione z rogów jelenich ."
+                    "text": "Widzimy tu tarcze strzeleckie, do których strzelano aby przygotować się dopolowania. Myślistwo we Frydlancie było bardzo popularne , okolice lasów sprzyjałytemu. Eduard Clam Gallas stworzył zagrodę leśną o powierzchni 55 km2, czyniąc jąnajwiększą w Czechach .Było ono w całości ogrodzone, dziś możemy w górach Izerskich zobaczyć jeszczekamienne słupy . Przyjeżdżała tu śmietanka towarzyska z całych Austro –Węgier byzapolować w lasach izerskich."
                 },
                 {
                     "audio": "/pl/castle/pl_room_12.mp3",
                     "number": 12,
-                    "img": "/castle/jidelna.jpg",
-                    "title": "Zamkowa jadalnia",
-                    "card_label": "Znajdujemy się w jadalni zamkowej , gdzie widzimy piec kaflowy z XVII wieku , obok wisi zegar także z XVII wieku .",
+                    "img": "/castle/radetzky.jpg",
+                    "title": "Gabinet wojskowy",
+                    "card_label": "W gabinecie tym widzimy wojskową historię Eduarda Clam Gallasa.",
                     "button": "Odwiedzać",
-                    "text": "Znajdujemy się w jadalni zamkowej , gdzie widzimy piec kaflowy z XVII wieku , obok wisi zegar także z XVII wieku . Cynowe naczynia w większości pochodzą z XVIII i XIX wieku .\n\nWychodząc z jadalni po lewej stronie zobaczymy drzwi prowadzące niegdyś do więzienia .\n\nA teraz udamy się na drugie piętro zamkowe ."
+                    "text": "W gabinecie tym widzimy wojskową historię Eduarda Clam Gallasa - uniformy, odznaczenia a także prezent od marszałka Radeckiego – uniform .\n\nWidzimy także rzeczy należące do żony generała Eduarda-Klotyldy."
                 },
                 {
                     "audio": "/pl/castle/pl_room_13.mp3",
                     "number": 13,
-                    "img": "/castle/zbrojnice1.jpg",
-                    "title": "Zbrojownia",
-                    "card_label": "Dawniej znajdowała się tutaj sala audiencyjna .",
+                    "img": "/castle/jidelna.jpg",
+                    "title": "Mała jadalnia",
+                    "card_label": "Widzimy tu piec barokowy, zegar renesansowy oraz zbiór naczyń cynowych z XVII wieku.",
                     "button": "Odwiedzać",
-                    "text": "Dawniej znajdowała się tutaj sala audiencyjna . Później pomieszczenie to zostało zmienione w zbrojownie . Wystawione bronie należą już od XIX wieku do najbardziej podziwianych eksponatów frydlanskich zbiorów . Już w 1801 roku tutejsi właściciele udostępnili zamek zwiedzającym . I tak powstało pierwsze w Europie Środkowej zamkowe muzeum . W większości znajdują się tu strzelby , muszkiety , halabardy - broń , którą używali husyci , działa i moździeże z XVII wieku ."
+                    "text": "Widzimy tu piec barokowy, zegar renesansowy oraz zbiór naczyń cynowych z XVII wieku. Widzimy na kredensie lawabo do obmywania rąk."
                 },
                 {
                     "audio": "/pl/castle/pl_room_14.mp3",
                     "number": 14,
-                    "img": "/castle/postroje.jpg",
-                    "title": "Uprzęże",
-                    "card_label": "W następnym pomieszczeniu prezentujemy uprząż końską .",
+                    "img": "/castle/vezeni.jpg",
+                    "title": "Wieża",
+                    "card_label": "Przechodzimy przez wieżę Indikę.",
                     "button": "Odwiedzać",
-                    "text": "W następnym pomieszczeniu prezentujemy uprząż końską . Są tu derki , czapraki i siodła. Naprzeciw wyeksponowane są uprzęże szorowe , które służyły do ciągnięcia powozów - są pozłacane , natomiast po lewej stronie widzimy uprzęże chomątowe , które są posrebrzane . Ciekawe jest wyposażenie konnego gońca , które znajduje się po lewej stronie drzwi do następnego pomieszczenia . Jest to wielki kapelusz na listy , który był zakładany na plecy , ogromne buty z cholewami , które nakładało się na zwykłe obuwie dla ochrony przed zimnem, deszczem i śniegiem . Widzimy jeszcze siodło i bicz gońca konnego ."
+                    "text": "Przechodzimy przez wieżę Indikę. Jej wysokość to 49 metrów, w obwodzie mierzy 10metrów a na tym piętrze grubość jej ścian wynosi 4 metry. Znajdowały się w niej dwiecele więzienne, za dużymi metalowymi drzwiami znajduje się pierwsza cela, drugaznajduje się wyżej."
                 },
                 {
                     "audio": "/pl/castle/pl_room_15.mp3",
                     "number": 15,
-                    "img": "/castle/obrazarna.jpg",
-                    "title": "Galeria obrazów",
-                    "card_label": "W następnym pomieszczeniu mieści się galeria obrazów .",
+                    "img": "/castle/zbrojnice1.jpg",
+                    "title": "Zbrojownia",
+                    "card_label": "Renesansowe malowidła sufitu oraz herb nad drzwiami zdradza, że była tu sala reprezentacyjna, którą stworzył w XVI wieku Melchior von Redern .",
                     "button": "Odwiedzać",
-                    "text": "W następnym pomieszczeniu mieści się galeria obrazów . Wiszą w niej przeważnie portrety frydlantskich panów i ich rodzin . Ich portrety widzieliśmy już w sali rycerskiej i przyległych pomieszczenia . Wyjątkiem są portrety : hiszpańskiej infantki Małgorzaty Teresy żony cesarza Leopolda I . Jej portret wisi nad drzwiami , którymi weszliśmy tutaj . A drugi portret przedstawia Annę Duńska .\n\nWidzimy tu także piękną alabastrową paterę na owoce , która stoi na stole . A po prawej stronie na stoliku jest stu letnie jajo strusie ."
+                    "text": "Renesansowe malowidła sufitu oraz herb nad drzwiami zdradza, że była tu sala reprezentacyjna, którą stworzył w XVI wieku Melchior von Redern .\n\nW 1801 roku stworzono tu pokazową zbrojownie pełną muszkietów, halabard i innej broni. Większość broni, którą tu posiadamy to hakownice z XV wieku używane podczas bitew husyckich .\n\nW drugiej części zbrojowni widzimy dodatkowo moździeże, armatki wiwatowe i torby na proch – prochownice z inicjałami pana zamku."
                 },
                 {
                     "audio": "/pl/castle/pl_room_16.mp3",
                     "number": 16,
-                    "img": "/castle/vrchnostenska.jpg",
-                    "title": "Pańska kancelaria",
-                    "card_label": "Pomieszczenie to zostało urządzone jako kancelaria pana zamku .",
+                    "img": "/castle/postroje.jpg",
+                    "title": "Uprzęże",
+                    "card_label": "Widzimy tu cztery uprzęże chomątowe posrebrzane i dwie piersiowe pozłacane.",
                     "button": "Odwiedzać",
-                    "text": "Pomieszczenie to zostało urządzone jako kancelaria pana zamku . Stara barokowa kancelaria służyła jako ewidencja poddanych . Na ścianie jest obraz olejny przedstawiający mapę frydlantskiej ziemi z końca XVII wieku .W rogu stoi malowana szafka narożna. W lewo od wisi portret Jana Wacława Gallasa , między oknami jest zdjęcie generała Eduarda Clam - Gallasa , a na prawo od drzwi , którymi weszliśmy zobaczymy portret syna generała Eduarda , czyli Franciszka Clam - Gallasa . Nad drzwiami wisi relief ze świętym Florianem - patronem strażaków .\n\nZwiedzanie zamku Frydlant dobiegło końca . Dziękujemy Państwu serdecznie za uwagę ."
+                    "text": "Widzimy tu cztery uprzęże chomątowe posrebrzane i dwie piersiowe pozłacane. Naścianach widzimy czapraki – orientalną ozdobę z XIX wieku nakładaną na łeb i tyłkonia. Widzimy też dolną część minikarocy dla dzieci, do której były zaprzężonekucyki albo kozy .\n\nNa zdjęciu widzimy siostry ostatniej właścicielki.\n\nCiekawostką jest wyposażenie kuriera konnego. Do kapelusza była wkładanakorespondencja a kapelusz był nakładany na plecy. Buty były jako druga para,zewnętrzna, do których wkładane było siano – chroniło to stopy kuriera przedzimnem."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_17.mp3",
+                    "number": 17,
+                    "img": "/castle/obrazarna.jpg",
+                    "title": "Galeria zamkowa",
+                    "card_label": "W zamkowym muzeum nie mogło zabraknąć galerii obrazów.",
+                    "button": "Odwiedzać",
+                    "text": "W zamkowym muzeum nie mogło zabraknąć galerii obrazów. We frydlanckiej galeriiwidzimy monarchów europejskich oraz cesarzy. Nie brakuje portretów zamkowychdam oraz sławnych postaci.\n\nWidzimy także uniformy służby i urzędników pracujących na zamku Frydlant.Większość z nich pochodzi z XIX wieku .\n\nWidzimy także w rogu witryny dwa uniformy i damskie szaty barokowe ."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_18.mp3",
+                    "number": 18,
+                    "img": "/castle/dymky.jpg",
+                    "title": "Galeria z fajkami",
+                    "card_label": "Tu widzimy cztery obrazy z XVIII wieku od znanego, czeskiego malarza – Vaclava Vavřince Reinera .",
+                    "button": "Odwiedzać",
+                    "text": "Tu widzimy cztery obrazy z XVIII wieku od znanego, czeskiego malarza – Vaclava Vavřince Reinera .\n\nMamy tu też obrazy od włoskich malarzy, między innymi św. Ludwik od PaulaVeronese.\n\nW witrynach znajdują się fajki – zbiór liczący 220 sztuk, który powstał dzięki gen.Eduardowi i jego synowi Franciszkowi. Pochodzą one z różnych częśći świata ,zrobione są z różnych materiałów – porcelany, kośći słoniowej, pianki morskiej orazszkła."
+                },
+                {
+                    "audio": "/pl/castle/pl_room_19.mp3",
+                    "number": 19,
+                    "img": "/castle/vrchnostenska_nova.jpg",
+                    "title": "Kancelaria",
+                    "card_label": "Znajdujemy się w kancelarii zamkowej, w której najcenniejsza jest mapa z 1660 rokuod Smuela Globitza.",
+                    "button": "Odwiedzać",
+                    "text": "Znajdujemy się w kancelarii zamkowej, w której najcenniejsza jest mapa z 1660 rokuod Smuela Globitza. Widzimy na niej Państwo Frydlanckie wraz z zamkiem. Widzimyszafkę, tzw. registraturę a także zdjęcia panów zamku.\n\nDziękujemy za odwiedziny i zapraszamy ponownie."
                 }
             ]
         },
