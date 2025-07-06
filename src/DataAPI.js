@@ -6,15 +6,15 @@ import Info from './Info.json'
 class DataAPI {
 
     //languages
-    getLanguages(){
+    getLanguages() {
         return Info.languages;
     }
 
     //install
-    getInstall(language){
+    getInstall(language) {
         const install = Info.install;
-        for (let i=0; i<install.length;i++){
-            if(install[i].language===language){
+        for (let i = 0; i < install.length; i++) {
+            if (install[i].language === language) {
                 return install[i];
             }
         }
@@ -22,10 +22,10 @@ class DataAPI {
     }
 
     //qr_scanner
-    getQRScanner(language){
+    getQRScanner(language) {
         const scan = Info.qr_scanner;
-        for (let i=0; i<scan.length;i++){
-            if(scan[i].language===language){
+        for (let i = 0; i < scan.length; i++) {
+            if (scan[i].language === language) {
                 return scan[i];
             }
         }
@@ -33,10 +33,10 @@ class DataAPI {
     }
 
     //face_recognition
-    getFaceRecognition(language){
+    getFaceRecognition(language) {
         const recognition = Info.face_recognition;
-        for (let i=0; i<recognition.length;i++){
-            if(recognition[i].language===language){
+        for (let i = 0; i < recognition.length; i++) {
+            if (recognition[i].language === language) {
                 return recognition[i];
             }
         }
@@ -44,10 +44,10 @@ class DataAPI {
     }
 
     //face_recognition_people
-    getFaceRecognitionPeople(language){
+    getFaceRecognitionPeople(language) {
         const recognition = Info.face_recognition_people;
-        for (let i=0; i<recognition.length;i++){
-            if(recognition[i].language===language){
+        for (let i = 0; i < recognition.length; i++) {
+            if (recognition[i].language === language) {
                 return recognition[i].people;
             }
         }
@@ -55,10 +55,10 @@ class DataAPI {
     }
 
     //info
-    getInfo(language){
+    getInfo(language) {
         const info = Info.info;
-        for (let i=0; i<info.length;i++){
-            if(info[i].language===language){
+        for (let i = 0; i < info.length; i++) {
+            if (info[i].language === language) {
                 return info[i];
             }
         }
@@ -66,10 +66,10 @@ class DataAPI {
     }
 
     //dialogs
-    getDialogs(language){
+    getDialogs(language) {
         const dialogs = Info.dialogs;
-        for (let i=0; i<dialogs.length;i++){
-            if(dialogs[i].language===language){
+        for (let i = 0; i < dialogs.length; i++) {
+            if (dialogs[i].language === language) {
                 return dialogs[i];
             }
         }
@@ -77,10 +77,10 @@ class DataAPI {
     }
 
     //header
-    getHeader(language){
+    getHeader(language) {
         const header = Info.header;
-        for (let i=0; i<header.length;i++){
-            if(header[i].language===language){
+        for (let i = 0; i < header.length; i++) {
+            if (header[i].language === language) {
                 return header[i];
             }
         }
@@ -121,19 +121,20 @@ class DataAPI {
         return resultTours;
     }
 
-    getTourIds(language){
+    getTourIds(language) {
         let tours = this.getTours(language);
         const resultIds = [];
-        for(let i=0;i<tours.length;i++){
+        for (let i = 0; i < tours.length; i++) {
             resultIds.push(tours[i].tour_id);
         }
         return resultIds;
     }
 
-    getTour(language, tour){
-        const tours=Info.tours;
-        for(let i=0;i<tours.length;i++){
-            if(tours[i].language===language && tours[i].tour_id===tour){
+    getTour(language, tour) {
+        const tours = Info.tours;
+        for (let i = 0; i < tours.length; i++) {
+            console.log(tours[i].language);
+            if (tours[i].language === language && tours[i].tour_id === tour) {
                 return tours[i];
             }
         }
@@ -144,6 +145,7 @@ class DataAPI {
     getRooms(language, tour) {
         const tours = Info.tours;
         for (let i = 0; i < tours.length; i++) {
+            console.log(tours[i].tour_id);
             if (tours[i].language === language && tours[i].tour_id === tour) {
                 return tours[i].rooms;
             }
@@ -153,8 +155,8 @@ class DataAPI {
 
     getRoom(language, tour, number) {
         let rooms = this.getRooms(language, tour);
-        for(let i=0;i<rooms.length;i++){
-            if(rooms[i].number===number){
+        for (let i = 0; i < rooms.length; i++) {
+            if (rooms[i].number === number) {
                 return rooms[i];
             }
         }
@@ -199,8 +201,8 @@ class DataAPI {
     //history_overview
     getHistoryOverview(language) {
         const history = this.getHistory(language);
-        for(let i=0;i<history.length;i++){
-            if(history[i].path==="/history_overview"){
+        for (let i = 0; i < history.length; i++) {
+            if (history[i].path === "/history_overview") {
                 return history[i];
             }
         }
@@ -211,18 +213,18 @@ class DataAPI {
     getHouses(language) {
         const history = this.getHistory(language);
         const houses = [];
-        for(let i=0;i<history.length;i++){
-            if(history[i].path==="/houses"){
+        for (let i = 0; i < history.length; i++) {
+            if (history[i].path === "/houses") {
                 return history[i].houses;
             }
         }
         return houses;
     }
 
-    getHouse(language, house){
+    getHouse(language, house) {
         const houses = this.getHouses(language);
-        for(let i=0;i<houses.length;i++){
-            if(houses[i].title===house){
+        for (let i = 0; i < houses.length; i++) {
+            if (houses[i].title === house) {
                 return houses[i];
             }
         }
@@ -232,8 +234,8 @@ class DataAPI {
     //owners
     getOwners(language, house) {
         let houses = this.getHouses(language);
-        for(let i=0;i<houses.length;i++){
-            if(houses[i].title===house){
+        for (let i = 0; i < houses.length; i++) {
+            if (houses[i].title === house) {
                 return houses[i].owners;
             }
         }
@@ -243,8 +245,8 @@ class DataAPI {
     //owner
     getOwner(language, house, number) {
         let owners = this.getOwners(language, house);
-        for(let i=0;i<owners.length;i++){
-            if(owners[i].number===number){
+        for (let i = 0; i < owners.length; i++) {
+            if (owners[i].number === number) {
                 return owners[i];
             }
         }
@@ -252,10 +254,10 @@ class DataAPI {
     }
 
     //other
-    getOther(language){
+    getOther(language) {
         const other = Info.other;
-        for(let i=0;i<other.length;i++){
-            if(other[i].language===language){
+        for (let i = 0; i < other.length; i++) {
+            if (other[i].language === language) {
                 return other[i];
             }
         }
@@ -263,10 +265,10 @@ class DataAPI {
     }
 
     //about_app
-    getAboutApp(language){
-        const about=Info.about_app;
-        for(let i=0;i<about.length;i++){
-            if(about[i].language===language){
+    getAboutApp(language) {
+        const about = Info.about_app;
+        for (let i = 0; i < about.length; i++) {
+            if (about[i].language === language) {
                 return about[i];
             }
         }
@@ -274,10 +276,10 @@ class DataAPI {
     }
 
     //where_to_next
-    getWhereToNext(language){
-        const whereTo=Info.where_to_next;
-        for(let i=0;i<whereTo.length;i++){
-            if(whereTo[i].language===language){
+    getWhereToNext(language) {
+        const whereTo = Info.where_to_next;
+        for (let i = 0; i < whereTo.length; i++) {
+            if (whereTo[i].language === language) {
                 return whereTo[i];
             }
         }
@@ -285,10 +287,10 @@ class DataAPI {
     }
 
     //settings
-    getSettings(language){
-        const settings=Info.settings;
-        for(let i=0;i<settings.length;i++){
-            if(settings[i].language===language){
+    getSettings(language) {
+        const settings = Info.settings;
+        for (let i = 0; i < settings.length; i++) {
+            if (settings[i].language === language) {
                 return settings[i];
             }
         }
@@ -296,49 +298,57 @@ class DataAPI {
     }
 
     //rooms
-    getRoomsOverview(language){
+    getRoomsOverview(language) {
         const rooms = Info.rooms_overview;
-        for(let i=0;i<rooms.length;i++){
-            if(rooms[i].language===language){
+        for (let i = 0; i < rooms.length; i++) {
+            if (rooms[i].language === language) {
                 return rooms[i];
             }
         }
     }
 
-    getVisitedRooms(language, tour, room){
-        if(tour != null){
-            let rooms = this.getRooms(language,tour);
-            const visited = [];
-            for(let i=0;i<rooms.length;i++){
-                if(rooms[i].number<=room){
-                    visited.push(rooms[i]);
+    getVisitedRooms(language, tour, room) {
+        if (tour != null) {
+            let rooms = this.getRooms(language, tour);
+            if (rooms != null) {
+                const visited = [];
+                for (let i = 0; i < rooms.length; i++) {
+                    if (rooms[i].number <= room) {
+                        visited.push(rooms[i]);
+                    }
                 }
+                return visited;
+            } else {
+                return null;
             }
-            return visited;
         } else {
             return null;
         }
     }
 
-    getUnvisitedRooms(language, tour, room){
-        if(tour != null){
-            let rooms = this.getRooms(language,tour);
-            const unvisited = [];
-            for(let i=0;i<rooms.length;i++){
-                if(rooms[i].number>room){
-                    unvisited.push(rooms[i]);
+    getUnvisitedRooms(language, tour, room) {
+        if (tour != null) {
+            let rooms = this.getRooms(language, tour);
+            if (rooms != null) {
+                const unvisited = [];
+                for (let i = 0; i < rooms.length; i++) {
+                    if (rooms[i].number > room) {
+                        unvisited.push(rooms[i]);
+                    }
                 }
+                return unvisited;
+            } else {
+                return null;
             }
-            return unvisited;
         } else {
             return null;
         }
     }
 
-    getHelp(language){
-        let info=Info.help;
-        for(let i=0;i<info.length;i++){
-            if(info[i].language===language){
+    getHelp(language) {
+        let info = Info.help;
+        for (let i = 0; i < info.length; i++) {
+            if (info[i].language === language) {
                 return info[i];
             }
         }

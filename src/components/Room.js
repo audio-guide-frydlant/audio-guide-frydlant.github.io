@@ -51,18 +51,28 @@ function Room() {
     //https://developer.mozilla.org/en-US/docs/Web/API/MediaSession
     function updatePositionState() {
         let audio = document.getElementById('audio');
-        navigator.mediaSession.setPositionState({
-          duration: audio.duration,
-          playbackRate: audio.playbackRate,
-          position: audio.currentTime,
-        });
-      }
+        if (audio != null) {
+            navigator.mediaSession.setPositionState({
+                duration: audio.duration,
+                playbackRate: audio.playbackRate,
+                position: audio.currentTime,
+            });
+        }
+    }
 
 
     useEffect(() => {
         window.scrollTo(0, 0);
         let title = dataAPI.getRoom(context.language, context.tour, context.room).title.toString();
         let tour = dataAPI.getTour(context.language, context.tour).title.toString();
+
+        const audioEl = document.getElementById('audio');   // může být null
+        const hasAudio = Boolean(audioEl);
+
+        if (!hasAudio) {
+            if ('mediaSession' in navigator) navigator.mediaSession.metadata = null;
+            return;
+        }
 
         if ('mediaSession' in navigator) {
             navigator.mediaSession.metadata = new MediaMetadata({
@@ -121,7 +131,7 @@ function Room() {
             audio.onended = () => {
                 console.log("ended");
             }
-    
+
             if (isPlaying) {
                 audio.play();
             }
@@ -145,7 +155,18 @@ function Room() {
                     </div>
                     <div className="margin-top-secondary">
                         <img src={require(`../img${room.img}`)} alt="castle" className="page-image" />
-                        <audio preload="metadata" id="audio" controls src={require(`../audio${room.audio}`)} className="page-audio"> Your browser does not support the audio element.</audio>
+                        {room?.audio?.trim() && (
+                            <audio
+                                preload="metadata"
+                                id="audio"
+                                controls
+                                src={require(`../audio${room.audio}`)}
+                                className="page-audio"
+                            >
+
+                            </audio>
+                        )}
+
                     </div>
                     <p className="start-text margin-top-secondary medieval-first-letter">{room.text}</p>
                 </article>

@@ -11,8 +11,8 @@ function RoomsOverview() {
     const info = dataAPI.getInfo(context.language);
     const header = dataAPI.getHeader(context.language);
     const roomsOverview = dataAPI.getRoomsOverview(context.language);
-    const unvisited = dataAPI.getUnvisitedRooms(context.language, context.tour, context.room);
-    const visited = dataAPI.getVisitedRooms(context.language, context.tour, context.room);
+    const unvisited = dataAPI.getUnvisitedRooms(context.language, context.tour, context.room) ?? [];
+    const visited = dataAPI.getVisitedRooms(context.language, context.tour, context.room) ?? [];
 
 
     return (

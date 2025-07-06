@@ -3,7 +3,8 @@
         "en",
         "de",
         "es",
-        "pl"
+        "pl",
+        "cz"
     ],
     "rotate": [
         {
@@ -21,48 +22,62 @@
         {
             "language": "pl",
             "rotate": "Proszę obrócić urządzenie!"
+        },
+        {
+            "language": "cz",
+            "rotate": "Prosím, otočte Vaše zařízení!"
         }
     ],
-    "help":[
+    "help": [
         {
-            "language":"en",
+            "language": "en",
             "help": "How to use the app?",
-            "help_tour":"How to start a tour?",
-            "help_tour_content":"After opening the application, click on the 'Select tour' button on the home page. Subsequently, you will see a list of all available tour circuits. Choose the one you bought a ticket for. By clicking on the tour, you will see an overview of the rooms that you will pass through during the tour. Choose the first one, i.e. the one marked with the number 1. After selecting it, a screen with more detailed information about the room, including audio, will appear.",
-            "help_room":"How do I switch between rooms?",
-            "help_room_content":"You can switch to the next or previous room using the buttons at the bottom of the screen. Gestures are also available to you. Swipe left to switch to next room, swipe left to previous room. You can also switch between rooms if you're listening to audio and your screen is locked. Arrows are available on the displayed notification to switch.",
-            "help_more_functions":"Does the audio guide have additional features?",
-            "help_more_functions_content":"Yes, the audio guide offers a lot of additional features. you can find their overview after clicking on the navigation under the item 'Menu'."
+            "help_tour": "How to start a tour?",
+            "help_tour_content": "After opening the application, click on the 'Select tour' button on the home page. Subsequently, you will see a list of all available tour circuits. Choose the one you bought a ticket for. By clicking on the tour, you will see an overview of the rooms that you will pass through during the tour. Choose the first one, i.e. the one marked with the number 1. After selecting it, a screen with more detailed information about the room, including audio, will appear.",
+            "help_room": "How do I switch between rooms?",
+            "help_room_content": "You can switch to the next or previous room using the buttons at the bottom of the screen. Gestures are also available to you. Swipe left to switch to next room, swipe left to previous room. You can also switch between rooms if you're listening to audio and your screen is locked. Arrows are available on the displayed notification to switch.",
+            "help_more_functions": "Does the audio guide have additional features?",
+            "help_more_functions_content": "Yes, the audio guide offers a lot of additional features. You can find their overview after clicking on the navigation under the item 'Menu'."
         },
         {
-            "language":"de",
-            "help":"Wie verwende ich die App?",
-            "help_tour":"Wie starte ich eine Führung?",
-            "help_tour_content":"Klicken Sie nach dem Öffnen der App auf die Schaltfläche 'Führung auswählen'. Anschließend sehen Sie eine Liste aller verfügbaren Führungen. Wählen Sie diejenige aus, für die Sie ein Ticket gekauft haben. Durch Anklicken der Führung erhalten Sie eine Übersicht der Räume, die Sie während der Führung durchlaufen. Wählen Sie den ersten aus, d. h. den mit der Nummer 1 markierten. Nachdem Sie ihn ausgewählt haben, erscheint ein Bildschirm mit detaillierteren Informationen über den Raum, einschließlich Audio.",
-            "help_room":"Wie wechsle ich zwischen Räumen?",
-            "help_room_content":"Mit den Schaltflächen am unteren Bildschirmrand können Sie zum nächsten oder vorherigen Raum wechseln. Auch Gesten stehen Ihnen zur Verfügung. Wische nach links, um zum nächsten Raum zu wechseln, wische nach links zum vorherigen Raum. Sie können auch zwischen Räumen wechseln, wenn Sie Audio hören und Ihr Bildschirm gesperrt ist. Auf der angezeigten Benachrichtigung stehen Pfeile zum Wechseln zur Verfügung.",
-            "help_more_functions":"Hat der Audioguide zusätzliche Funktionen?",
-            "help_more_functions_content":"Ja, der Audioguide bietet viele zusätzliche Funktionen. deren Übersicht finden Sie nach Klick auf die Navigation unter dem Punkt 'Menü'."
+            "language": "de",
+            "help": "Wie verwende ich die App?",
+            "help_tour": "Wie starte ich eine Führung?",
+            "help_tour_content": "Klicken Sie nach dem Öffnen der App auf die Schaltfläche 'Führung auswählen'. Anschließend sehen Sie eine Liste aller verfügbaren Führungen. Wählen Sie diejenige aus, für die Sie ein Ticket gekauft haben. Durch Anklicken der Führung erhalten Sie eine Übersicht der Räume, die Sie während der Führung durchlaufen. Wählen Sie den ersten aus, d. h. den mit der Nummer 1 markierten. Nachdem Sie ihn ausgewählt haben, erscheint ein Bildschirm mit detaillierteren Informationen über den Raum, einschließlich Audio.",
+            "help_room": "Wie wechsle ich zwischen Räumen?",
+            "help_room_content": "Mit den Schaltflächen am unteren Bildschirmrand können Sie zum nächsten oder vorherigen Raum wechseln. Auch Gesten stehen Ihnen zur Verfügung. Wische nach links, um zum nächsten Raum zu wechseln, wische nach links zum vorherigen Raum. Sie können auch zwischen Räumen wechseln, wenn Sie Audio hören und Ihr Bildschirm gesperrt ist. Auf der angezeigten Benachrichtigung stehen Pfeile zum Wechseln zur Verfügung.",
+            "help_more_functions": "Hat der Audioguide zusätzliche Funktionen?",
+            "help_more_functions_content": "Ja, der Audioguide bietet viele zusätzliche Funktionen. Deren Übersicht finden Sie nach Klick auf die Navigation unter dem Punkt 'Menü'."
         },
         {
-            "language":"es",
+            "language": "es",
             "help": "¿Cómo usar la aplicación?",
-            "help_tour":"¿Cómo iniciar un recorrido?",
-            "help_tour_content":"Después de abrir la aplicación, haga clic en el botón 'Seleccionar recorrido' en la página de inicio. A continuación, verá una lista de todos los circuitos de recorrido disponibles. Elige el para el cual ha comprado la entrada. Al hacer clic en el recorrido, verá una descripción general de las habitaciones por las que pasará durante el recorrido. Elige la primera, es decir, la que está marcada con el número 1. Después de seleccionarla, aparecerá una pantalla con información más detallada sobre la habitación, incluido el audio.",
-            "help_room":"¿Cómo cambio de habitaciones? ",
-            "help_room_content":"Puede cambiar a la siguiente o anterior habitación utilizando los botones en la parte inferior de la pantalla. Los desplazamientos rápidos también están disponibles. Deslice a la izquierda para pasar a la siguiente habitación, deslice a la derecha para la habitación anterior. También puede cambiar de habitación si está escuchando el audio y la pantalla está bloqueada. Las flechas están disponibles en la notificación mostrada para cambiar.",
-            "help_more_functions":"¿La audio guía tiene funciones adicionales? ",
-            "help_more_functions_content":"Sí, la audioguía ofrece muchas características adicionales. puede encontrar su descripción general después de hacer clic en la navegación debajo del elemento 'Menú'."
+            "help_tour": "¿Cómo iniciar un recorrido?",
+            "help_tour_content": "Después de abrir la aplicación, haga clic en el botón 'Seleccionar recorrido' en la página de inicio. A continuación, verá una lista de todos los circuitos de recorrido disponibles. Elige el para el cual ha comprado la entrada. Al hacer clic en el recorrido, verá una descripción general de las habitaciones por las que pasará durante el recorrido. Elige la primera, es decir, la que está marcada con el número 1. Después de seleccionarla, aparecerá una pantalla con información más detallada sobre la habitación, incluido el audio.",
+            "help_room": "¿Cómo cambio de habitaciones? ",
+            "help_room_content": "Puede cambiar a la siguiente o anterior habitación utilizando los botones en la parte inferior de la pantalla. Los desplazamientos rápidos también están disponibles. Deslice a la izquierda para pasar a la siguiente habitación, deslice a la derecha para la habitación anterior. También puede cambiar de habitación si está escuchando el audio y la pantalla está bloqueada. Las flechas están disponibles en la notificación mostrada para cambiar.",
+            "help_more_functions": "¿La audio guía tiene funciones adicionales? ",
+            "help_more_functions_content": "Sí, la audioguía ofrece muchas características adicionales. Puede encontrar su descripción general después de hacer clic en la navegación debajo del elemento 'Menú'."
         },
         {
-            "language":"pl",
+            "language": "pl",
             "help": "Jak korzystać z aplikacji?",
-            "help_tour":"Jak rozpocząć wycieczkę?",
-            "help_tour_content":"Po otwarciu aplikacji kliknij przycisk „Wybierz wycieczkę” na stronie głównej. Następnie zobaczysz listę wszystkich dostępnych objazdów. Wybierz ten, na który kupiłeś bilet. Klikając na wycieczkę, zobaczysz przegląd pomieszczeń, przez które będziesz przechodzić podczas wycieczki. Wybierz pierwszy, czyli ten oznaczony cyfrą 1. Po jego wybraniu pojawi się ekran z bardziej szczegółowymi informacjami o pomieszczeniu, w tym audio.",
-            "help_room":"Jak przełączać się między pokojami?",
-            "help_room_content":"Możesz przejść do następnego lub poprzedniego pokoju za pomocą przycisków u dołu ekranu. Dostępne są również gesty. Przesuń w lewo, aby przejść do następnego pokoju, przesuń w lewo do poprzedniego pokoju. Możesz też przełączać się między pokojami, jeśli słuchasz dźwięku, a ekran jest zablokowany. Strzałki są dostępne na wyświetlanym powiadomieniu, aby się przełączyć.",
-            "help_more_functions":"Czy audioprzewodnik ma dodatkowe funkcje?",
-            "help_more_functions_content":"Tak, audioprzewodnik oferuje wiele dodatkowych funkcji. ich przegląd można znaleźć po kliknięciu nawigacji pod pozycją „Menu”."
+            "help_tour": "Jak rozpocząć wycieczkę?",
+            "help_tour_content": "Po otwarciu aplikacji kliknij przycisk „Wybierz wycieczkę” na stronie głównej. Następnie zobaczysz listę wszystkich dostępnych objazdów. Wybierz ten, na który kupiłeś bilet. Klikając na wycieczkę, zobaczysz przegląd pomieszczeń, przez które będziesz przechodzić podczas wycieczki. Wybierz pierwszy, czyli ten oznaczony cyfrą 1. Po jego wybraniu pojawi się ekran z bardziej szczegółowymi informacjami o pomieszczeniu, w tym audio.",
+            "help_room": "Jak przełączać się między pokojami?",
+            "help_room_content": "Możesz przejść do następnego lub poprzedniego pokoju za pomocą przycisków u dołu ekranu. Dostępne są również gesty. Przesuń w lewo, aby przejść do następnego pokoju, przesuń w lewo do poprzedniego pokoju. Możesz też przełączać się między pokojami, jeśli słuchasz dźwięku, a ekran jest zablokowany. Strzałki są dostępne na wyświetlanym powiadomieniu, aby się przełączyć.",
+            "help_more_functions": "Czy audioprzewodnik ma dodatkowe funkcje?",
+            "help_more_functions_content": "Tak, audioprzewodnik oferuje wiele dodatkowych funkcji. Ich przegląd można znaleźć po kliknięciu nawigacji pod pozycją „Menu”."
+        },
+        {
+            "language": "cz",
+            "help": "Jak používat aplikaci?",
+            "help_tour": "Jak začít prohlídku?",
+            "help_tour_content": "Po otevření aplikace klikněte na tlačítko s nápisem 'Vybrat prohlídku' na domovské obrazovce. Následně uvidíte seznam všech dostupných prohlídkových okruhů. Vyberte si ten, na který jste si zakoupili vstupenku. Po zvolení prohlídky se Vám zobrazí seznam místností, které v průběhu prohlídky navštívíte. Vyberte si první, tedy tu označenou číslem 1. Po jejím výběru se Vám zobrazí detailní informace o místnosti, jako je fotografie, případně audio záznam.",
+            "help_room": "Jak přepnu mezi místnostmi?",
+            "help_room_content": "Pro změnu místnosti můžete použít tlačítka ve spodní části obrazovky. K dispozici jsou Vám také gesta. Potáhněte doleva pro zobrazení následující místnosti, případně doprava pro zobrazení přechozí místnosti. Mezi místnostmi lze také přepínat pokud posloucháte audio a máte zamknutou obrazovku. Na zobrazeném oznámení jsou k dispozici šipky pro přepínání.",
+            "help_more_functions": "Má audio guide i další funkce?",
+            "help_more_functions_content": "Ano, audio guide nabízí další funkce. Jejich seznam najdete v navigaci pod položkou 'Menu'."
         }
     ],
     "info": [
@@ -97,6 +112,14 @@
             "history_info": "W tym dziale można zapoznać się z historią zamku i zamku. Można zapoznać się z krótką historią lub poznać poszczególne rodziny, które na przestrzeni lat były właścicielami tutejszego dworu.",
             "where_to_info": "Jeśli masz ochotę na kolejną wycieczkę, polecamy odwiedzenie następujących miejsc w najbliższej okolicy.",
             "rooms_overview": "Tutaj możesz zobaczyć przegląd pokoi znajdujących się na wybranej trasie zwiedzania."
+        },
+        {
+            "language": "cz",
+            "info": "Informace",
+            "tours_info": "Nejprve si vyberte prohlídku, na kterou jste si zakoupili vstupenku. Poté vyčkejte na místě, kde prohlídka začíná. Průvodce si Vás tam vyzvedne.",
+            "history_info": "V této sekci se můžete seznámit s historií hradu a zámku. Můžete si přečíst stručné dějiny nebo poznat jednotlivé rody, které toto panství v průběhu let vlastnily.",
+            "where_to_info": "Pokud byste chtěli podniknout další výlet, doporučujeme navštívit následující místa v blízkém okolí.",
+            "rooms_overview": "Zde si můžete prohlédnout přehled místností nacházejících se na vámi zvolené prohlídkové trase."
         }
     ],
     "dialogs": [
@@ -149,22 +172,6 @@
             "wait_label": "Espere por favor"
         },
         {
-            "language": "en",
-            "install_download_label": "How to download?",
-            "install_step_1": "1. Open your browser’s settings.",
-            "install_step_2": "2. Find and tap Add to Home screen.",
-            "install_step_1_safari": "2. Find and tap Share.",
-            "install_step_3": "3. Confirm by tapping Add.",
-            "warning": "Warning",
-            "install_use_safari": "You must use the Safari browser to install the application.",
-            "error_label": "Something went wrong...",
-            "invalid_scan_label": "We are sorry, but the given QR code could not be recognized.",
-            "close_label": "Close",
-            "no_face_detected": "We are sorry, but it was not possible to recognize anyone from the photo you took.",
-            "try_again_label": "Please try again. Zoom in on the face and take a photo.",
-            "wait_label": "Please wait"
-        },
-        {
             "language": "pl",
             "install_download_label": "Jak pobrać?",
             "install_step_1": "1. Otwórz ustawienia swojej przeglądarki.",
@@ -179,6 +186,22 @@
             "no_face_detected": "Przykro nam, ale nie można było nikogo rozpoznać na zrobionym przez Ciebie zdjęciu.",
             "try_again_label": "Proszę spróbuj ponownie. Przybliż twarz i zrób zdjęcie.",
             "wait_label": "Proszę czekać"
+        },
+        {
+            "language": "cz",
+            "install_download_label": "Jak stáhnout aplikaci?",
+            "install_step_1": "1. Otevřete nastavení prohlížeče.",
+            "install_step_2": "2. Najděte a klepněte na Přidat na plochu.",
+            "install_step_1_safari": "2. Najděte a klepněte na Sdílet.",
+            "install_step_3": "3. Potvrďte klepnutím na Přidat.",
+            "warning": "Upozornění",
+            "install_use_safari": "Pro instalaci aplikace musíte použít prohlížeč Safari.",
+            "error_label": "Něco se pokazilo...",
+            "invalid_scan_label": "Omlouváme se, ale zadaný QR kód nebyl rozpoznán.",
+            "close_label": "Zavřít",
+            "no_face_detected": "Omlouváme se, ale na pořízené fotografii se nepodařilo rozpoznat žádnou tvář.",
+            "try_again_label": "Zkuste to prosím znovu. Přibližte obličej a pořiďte fotografii.",
+            "wait_label": "Prosím, čekejte"
         }
     ],
     "install": [
@@ -201,6 +224,11 @@
             "language": "pl",
             "install": "Zainstalować",
             "install_label": "Zainstaluj aplikację, aby uzyskać dostęp offline."
+        },
+        {
+            "language": "cz",
+            "install": "Instalovat",
+            "install_label": "Nainstalujte si aplikaci pro offline přístup."
         }
     ],
     "face_recognition": [
@@ -251,6 +279,18 @@
             "step_4": "Poczekaj chwilę. Gdy obraz zostanie rozpoznany, zostaniesz przekierowany na nową stronę z przedstawioną osobą.",
             "button": "Zrobić zdjęcie",
             "button_back": "Z powrotem"
+        },
+        {
+            "language": "cz",
+            "face_recognition": "Rozpoznání obrazu",
+            "title": "Nevíte, kdo je na obrázku?",
+            "label": "Pokud jste během prohlídky narazili na obrázek a nejste si jisti, kdo na něm je, můžete se buď zeptat průvodce, nebo použít tuto funkci, která rozpozná osobu na základě fotografie. Stačí postupovat podle níže uvedených pokynů.",
+            "step_1": "Stiskněte tlačítko „Pořídit fotografii“.",
+            "step_2": "Přibližte obličej tak, aby byl na fotografii jasně viditelný.",
+            "step_3": "Nyní pořiďte fotografii a poté stiskněte OK.",
+            "step_4": "Počkejte chvíli. Jakmile bude obrázek rozpoznán, budete přesměrováni na novou stránku s informacemi o zobrazené osobě.",
+            "button": "Pořídit fotografii",
+            "button_back": "Zpět"
         }
     ],
     "qr_scanner": [
@@ -297,6 +337,17 @@
             "step_3": "Poczekaj chwilę. Po wykryciu kodu QR zostaniesz przekierowany do właściwej lokalizacji.",
             "button": "Skanowania QR code",
             "button_back": "Z powrotem"
+        },
+        {
+            "language": "cz",
+            "qr_scanner": "Skenování QR kódu",
+            "title": "Nevíte, kde se právě nacházíte?",
+            "label": "Pokud si nejste jisti, kde se právě nacházíte, můžete se zeptat průvodce nebo použít tuto funkci, která vám pomůže to zjistit. Najděte stojan s QR kódem a postupujte podle níže uvedených pokynů.",
+            "step_1": "Stiskněte tlačítko „Skenovat QR kód“.",
+            "step_2": "Přibližte se ke QR kódu tak, aby byl jasně viditelný na kameře.",
+            "step_3": "Počkejte chvíli. Jakmile bude QR kód rozpoznán, budete přesměrováni na správné místo.",
+            "button": "Skenovat QR kód",
+            "button_back": "Zpět"
         }
     ],
     "header": [
@@ -367,6 +418,23 @@
             "contact": "Kontakt",
             "scan": "kaner kodów QR",
             "help": "Pomoc"
+        },
+        {
+            "language": "cz",
+            "rooms": "Místnosti",
+            "menu": "Menu",
+            "history": "Historie",
+            "houses": "Rody",
+            "owners": "Majitelé",
+            "tours": "Prohlídky",
+            "map": "Mapa",
+            "where_to_next": "Kam dál?",
+            "gallery": "Galerie",
+            "about_app": "O aplikaci",
+            "settings": "Nastavení",
+            "contact": "Kontakt",
+            "scan": "Skenování QR kódu",
+            "help": "Nápověda"
         }
     ],
     "settings": [
@@ -401,6 +469,14 @@
             "default": "Domyślny",
             "medium": "Średni",
             "large": "Duży"
+        },
+        {
+            "language": "cz",
+            "letter": "Velikost písma",
+            "language_label": "Jazyk",
+            "default": "Výchozí",
+            "medium": "Střední",
+            "large": "Velká"
         }
     ],
     "other": [
@@ -451,6 +527,18 @@
             "settings": "Ustawienia",
             "help": "Pomoc",
             "about_app": "O aplikacji"
+        },
+        {
+            "language": "cz",
+            "history": "Historie",
+            "gallery": "Galerie",
+            "image_recognition": "Rozpoznání obrazu",
+            "scan_room": "Skenovat místnost",
+            "where_to_next": "Kam dál?",
+            "contact": "Kontakt",
+            "settings": "Nastavení",
+            "help": "Nápověda",
+            "about_app": "O aplikaci"
         }
     ],
     "navbar": [
@@ -485,6 +573,14 @@
             "rooms": "Pokoje w trasie",
             "menu": "Menu",
             "back": "Powrót do poprzedniego"
+        },
+        {
+            "language": "cz",
+            "home": "Domů",
+            "tours": "Prohlídky",
+            "rooms": "Místnosti v prohlídce",
+            "menu": "Menu",
+            "back": "Zpět na předchozí"
         }
     ],
     "home": [
@@ -515,6 +611,13 @@
             "label_2": "w zamku państwowym",
             "label_3": "i pałacu Frýdlant",
             "button_label": "Wybierz wycieczkę"
+        },
+        {
+            "language": "cz",
+            "label_1": "Vítejte",
+            "label_2": "na státním hradě",
+            "label_3": "a zámku Frýdlant",
+            "button_label": "Vybrat prohlídku"
         }
     ],
     "where_to_next": [
@@ -527,21 +630,21 @@
                     "description": "Grabštejn was originally a Gothic castle, built in the middle of the thirteenth century, which stands near the Tri-Border Area where the Czech Republic, Germany and Poland meet. It was remodelled in the sixteenth century as a Renaissance castle, and now offers visitors several guided tours.",
                     "url": "https://hrad-grabstejn.cz/en",
                     "img": "/where_to_next/grabstejn.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Lemberk castle",
                     "description": "The predecessor of today's Baroque castle was the medieval castle of Lemberk, founded in the 1340s by Havel of Markvartic, husband of St. Zdislava. In the second half of the 16th century it was rebuilt into a Renaissance chateau and it acquired its present appearance after the mid-17th century under the the lords of Breda. The last owners were the Clam-Gallas family, until 1945.",
                     "url": "https://www.zamek-lemberk.cz/en",
                     "img": "/where_to_next/lemberk.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Brewery Albrecht",
                     "description": "Manor beer production in Frýdlant is first documented in 1381, beer was apparently brewed right at the castle. In the 16th century, a new independent brewery was built under the Redern family near the Smědá river, on the site where the current operation is still located. The half-timbered storey building of the Renaissance brewery is depicted on the so-called Glaubic map.",
                     "url": "https://pivovar-albrecht.com/",
                     "img": "/people/katerina_redern.jpg",
-                    "src":""
+                    "src": ""
                 }
             ]
         },
@@ -554,21 +657,21 @@
                     "description": "Grabštejn (Grafenstein), ursprünglich eine gotische Burg aus dem 13. Jahrhundert, die im 16. Jahrhundert in ein Renaissancesschloss umgebaut wurde, liegt nahe dem Dreiländereck zwischen der Tschechischen Republik, Deutschland und Polen und stellt ein nationales Kulturdenkmal mit einer reichen Geschichte dar. Heutzutage bietet die Burg mehrere Touristenführungen an, einschließlich der St. Barbara Kapelle, eines Renaissancejuwel aus der 2. Hälfte des 16. Jahrhunderts.",
                     "url": "https://hrad-grabstejn.cz/de",
                     "img": "/where_to_next/grabstejn.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Schloss Lemberk",
                     "description": "Der Vorgänger des heutigen Barockschlosses war die mittelalterliche Burg Lemberk, das in den 1340er Jahren von Havel von Markvartic, dem Ehemann von St. Zdislava, gegründet wurde. In der zweiten Hälfte des 16. Jahrhunderts wurde es zu einem Renaissanceschloss umgebaut und erhielt sein heutiges Aussehen nach der Mitte des 17. Jahrhunderts unter den Herren von Breda. Die letzten Eigentümer waren bis 1945 die Familie Clam-Gallas.",
                     "url": "https://www.zamek-lemberk.cz/en",
                     "img": "/where_to_next/lemberk.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Brauerei Albrecht",
                     "description": "Die Herstellung von Bier in Frýdlant wird erstmals 1381 erwähnt, Bier wurde angeblich direkt auf der Burg gebraut. Im 16. Jahrhundert wurde unter der Familie Redern in der Nähe des Flusses Smědá an der Stelle, an der sich noch heute der Betrieb befindet, eine neue unabhängige Brauerei gebaut. Der Fachwerkgeschossbau der Renaissance-Brauerei ist auf der sogenannten Glaubic-Karte abgebildet.",
                     "url": "https://pivovar-albrecht.com/",
                     "img": "/people/katerina_redern.jpg",
-                    "src":""
+                    "src": ""
                 }
             ]
         },
@@ -581,21 +684,21 @@
                     "description": "El castillo de Grabštejn fue originalmente un castillo gótico, construido a mediados del siglo XIII, que se encuentra cerca del área de la Triple Frontera donde se encuentran la República Checa, Alemania y Polonia. Fue remodelado en el siglo XVI como castillo renacentista, y en la actualidad ofrece al visitante varias visitas guiadas.",
                     "url": "https://hrad-grabstejn.cz/en",
                     "img": "/where_to_next/grabstejn.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "El castillo de Lemberk",
                     "description": "El antecesor del castillo barroco actual fue el castillo medieval de Lemberk, fundado en la década de 1340 por Havel de Markvartic, esposo de Santa Zdislava. En la segunda mitad del siglo XVI se reconstruyó en un castillo renacentista y adquirió su aspecto actual después del siglo XVII bajo los señores de Breda. Los últimos propietarios fueron la familia Clam-Gallas, hasta 1945.",
                     "url": "https://www.zamek-lemberk.cz/en",
                     "img": "/where_to_next/lemberk.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Cervecería Albrecht",
                     "description": "La producción de cerveza señorial en Frýdlant se documenta por primera vez en 1381, aparentemente la cerveza se elaboraba en el castillo. En el siglo XVI, una nueva cervecería independiente construida por la familia Redern cerca del río Smědá, en el sitio donde todavía se encuentra la operación actual. El edificio de pisos con entramado de madera de la cervecería renacentista está representado en el llamado mapa Glaubic.",
                     "url": "https://pivovar-albrecht.com/",
                     "img": "/people/katerina_redern.jpg",
-                    "src":""
+                    "src": ""
                 }
             ]
         },
@@ -608,21 +711,48 @@
                     "description": "Grabštejn był pierwotnie gotyckim zamkiem, zbudowanym w połowie XIII wieku, który stoi w pobliżu Trójgranicznego Obszaru, gdzie spotykają się Czechy, Niemcy i Polska. Został przebudowany w XVI wieku jako renesansowy zamek i obecnie oferuje odwiedzającym kilka wycieczek z przewodnikiem.",
                     "url": "https://hrad-grabstejn.cz/en",
                     "img": "/where_to_next/grabstejn.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Zamek Lemberk",
                     "description": "Poprzednikiem dzisiejszego barokowego zamku był średniowieczny zamek Lemberk, założony w latach czterdziestych XIII wieku przez Havla z Markvartic, męża św. Zdzisławy. W drugiej połowie XVI wieku został przebudowany na renesansowy zamek, a obecny wygląd uzyskał w połowie XVII wieku za czasów panów z Bredy. Ostatnimi właścicielami do 1945 roku była rodzina Clam-Gallas.",
                     "url": "https://www.zamek-lemberk.cz/en",
                     "img": "/where_to_next/lemberk.jpg",
-                    "src":"Source: Národní památkový ústav, link: www.npu.cz"
+                    "src": "Source: Národní památkový ústav, link: www.npu.cz"
                 },
                 {
                     "title": "Browar Albrecht",
                     "description": "Pierwsza wzmianka o produkcji piwa dworskiego we Frýdlancie pochodzi z 1381 roku, podobno piwo warzono właśnie na zamku. W XVI wieku w pobliżu rzeki Smědá, w miejscu, w którym nadal znajduje się obecna działalność, wybudowano nowy samodzielny browar rodziny Redernów. Szachulcowy piętrowy budynek renesansowego browaru jest przedstawiony na tzw. mapie glaubicznej.",
                     "url": "https://pivovar-albrecht.com/",
                     "img": "/people/katerina_redern.jpg",
-                    "src":""
+                    "src": ""
+                }
+            ]
+        },
+        {
+            "language": "cz",
+            "button": "Navštívit",
+            "places": [
+                {
+                    "title": "Hrad Grabštejn",
+                    "description": "Grabštejn byl původně gotický hrad postavený v polovině 13. století. Nachází se poblíž Trojmezí, kde se setkávají Česká republika, Německo a Polsko. V 16. století byl přestavěn na renesanční zámek a dnes nabízí návštěvníkům několik prohlídkových okruhů s průvodcem.",
+                    "url": "https://hrad-grabstejn.cz/cs",
+                    "img": "/where_to_next/grabstejn.jpg",
+                    "src": "Zdroj: Národní památkový ústav, odkaz: www.npu.cz"
+                },
+                {
+                    "title": "Zámek Lemberk",
+                    "description": "Předchůdcem dnešního barokního zámku byl středověký hrad Lemberk, založený ve 40. letech 14. století Havlem z Markvartic, manželem sv. Zdislavy. Ve druhé polovině 16. století byl přestavěn na renesanční zámek a svou dnešní podobu získal po polovině 17. století za panování pánů z Bredy. Posledními majiteli byli až do roku 1945 Clam-Gallasové.",
+                    "url": "https://www.zamek-lemberk.cz/cs",
+                    "img": "/where_to_next/lemberk.jpg",
+                    "src": "Zdroj: Národní památkový ústav, odkaz: www.npu.cz"
+                },
+                {
+                    "title": "Pivovar Albrecht",
+                    "description": "Panský pivovar ve Frýdlantu je poprvé doložen v roce 1381, pivo se tehdy pravděpodobně vařilo přímo na hradě. V 16. století postavila rodina Redernů nový samostatný pivovar u řeky Smědé – na místě, kde se nachází i dnešní provoz. Patrová hrázděná budova renesančního pivovaru je vyobrazena na tzv. Glaubicově mapě.",
+                    "url": "https://pivovar-albrecht.com/",
+                    "img": "/people/katerina_redern.jpg",
+                    "src": ""
                 }
             ]
         }
@@ -683,6 +813,20 @@
             "photos2": "Jiří Holub",
             "logo_label": "Logo firmy",
             "logo": "Lucie Pavlíková"
+        },
+        {
+            "language": "cz",
+            "for_label": "Oficiální aplikace pro",
+            "for": "Hrad a zámek Frýdlant",
+            "author_label": "Autor",
+            "author": "Veronika Pavlíková",
+            "collaboration_label": "Ve spolupráci s",
+            "collaboration": "Univerzita Palackého v Olomouci",
+            "photos_label": "Fotografie od",
+            "photos1": "Lukáš Hübner",
+            "photos2": "Jiří Holub",
+            "logo_label": "Logo vytvořila",
+            "logo": "Lucie Pavlíková"
         }
     ],
     "rooms_overview": [
@@ -713,6 +857,13 @@
             "seen": "Odwiedzone już pokoje",
             "not_seen": "Pokoje jeszcze nie odwiedzone",
             "nothing_more": "Nic więcej do zobaczenia"
+        },
+        {
+            "language": "cz",
+            "tour_not_selected": "Nejprve si prosím vyberte prohlídkovou trasu, kterou chcete absolvovat.",
+            "seen": "Již navštívené místnosti",
+            "not_seen": "Místnosti dosud nenavštívené",
+            "nothing_more": "Není co více vidět"
         }
     ],
     "contact": [
@@ -747,6 +898,14 @@
             "web": "Sieć",
             "reservation": "Rezerwacja biletów",
             "phone": "Numer telefonu"
+        },
+        {
+            "language": "cz",
+            "title": "Kontakt",
+            "address": "Adresa",
+            "web": "Web",
+            "reservation": "Rezervace vstupenek",
+            "phone": "Telefonní číslo"
         }
     ],
     "face_recognition_people": [
@@ -959,6 +1118,75 @@
         },
         {
             "language": "pl",
+            "people": [
+                {
+                    "name": "Fridrich of Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Melchior of Redern",
+                    "img": "/people/melchior_redern.jpg"
+                },
+                {
+                    "name": "Catherine of Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Christopher of Redern",
+                    "img": "/people/katerina_redern.jpg"
+                },
+                {
+                    "name": "Albrecht of Wallenstein",
+                    "img": "/people/albrecht_valdstejn.jpg"
+                },
+                {
+                    "name": "Matthias of Gallas",
+                    "img": "/people/matyas_gallas.jpg"
+                },
+                {
+                    "name": "Antonius of Gallas",
+                    "img": "/people/antonin_pankrac_gallas.jpg"
+                },
+                {
+                    "name": "Francis Ferdinand of Gallas",
+                    "img": "/people/frantisek_ferdinand_gallas.jpg"
+                },
+                {
+                    "name": "John Wenceslas of Gallas",
+                    "img": "/people/jan_vaclav_gallas.jpg"
+                },
+                {
+                    "name": "Philip Joseph of Gallas",
+                    "img": "/people/filip_josef_gallas.jpg"
+                },
+                {
+                    "name": "Christian Philip of Clam-Gallas",
+                    "img": "/people/kristian_filip_clamgallas.jpg"
+                },
+                {
+                    "name": "Christian Christopher of Clam-Gallas",
+                    "img": "/people/kristian_krystof_clamgallas.jpg"
+                },
+                {
+                    "name": "William of Clam-Gallas",
+                    "img": "/people/vilem_clamgallas.jpg"
+                },
+                {
+                    "name": "Edward of Clam-Gallas",
+                    "img": "/people/eduard_clamgallas.jpg"
+                },
+                {
+                    "name": "Francis of Clam-Gallas",
+                    "img": "/people/frantisek_clamgallas.jpg"
+                },
+                {
+                    "name": "Clotilde of Clam-Gallas",
+                    "img": "/people/clotilda_clamgallas_mladsi.jpg"
+                }
+            ]
+        },
+        {
+            "language": "cz",
             "people": [
                 {
                     "name": "Fridrich of Redern",
@@ -1252,6 +1480,236 @@
                             "label": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein.",
                             "button": "More",
                             "text": "Clotilde of Clam-Gallas was the youngest daughter of Francis Clam-Gallas and Maria Hoyos-Sprinzenstein. During Francis' lifetime, his properties were divided between his daughters. Clotilde then received the Frýdlant Castle. She remained single after her father's death, she took care of her widowed mother. After 1945, she had to move abroad and the castle was nationalized.",
+                            "img": "/people/clotilda_clamgallas_mladsi.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "language": "cz",
+            "path": "/history_overview",
+            "title": "Přehled historie",
+            "button": "Zjistit více",
+            "img": "/history/history.jpg",
+            "card_label": "Seznamte se s historií hradu a zámku Frýdlant.",
+            "description": "Frýdlant patří k nejrozsáhlejším a nejvýznamnějším památkovým celkům v severních Čechách. Spojuje v sobě dva architektonické útvary: středověký hrad a renesanční zámek. Hrad byl vybudován kolem poloviny 13. století. V roce 1278 získali panství Bibrštejnové, kteří se významně podíleli na vybudování mohutného hradního paláce.  V letech 1558–1620 patřil Frýdlant rodu Redernů. Ti pokračovali ve zvelebování frýdlantského panství. Byli to zdatní hospodáři a válečníci, ale také stavebníci a podporovatelé umění. Jejich dílem je výstavba nového renesančního zámku a kaple.\n\nMezi lety 1622–1634 hrad patřil Albrechtu z Valdštejna. Koupil jej za 150 000 zlatých a postupně vybudoval obrovskou hospodářskou doménu. Jeho statky zaznamenaly v době třicetileté války obrovský rozmach, protože zásobovaly jeho armádu. Frýdlantsku se říkalo Terra felix – Šťastná země.\n\nPo Albrechtově zavraždění v roce 1634 získali od císaře Frýdlant Gallasové, od roku 1759 Clam-Gallasové, významná šlechta pohybující se v diplomatických a vojenských službách u císařského dvora. Ti zde pobývali do roku 1945, kdy Frýdlant přešel na stát.\n\nPůvodní podoba gotického hradu se do dnešních dnů nedochovala ve své celistvosti. Dnes vidíme hrad jako mohutnou dvoupatrovou stavbu kolem malého nepravidelného nádvoří, kterému dominuje velká válcová věž, bergfrit. Hrad se postupně rozšiřoval a během 16. století zaznamenal dvě renesanční úpravy.  Kaple a renesanční zámek byly postaveny na přelomu 16. a 17. století Markem Spazziem di Lancio. V 60. letech 19. století došlo k posledním větším stavebním pracím, a to na přestavbě kastelánského křídla.\n\nV roce 1801 Clam-Gallasové zpřístupnili pro veřejnost část hradu s instalovanými sbírkami. Současná expozice v sobě zahrnuje toto nejstarší hradní muzeum ve střední Evropě, kapli s cenným mobiliářem a dvě zámecká křídla.\n\n",
+            "label": "Historie hradu Frýdlant"
+        },
+        {
+            "language": "cz",
+            "path": "/houses",
+            "title": "Rody",
+            "img": "/history/houses.jpg",
+            "card_label": "Seznamte se s jednotlivými majiteli panství Frýdlant.",
+            "button": "Zjistit více",
+            "houses": [
+                {
+                    "title": "Ronovci",
+                    "description": "Zakladatelé hradu Frýdlant.",
+                    "img": "/coat_of_arms/ronovci.png",
+                    "button": "Více",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Ronovci",
+                            "years": "?-1278",
+                            "label": "Nejstarší historie hradu Frýdlant je spojena s rodem Ronovců, kteří ho nechali postavit ve 13. století.",
+                            "button": "Více",
+                            "text": "Nejstarší historie hradu Frýdlant je spojena s rodem Ronovců, kteří ho nechali postavit ve 13. století. O jejich aktivitách v severních Čechách není mnoho známo. Prvním známým členem tohoto rodu byl Smil, který byl členem družiny krále Přemysla Otakara I. Jeho synové Jindřich a Častolov ještě v roce 1238 používali přívlastek 'ze Žitavy', ale v roce 1257 už nacházíme zmínku o 'Častolovovi z Frýdlantu'. Rozmach tohoto rodu byl v roce 1278 omezen králem Přemyslem Otakarem II., který panství odebral Ronovcům a prodal je Bibersteinům.",
+                            "img": "/coat_of_arms/ronovci.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Páni z Biberštejna",
+                    "description": "Nejdéle vládnoucí rod, který se zasloužil o rozšíření hradu.",
+                    "img": "/coat_of_arms/biberstejnove.png",
+                    "button": "Více",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Páni z Biberštejna",
+                            "years": "1278–1551",
+                            "label": "Zástupci rodu Biberštejnů se stali majiteli hradu Frýdlant na téměř 300 let a jejich vláda je spojena hlavně s výstavbou a rozšiřováním hradu a dalším rozvojem frýdlantského panství.",
+                            "button": "Více",
+                            "text": "Zástupci rodu Biberštejnů se stali majiteli hradu Frýdlant na téměř 300 let a jejich vláda je spojena hlavně s výstavbou a rozšiřováním hradu a dalším rozvojem frýdlantského panství. Díky snaze tohoto rodu o další územní rozšíření docházelo k několika konfliktům s okolní šlechtou (např. vypálení Nymburka v roce 1326) a dokonce ke střetům s královskou armádou Václava IV.\n\nBěhem husitských válek se Frýdlant stal centrem protihusitské opozice a frýdlantské panství bylo mezi lety 1420 a 1433 několikrát napadeno. Město Frýdlant a okolní vesnice byly několikrát vypáleny. Rod Bibersteinů poté zůstal v opozici i vůči králi Karlu z Poděbrad a účastnil se dalších vojenských konfliktů. Za vlády posledního Bibersteina se frýdlantské panství stalo zcela protestantským, což následně převzal rod Redernů. Poslední mužský potomek, Kristián, zemřel v roce 1551 bez dědice a panství tak připadlo české královské komoře.",
+                            "img": "/coat_of_arms/biberstejnove.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "Redernové",
+                    "description": "Slezský rod, který přispěl k rozmachu protestantismu a výstavbě zámku.",
+                    "img": "/coat_of_arms/redernove.png",
+                    "button": "Více",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Bedřich z Redernu",
+                            "years": "?-1564",
+                            "label": "Bedřich z Redernu byl členem slezské rytířské rodiny.",
+                            "button": "Více",
+                            "text": "Bedřich z Redernu byl členem slezské rytířské rodiny. Za svého života zastával funkci prezidenta slezské zemské komory a byl členem královské komise pro zápis stavu frýdlantského panství po smrti posledního majitele. V roce 1558 koupil Friedrich severočeská panství Liberec, Frýdlant a Zawidow. Po koupi byl povýšen do šlechtického stavu. On a jeho manželka Salomena ze Schönaich měli celkem 10 dětí. Zemřel v roce 1564 během pobytu ve Wroclawi v Polsku.",
+                            "img": "/coat_of_arms/redernove.png"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Melchior z Redernu",
+                            "years": "1555-1600",
+                            "label": "Byl devátým z celkem deseti dětí Bedřicha z Redernu.",
+                            "button": "Více",
+                            "text": "Byl devátým z celkem deseti dětí Bedřicha z Redernu. Studoval práva na protestantské univerzitě v Heidelbergu a poté se spolu s bratrem Kristiánem vydal na rytířskou cestu do Francie, kde v roce 1572 byl svědkem vraždy hugenotů během tzv. Bartolomějské noci. Kromě Francie navštívil i italská města Řím, Padova či Neapol. Melchior se později připojil k vojenské službě. V 70. a 80. letech 16. století se účastnil obléhání Gdaňsku, protomaďarské kampaně, válek v Nizozemsku či obléhání Pskova.\n\nPo smrti svého bratra Kristiána v roce 1591 se stal majitelem frýdlantského panství. Oženil se s Kateřinou Šlikovou, sestrou jednoho z nejvlivnějších protestantských šlechticů Jáchyma Ondřeje Šlika. Během svého života provedl stavební úpravy na hradě – přistavěl jedno křídlo hradu, vzniklo renesanční křídlo zámku a také zámek s kaplí. V 90. letech 16. století se několikrát vrátil na maďarská bojiště jako důstojník. Již na jaře roku 1600 se účastnil jednání ve Vídni o dalším vojenském postupu proti Turkům, na podzim však přerušil vojenskou kampaň z důvodu zdravotních problémů a zemřel v září téhož roku.",
+                            "img": "/people/melchior_redern.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "Kateřina z Redernu",
+                            "years": "1553-1617",
+                            "label": "Kateřina z Redernu, rozená Šlikková, byla sestrou Jáchyma Ondřeje Šlika, jednoho z popravených na Staroměstském náměstí v roce 1621.",
+                            "button": "Více",
+                            "text": "Kateřina z Redernu, rozená Šliková, byla sestrou Jáchyma Ondřeje Šlika, jednoho z popravených na Staroměstském náměstí v roce 1621. Mezi lety 1600 a 1611 spravovala frýdlantské panství za nezletilého syna Kryštofa. Její působení na frýdlantském panství je spojeno hlavně se spory s místními měšťany o právo vařit pivo. Špatné vztahy s místními ji nakonec přiměly zdržovat se převážně na zámku v Liberci.\n\nBěhem její správy byly dokončeny zámecké kaple ve Frýdlantu a Liberci a na celém frýdlantském panství vznikly další kostely. Zemřela v roce 1617 v Liberci, měla být pohřbena v rodinné hrobce ve Frýdlantu, ale k tomu nikdy nedošlo a místo jejího hrobu zůstává neznámé.",
+                            "img": "/people/katerina_redern.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Kryštof z Redernu",
+                            "years": "1591-1641",
+                            "label": "Kryštof převzal správu panství v roce 1611.",
+                            "button": "Více",
+                            "text": "Kryštof převzal správu panství v roce 1611. Pokračoval ve sporech s měšťany ve Frýdlantu, které začaly během vlády jeho matky. Po vypuknutí českého povstání byl spolu se svým strýcem Jáchymem Ondřejem Šlikem aktivní na straně protestantské unie, kde se stal velitelem jízdní divize. Už tehdy trpěl zdravotními problémy.\n\nPo porážce v roce 1620 bylo jeho panství zkonfiskováno a žil v exilu na panství Zawidów. V roce 1627 mu bylo zabaveno i panství Zawidów. Poté žil v sídle své manželky Magdalény z Hundtu v Polsku. Během švédského nájezdu do Čech v letech 1639–1640 se vrátil do Frýdlantu, ale ještě téhož roku musel panství opustit ve prospěch Valdštejna. Zemřel v exilu někdy po roce 1641.",
+                            "img": "/people/krystof_redern.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Albrecht z Valdštejna",
+                    "description": "Albrecht z Valdštejna byl český vojenský velitel, politik a jedna z nejvýznamnějších postav české historie.",
+                    "img": "/coat_of_arms/albrecht.png",
+                    "button": "Více",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Albrecht z Valdštejna",
+                            "years": "1591-1641",
+                            "label": "Albrecht z Valdštejna se narodil v rodině protestantské, která nebyla příliš bohatá ani vlivná, a nakonec se stal jedním z nejmocnějších mužů evropského významu.",
+                            "button": "Více",
+                            "text": "Albrecht z Valdštejna se narodil v rodině protestantské, která nebyla příliš bohatá ani vlivná, a nakonec se stal jedním z nejmocnějších mužů evropského významu. Jeho působení ve Frýdlantu nebylo dlouhé, trvalo pouze 12 let, přesto právě toto období proslavilo toto místo a panství natolik, že bylo povýšeno na vévodství.\n\nŽivot Albrechta z Valdštejna byl od mládí spjat se službou v armádě. Brzy přešel z protestantského tábora k císařské službě a na bitevních polích Třicetileté války dosáhl nejvyššího vojenského hodnosti, tedy generála armády císaře (generalissima). Jeho panství, mezi něž patřilo i frýdlantské, bylo do značné míry ušetřeno válečných konfliktů a proto se mu říkalo „šťastná země – terra felix“.\n\nCo se týče frýdlantského panství, během Valdštejnovy vlády lze mluvit o hospodářském rozkvětu, především v odvětvích spojených s potřebami doby – těžba a zpracování kovů či výroba střelného prachu. Hrad a zámek byly neobývané a proběhly pouze menší stavební úpravy. Valdštejn zde pobýval pouze několik dní v letech 1627, 1628 a 1630. Konec jeho života znamenalo ztráta důvěry císaře, který se Valdštejnem cítil ohrožen, a proto byl Valdštejn na počátku roku 1634 zavražděn svými důstojníky.",
+                            "img": "/people/albrecht_valdstejn.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Gallasové",
+                    "description": "Rod ze severní Itálie, který přispěl k rozšíření frýdlantského panství o zámek Lemberk a jeho okolí.",
+                    "img": "/coat_of_arms/gallasove.png",
+                    "button": "Více",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Matyáš Gallas",
+                            "years": "1588-1647",
+                            "label": "Život Matyáše Gallase a jeho společenský vzestup byl, stejně jako u Valdštejna, úzce spjat s obdobím Třicetileté války.",
+                            "button": "Více",
+                            "text": "Život Matyáše Gallase a jeho společenský vzestup byl, stejně jako u Valdštejna, úzce spjat s obdobím Třicetileté války. Matyáš vstoupil do armády jako mladík a poprvé se proslavil ve válkách o mantovské dědictví na straně katolické ligy. V roce 1628 vstoupil do služby Albrechta z Valdštejna a stal se jedním z jeho generálů. V roce 1632 dosáhl hodnosti hraběte. Po zradě Valdštejna se stal dědicem frýdlantského panství a později vrchním velitelem císařské armády, kde působil až do konce Třicetileté války. Pro Frýdlant znamenala jeho vláda období let 1640–1649, kdy byl hrad a město obsazeny švédskými vojsky. Matyáš zemřel ve Vídni v roce 1647.",
+                            "img": "/people/matyas_gallas.jpg"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Antonín Gallas",
+                            "years": "1638-1695",
+                            "label": "Antonín je mladším synem Matyáše Gallase.",
+                            "button": "Více",
+                            "text": "Antonín je mladším synem Matyáše Gallase. Otce ztratil v 9 letech. Po studiích a kavalierské cestě po Francii a Beneluxu spolu s bratrem Františkem Ferdinandem převzal správu zděděných panství. Během života působil jako komoří ve službách bavorského kurfiřta a zdědil po otci velení vojenských pluků. Jeho ekonomická situace se však zhoršila natolik, že byl nucen prodat svůj podíl na panství a vzdát se i vojenských pluků. Nakonec se zadlužil a žil v Kladsku na statcích svého syna Filipa Františka.",
+                            "img": "/people/antonin_pankrac_gallas.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "František Ferdinand Gallas",
+                            "years": "1635-1697",
+                            "label": "František je starším synem Matyáše Gallase.",
+                            "button": "Více",
+                            "text": "František je starším synem Matyáše Gallase. Po ukončení studií a kavalierské cestě převzal správu zděděných panství. Jediný soudní titul, který obdržel, byl titulární dvorský komoří. Během života pobýval především na svých panstvích v Čechách, hlavně v Praze a na zámku v Hoříněvsi. Jeho život ve Frýdlantu je spjat hlavně se vzpourou poddaných vedenou kovářem Ondřejem ze Stelzigu, která byla potlačena v roce 1680. Zemřel v roce 1697 a jeho ostatky jsou uloženy v rodinné hrobce v Hejnicích.",
+                            "img": "/people/frantisek_ferdinand_gallas.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Jan Václav Gallas",
+                            "years": "1671-1719",
+                            "label": "Nejdůležitější člen rodiny spolu s Matyášem Gallasem.",
+                            "button": "Více",
+                            "text": "Nejdůležitější člen rodiny spolu s Matyášem Gallasem. Působil ve službách císařů Josefa I. a Karla VI. jako císařský komoří, skutečný tajný rada a diplomat. Pracoval v diplomatické službě v Londýně, Haagu a Římě. Nakonec byl jmenován místodržícím v Neapoli, kde také zemřel v roce 1719. Je zakladatelem pozdějšího paláce Clam-Gallas v pražském Starém Městě.",
+                            "img": "/people/jan_vaclav_gallas.jpg"
+                        },
+                        {
+                            "number": 5,
+                            "name": "Filip Josef Gallas",
+                            "years": "1703-1757",
+                            "label": "Poslední člen rodu Gallasů, díky němuž bylo frýdlantské panství rozšířeno o okolí Lemberka.",
+                            "button": "Více",
+                            "text": "Poslední člen rodu Gallasů, díky němuž bylo frýdlantské panství rozšířeno o okolí Lemberka. Během života zastával úřední funkce nejvyššího krajského hofmistra Království českého a nejvyššího soudce dvorského. Po porážce habsburské armády Prusy v bitvě u Liberce bylo frýdlantské panství Prusy vypleněno.\n\nZemřel v roce 1757 bez mužského potomka, panství poté spravovala jeho manželka Marie Anna. Po její smrti panství přešlo na jeho synovce Kristiána Filipa Clama. Podmínkou bylo sloučení erbů a přidání jména Gallas, čímž vznikl rod Clam-Gallas.",
+                            "img": "/people/filip_josef_gallas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "Clam-Gallasové",
+                    "description": "Poslední rodina žijící na frýdlantském zámku. Během jejich působení došlo k rozsáhlé přestavbě renesančního křídla zámku a k výstavbě nového křídla.",
+                    "img": "/coat_of_arms/clamgallasove.png",
+                    "button": "Zjistit více",
+                    "owners": [
+                        {
+                            "number": 1,
+                            "name": "Kristián Filip Clam-Gallas",
+                            "years": "1748-1805",
+                            "label": "První z rodu Clam-Gallasů, který během svého života zastával úřady na habsburském dvoře.",
+                            "button": "Více",
+                            "text": "První z rodu Clam-Gallasů, který během svého života zastával úřady na habsburském dvoře. Byl královským komořím tří císařů a povýšen na rytíře Řádu svatého Štěpána. Rodinná panství rozšířil o další území.\n\nByl velkým milovníkem a mecenášem umění. Ve své pražské rezidenci hostil například Mozarta či Beethovena. V oblasti Frýdlantska je spjat hlavně se založením lázeňského města Libverda, v Praze pak s panstvím Klamovka.",
+                            "img": "/people/kristian_filip_clamgallas.jpg"
+                        },
+                        {
+                            "number": 2,
+                            "name": "Kristián Kryštof Clam-Gallas",
+                            "years": "1771-1838",
+                            "label": "Kristiná Kryštof Clam-Gallas pokračoval v otcově odkazu v kariéře i mecenášství.",
+                            "button": "Více",
+                            "text": "Kristián Kryštof Clam-Gallas pokračoval v otcově odkazu v kariéře i mecenášství. Měl hodnost nejvyššího maršála Českého království. Oženil se s Josefínou Karolínou Clary-Aldringen, rovněž velkou milovnicí umění. Společně udržovali kontakty například s Ludwigem van Beethovenem.\n\nPřispěl k dalším stavebním aktivitám v Libverdě, kde vznikly nové lázeňské pavilony. V okolí Klamovky založil zahrady se sochařskou výzdobou.",
+                            "img": "/people/kristian_krystof_clamgallas.jpg"
+                        },
+                        {
+                            "number": 3,
+                            "name": "Vilém Clam-Gallas",
+                            "years": "1801-1822",
+                            "label": "Starší z Kristán Kryštofových synů.",
+                            "button": "Více",
+                            "text": "Starší z Kristián Kryštofových synů. Zemřel velmi mladý ve 21 letech. Je pohřben v rodinné hrobce v Hejnicích.",
+                            "img": "/people/vilem_clamgallas.jpg"
+                        },
+                        {
+                            "number": 4,
+                            "name": "Eduard Clam-Gallas",
+                            "years": "1805-1891",
+                            "label": "Eduard byl mladším synem Kristiána Kryštofa a nejvýznamnějším členem rodu Clam-Gallas.",
+                            "button": "Více",
+                            "text": "Eduard byl mladším synem Kristiána Kryštofa a nejvýznamnějším členem rodu Clam-Gallas. V roce 1823 vstoupil do armády jako mladík, kde dosáhl hodnosti generála. Bojoval pod velením maršála Radeckého v severní Itálii během první italské války za nezávislost, poté v Maďarsku a znovu během druhé války v severní Itálii. Nejvýznamnější bitvy, kterých se účastnil, byly bitvy u Magenty a Solferina.\n\nBěhem prusko-rakouské války utrpěl porážku v bitvě u Jičína, za což byl souzen vojenským soudem. Ačkoliv byl zproštěn viny, do armády se již nevrátil a zbytek života prožil ve Frýdlantu a Liberci.\n\nBěhem svého působení ve Frýdlantu nechal zámek podrobit rozsáhlé rekonstrukci a stavebním úpravám, během nichž vzniklo nejnovější křídlo zámku. Zemřel v roce 1891 ve věku 86 let.",
+                            "img": "/people/eduard_clamgallas.jpg"
+                        },
+                        {
+                            "number": 5,
+                            "name": "František Clam-Gallas",
+                            "years": "1854-1930",
+                            "label": "Poslední mužský potomek rodu Clam-Gallas.",
+                            "button": "Více",
+                            "text": "Poslední mužský potomek rodu Clam-Gallas. Pokračoval v kariéře státního úředníka, byl komořím a tajným radou, ale především se věnoval správě rodinných panství v Liberci, Frýdlantu, Grabštejně a Lemberku.\n\nPrvní světová válka, vznik Československé republiky a pozemková reforma zasáhly do jeho života. Kromě zemědělství se celý život věnoval dobrovolnictví a charitě, k nimž aktivně přispíval.\n\nZemřel ve Frýdlantu v roce 1930 a zanechal po sobě 7 dcer. Nejmladší z nich, Clotilda, žila ve Frýdlantu až do konce druhé světové války.",
+                            "img": "/people/frantisek_clamgallas.jpg"
+                        },
+                        {
+                            "number": 6,
+                            "name": "Clotilda Clam-Gallas",
+                            "years": "1898-1975",
+                            "label": "Clotilda Clam-Gallas byla nejmladší dcerou Františka Clam-Gallase a Marie Hoyos-Sprinzenstein.",
+                            "button": "Více",
+                            "text": "Clotilda Clam-Gallas byla nejmladší dcerou Františka Clam-Gallase a Marie Hoyos-Sprinzenstein. Za života Františka byla jeho majetek rozdělen mezi jeho dcery. Clotilda získala frýdlantský zámek. Po smrti otce zůstala svobodná a starala se o svou ovdovělou matku. Po roce 1945 musela odejít do zahraničí a zámek byl znárodněn.",
                             "img": "/people/clotilda_clamgallas_mladsi.jpg"
                         }
                     ]
@@ -2286,7 +2744,6 @@
                     "card_label": "In diesem Raum sind alte Kutschergeschirre.",
                     "button": "Besuchen",
                     "text": "In diesem Raum sind alte Kutschergeschirre. Die ersten vier sind versilbert, die anderen vergoldet. Der große Hut und die Stiefel links von der Tür gehörten dem Kutscher. Den Hut trug der Kutscher auf dem Rücken und drinnen hatte er die Post."
-                
                 },
                 {
                     "audio": "/de/castle/de_room_18.mp3",
@@ -2580,7 +3037,7 @@
                     "title": "Salon gościnny",
                     "card_label": "Najważniejszym gościem na zamku był cesarz Józef II, który podczas podróży poCzechach nocował właśnie w tym pomieszczeniu .",
                     "button": "Odwiedzać",
-                    "text" :"Najważniejszym gościem na zamku był cesarz Józef II, który podczas podróży poCzechach nocował właśnie w tym pomieszczeniu . Na dłuższy okres w gościnęprzyjeżdżała rodzina oraz przyjaciele, dla których gospodarze starali się zapewnićkomfortowe warunki do przenocowania, odpoczynku i zabawy. We wcześniejszympomieszczeniu odbywały się biesiady przy suto zastawionym stole. W komnacie wktórej znajdujemy się goście spędzali czas na rozmowach, zabawie a także słuchalimuzyki.\n\nWidzimy tu miedzioryt z XVIII wieku przedstawiający Rzym."
+                    "text": "Najważniejszym gościem na zamku był cesarz Józef II, który podczas podróży poCzechach nocował właśnie w tym pomieszczeniu . Na dłuższy okres w gościnęprzyjeżdżała rodzina oraz przyjaciele, dla których gospodarze starali się zapewnićkomfortowe warunki do przenocowania, odpoczynku i zabawy. We wcześniejszympomieszczeniu odbywały się biesiady przy suto zastawionym stole. W komnacie wktórej znajdujemy się goście spędzali czas na rozmowach, zabawie a także słuchalimuzyki.\n\nWidzimy tu miedzioryt z XVIII wieku przedstawiający Rzym."
                 },
                 {
                     "audio": "/pl/castle/pl_room_10.mp3",
@@ -2671,6 +3128,207 @@
                     "card_label": "Znajdujemy się w kancelarii zamkowej, w której najcenniejsza jest mapa z 1660 rokuod Smuela Globitza.",
                     "button": "Odwiedzać",
                     "text": "Znajdujemy się w kancelarii zamkowej, w której najcenniejsza jest mapa z 1660 rokuod Smuela Globitza. Widzimy na niej Państwo Frydlanckie wraz z zamkiem. Widzimyszafkę, tzw. registraturę a także zdjęcia panów zamku.\n\nDziękujemy za odwiedziny i zapraszamy ponownie."
+                }
+            ]
+        },
+        {
+            "tour_id": "castle",
+            "language": "cz",
+            "title": "Hrad",
+            "img": "/castle/castle.jpg",
+            "rooms_label": "místností",
+            "time": "60 minut",
+            "description": "Prohlídková trasa provede návštěvníka Horním hradem, který je nejstarší částí frýdlantského areálu. Poslední majitelé ho pro veřejnost otevřeli už v roce 1801. Dvacet místností seznámí návštěvníky se všemi rody, které Frýdlant v průběhu sedmi staletí vlastnily. Celé trase dominuje velký rytířský sál s rodovou galerií, zbrojnice, hodovní síň nebo velká sbírka zaměstnaneckých uniforem. Evropským unikátem je také kompletně zachovalá uniforma maršála Radetzkého. Plně vybavená trasa vede přes dvě hradní patra.",
+            "button": "Začít prohlídku",
+            "rooms": [
+                {
+                    "audio": "",
+                    "number": 1,
+                    "img": "/castle/dolni_nadvori.jpg",
+                    "title": "Zámecké nádvoří",
+                    "card_label": "Právě se nacházíme na zámeckém nádvoří a ještě než se vydáme vzhůru k hradu, můžeme si prohlédnout všechny budovy tohoto ohromného komplexu, který patří k nejrozsáhlejším a nejzachovalejším celkům v Čechách.",
+                    "button": "Navštívit",
+                    "text": "Právě se nacházíme na zámeckém nádvoří a ještě než se vydáme vzhůru k hradu, můžeme si prohlédnout všechny budovy tohoto ohromného komplexu, který patří k nejrozsáhlejším a nejzachovalejším celkům v Čechách.\n\nNahoře na skále se tyčí jeho nejstarší část – hrad. Založen byl již v polovině 13. století jako prostá gotická pevnost. Jeho dnešní podoba je samozřejmě výrazně mladší, víceméně renesanční, neboť byl v průběhu následujících staletí opakovaně přestavován. Vlevo od něj, odsud se nám poněkud skrývá za stromem, je zámecká kaple. Ta vznikla na přelomu století 16. a 17. společně s takzvaným starým zámkem, tedy tímto bílým křídlem, na jehož fasádě vidíte pro renesanci typická sgrafita. Nejnovější částí je žluté zámecké křídlo, přezdívané kastelánské, které bylo dokončeno roku 1869 a svou neorenesanční fasádou navazuje na ostatní budovy.\n\nVzhůru k hradu vedou dvě cesty. První se vine podél hradební zdi a přezdívá se jí rytířská, protože právě po ní vyjížděli pánové k hradu na koních. Dámy to měly ještě jednodušší, ty se nechávaly od kočáru vynést v nosítkách. My tu však koně ani nosítka nemáme, a tak raději využijeme novější schodiště."
+                },
+                {
+                    "audio": "",
+                    "number": 2,
+                    "img": "/castle/pred_kapli.jpg",
+                    "title": "Pod prampouchem",
+                    "card_label": "Gotické jádro hradu vznikalo na čedičové skále, která sloužila i jako jakési druhotné opevnění.",
+                    "button": "Navštívit",
+                    "text": "Gotické jádro hradu vznikalo na čedičové skále, která sloužila i jako jakési druhotné opevnění. Jak už to tak bývá, má skála i svůj název: Čertovy varhany. Varhany podle typické sloupcovité odlučnosti čediče, čertovy podle pověsti, která se ke skále váže. Ta vypráví, že ji ďábel zoral vlastními drápy poté, co s jedním z hradních pánů prohrál hru v kostky.\n\nNad námi vidíme také prampouch, rozpěrný oblouk. Uvnitř něj vede široká chodba, kterou šlechta pohodlně přecházela z hradu přímo k oratoři zámecké kaple.\n\nNyní mi prosím u brány předložte své vstupenky a pak již vystoupáme na hradní nádvoří. Cestou po pravé straně schodiště uvidíte tři staré hasicí přístroje, spodní z 18. a další dva z 19. století."
+                },
+                {
+                    "audio": "",
+                    "number": 3,
+                    "img": "/castle/hradni_nadvori.jpg",
+                    "title": "Hradní nádvoří",
+                    "card_label": "Hradnímu nádvoří se říká též Malé.",
+                    "button": "Navštívit",
+                    "text": "Hradnímu nádvoří se říká též Malé. Snad bychom skutečně v porovnání s rozměry hradu čekali nádvoří o něco větší, ovšem plocha hradu je omezena skálou, na níž stojí, tedy je budován spíše do výšky.\n\nNejstarší částí hradu je vysoká kulatá věž Indika. Její základy jsou dokonce starší, než samotný hrad, protože už v 11. století zde prokazatelně stávala osamocená strážní věž na obchodní stezce z Čech do Lužice a Polska. Název Indika je nejspíš odvozen od latinského index, tedy ukazatel, jako který mohla věž tyčící se vysoko na kopci snadno sloužit. Podle pověstí se dokonce na jejím vršku v noci zapalovaly ohně, aby svítila do dálky, ale pro to neexistují žádné skutečné důkazy.\n\nOd poloviny 13. století začaly k věži postupně přibývat hradní paláce. Zprvu byly gotické než je roku 1551 nechal Kryštof z Bibrštejna všechny najednou přestavět do první renesanční podoby, jak nám sděluje kamenná deska nad schodištěm. Další renesanční úpravy mají na svědomí následující majitelé, Redernové. I zde na hradním nádvoří vidíme podobné sgrafito, jako na starém zámeckém křídle. Zatímco na něm však najdeme pouze lovecké výjevy a jiné dekorační náměty, tady jsou výjevy též historické, což není úplně tradiční. Nakonec na protější stěně se skví erb dalšího z majitelů, Matyáše z Gallasu, jsou pod ním sepsány zásluhy, za něž panství obdržel, ale o tom všem si více povíme uvnitř.\n\nVe veškerých interiérech prosím foťte výhradně bez blesku a nedotýkejte se vystavených předmětů ani nábytku."
+                },
+                {
+                    "audio": "",
+                    "number": 4,
+                    "img": "/castle/prvni_hradni.jpg",
+                    "title": "První hradní místnost",
+                    "card_label": "Nejdřív se stručně seznámíme s nejstarší historií hradu.",
+                    "button": "Navštívit",
+                    "text": "Nejdřív se stručně seznámíme s nejstarší historií hradu. První pomezní tvrz zde byla postavena někdy v polovině 13. století, přesný letopočet ani zakladatele hradu ovšem neznáme. Dlouho převládala doměnka, že prvním majitelem panství mohli být ve 13. století Ronovici, jedna z větví rodu Berků z Dubé, a proto je tu také nade dveřmi jejich erb. Tito Ronovici ovšem měli državy ve Slezsku, v okolí dnešního Frýdlantu nad Ostravicí, a na Českolipsku, kde se také jedné osadě říkalo Friedland. Moderní historici tuší, že se zkrátka jedná o záměnu.\n\nTak či tak, již roku 1278 český král Přemysl Otakar II. prodal severočeský Frýdlant Bibrštejnům, a z tohoto okamžiku také pochází nejstarší dochovaná písemná zmínka o našem hradě. Bibrštejnové se později proslavili zejména jako vojenští odpůrci husitů. Jejich erb je opět zlatý, ale tentokrát s jelením parohem. Setrvali zde ze všech rodů nejdéle, bezmála 300 let, hrad i město pod ním se za jejich působení značně rozrostly a jak již víme, roku 1551 byla z vůle Kryštofa z Bibrštejna také dokončena ona první renesanční přestavba celého tehdejšího hradu. Kryštof ovšem v témže roce zemřel, a protože neměl žádné potomky a vzdálenějším příbuzným byl nárok na dědictví upřen, připadly všechny majetky do správy České královské komory.\n\nKrálovská komora spravovala Frýdlant sedm let, než jej roku 1558 koupil Bedřich z Redernu. Když záhy zemřel, ujali se správy jeho synové a nakonec se stal dědicem nejmladší z nich, Melchior, kterého konečně vidíme také na podobizně. Melchior z Redernu již v mládí vstoupil do armády a proslavil se na bojištích po celé Evropě, zejména v bitvách s Turky v Uhrách. Válečné útrapy ovšem zrovna nepřispívaly k jeho zdraví a Melchior roku 1600 zemřel v Německém Brodě po krátké nemoci. Ve vitrínce naproti portrétu si můžeme prohlédnout i několik pozůstatků z rodinné hrobky, jedná se o jeho přilbici, kord a pažní kost, v rámech nad vitrínou jsou dokonce zarámované i zbytky pohřebního roucha.\n\nÚplně nahoře pak visí další dva erby. Ten vpravo je redernský, vedle něj je vystaven také šlikovský – a to přesto, že Šlikové Frýdlant nikdy nevlastnili. Ze Šliku byla ovšem rozena Melchiorova žena Kateřina a právě ona se starala o panství za časů manželovy nepřítomnosti – což znamená prakticky pořád – ale i po jeho smrti, než dospěl jejich jediný syn. Kateřina byla velmi zkušená a zdatná hospodářka, navíc se jí stejně jako Melchiorovi dostalo prvotřídního vzdělání, ale mezi poddanými i měšťany se narozdíl od svého muže velké oblibě netěšila. Když po jeho smrti zvýšila daně, aby dokázala splatit dluhy zbylé po všech vojenských taženích, začalo se jí dokonce přezdívat Zlá Kateřina a kolují nejrůznější nelichotivé pověsti o jejím panování. Právě jí však dodnes vděčíme za vybudování zámecké kaple, starého zámeckého křídla a dokonce i za výstavbu mramorového náhrobku, který si můžete prohlédnout na obrázku vedle dveří.\n\nSmutnou pravdou zůstává, že ač byla hrobka ve frýdlantském farním kostele zamýšlena jako hrobka rodinná, nakonec v ní spočinul pouze Melchior. Kateřininy ostatky se po její smrti beze stopy ztratily a jediný syn Kryštof, vyobrazen po otcově levici, se později jakožto protestant zúčastnil českého stavovského povstání a po porážce na Bílé hoře musel uprchnout do Slezska, aby neskončil mezi popravenými na Staroměstském náměstí. Frýdlant byl císařem zkonfiskován a co se s celým hradem, zámkem i panstvím dělo dál, si povíme v další místnosti."
+                },
+                {
+                    "audio": "",
+                    "number": 5,
+                    "img": "/castle/albrecht.jpg",
+                    "title": "U Valdštejna",
+                    "card_label": "Skončili jsme tedy v roce 1620, kdy byl Frýdlant zabaven Redernům pro jejich protestantské vyznání.",
+                    "button": "Navštívit",
+                    "text": "Skončili jsme tedy v roce 1620, kdy byl Frýdlant zabaven Redernům pro jejich protestantské vyznání. O rok později jej tak mohl levně zakoupit jeho nepochybně nejslavnější majitel, Albrecht z Valdštejna. Ačkoli zde nikdy nepobýval a hrad navštívil jen třikrát, jeho jméno je se zdejším krajem dodnes neodmyslitelně spjato. Je tomu tak jednak proto, že byl jediným frýdlantským vévodou a jedním z nejbohatších i nejmocnějších mužů své doby, jednak protože právě za jeho působení získalo Frýdlantsko svou přezdívku Terra Felix, Šťastná země. Tou kraj za doby třicetileté války nepochybně byl – zatímco celou Evropou zmítaly boje a přesouvající se armády, schopný stratég a generalissimus všech císařských vojsk Valdštejn se mohl chlubit tím, že na jeho panství nevkročila noha cizího vojáka, vymohl si také osvobození vévodství od armádních přezimování a navrch nevybíral téměř žádné daně.\n\nSvého nebývalého majetku a vysokého postavení však vévoda nenabyl výhradně skvělými strategiemi, dosáhl jich i za pomoci nejrůznějších intrik. Jeho ctižádost a jistá proradnost budily dlouho u císařského dvora nedůvěru, a když i jeho vlastní generálové vyjádřili obavy, že by se Valdštejn mohl spiknout se Švédy, vydal císař rozkaz k jeho zadržení či zabití. Albrecht z Valdštejna byl tedy na počátku roku 1634 zavražděn v Chebu a výjev z této vraždy, jakožto i vraždy jeho posledních věrných důstojníků, vidíte vedle okna. Obraz je ale značně zavádějící – Valdštejn byl v době své smrti již prakticky paralyzovaný, trpěl posledním stadiem syfilidy, takže byl zavražděn přímo na lůžku.\n\nZe všech, kteří jej zradili, nás nejvíce zajímá generál hrabě Matyáš z Gallasu, který se nejenže po Valdštejnovi stal velitelem císařské armády, ale také odměnou za věrnost císaři získal část někdejších vévodových majetků. Mezi nimi také Liberecké a Frýdlantské panství. A právě Matyášovi a jeho potomkům je proto věnován celý následující sál."
+                },
+                {
+                    "audio": "",
+                    "number": 6,
+                    "img": "/castle/rytirsky_sal.jpg",
+                    "title": "Rytířský sál",
+                    "card_label": "Po vévodově smrti tedy Frýdlant přešel do rukou Matyáše z Gallasu.",
+                    "button": "Navštívit",
+                    "text": "Po vévodově smrti tedy Frýdlant přešel do rukou Matyáše z Gallasu. Ten si svého nově nabytého majetku příliš neužil, jelikož ještě téhož roku hrad dobyla švédská vojska. Švédové pak Frýdlant střídavě okupovali až do roku 1649, tedy dokonce ještě celý rok po skončení třicetileté války. V mezidobích se sice Frýdlantu vždy ujala posádka císařská, ale nikdy jej nedokázala ubránit, když se Švédové opět objevili.\n\nMatyáš sám zemřel ještě před koncem války, po konečném stažení Švédů tedy majetky získali dva jeho nezletilí synové, Antonín Pankrác a František Ferdinand a správy se za ně neujala matka Dorothea, nýbrž poručníci.\n\nPo několikerém dělení a přerozdělování statků se nakonec majitelem frýdlantského i libereckého panství stal starší František Ferdinand. Ten byl, jak se pro tehdejšího mladého šlechtice slušelo, dobře vzdělaným a zcestovalým mužem se zájmem o kulturu. Během své kavalírské cesty po jižní a jihozápadní Evropě si zamiloval módní barokní architekturu, jak napovídá i plánek v jeho ruce. Pod tímto vlivem si potom nejenže nechal přestavět interiéry hradu, ale zejména nechal v nedalekých Hejnicích, kde do té doby stával poutní kostel, vybudovat františkánský klášter s majestátní barokní bazilikou. V ní je také umístěna rodinná hrobka Gallasů i pozdějších Clam-Gallasů. Po Ferdinandově boku také vidíme jeho druhou manželku, Johanu Emerencii Gašín z Rosenbergu. Tomuto páru se narodilo celkem deset dětí, což v dané době nebylo neobvyklé. Neobvyklou skutečností zato je, že Johana Emerencie se dožila dodnes úctyhodných 92 let. Znamená to ale zároveň, že postupně také pochovala všechny své potomky i několik vnoučat. Dětská úmrtnost tou dobou dosahovala krutých 40 % i v bohatých rodinách.\n\nNejstarší jejich syn a tedy i dědic sice dospělosti došel, ale v pouhých 20 letech při studijní cestě zemřel na jakousi tropickou nemoc. O šest dní později padl na bojišti s Turky i jeho o rok mladší bratr. Dědicem se proto nakonec stal až třetirozený Jan Václav. Ten se, narozdíl od svých předků, nevydal na vojenskou dráhu a stal se raději diplomatem. Většinu svého života tak strávil na cestách a jako velvyslanec v Londýně, Haagu či Římě, vrcholem jeho kariéry bylo jmenování místokrálem neapolským v roce 1719. Tato obrovská pocta mu ale mnoho štěstí nepřinesla, ještě cestou do Neapole totiž ochořel a zemřel tři týdny po svém příjezdu. Ačkoli byl se všemi náležitostmi pochován v Neapoli, srdce bylo z těla vyňato a převezeno do rodinné hrobky v Hejnicích, aby alespoň ono symbolicky spočinulo s rodinou, jak si sám Jan Václav přál.\n\nNaproti Janu Václavovi vidíme jeho manželku, Annu Marii z Dietrichsteina. Manželství netrvalo ani pět let, půvabná leč stonavá Anna Marie zemřela v pouhých 23 letech. Výchovu jejich jediného syna, tehdy dvouletého Filipa Josefa, si vzala na starosti babička, dlouhověká Johana Emerencie. Filip se podobně jako jeho otec věnoval politice, byl nejvyšším dvorním sudím a nejvyšším hofmistrem Českého království. Se svou manželkou (a zároveň sestřenicí) Marií Annou Collona z Felsu však neměl žádné potomky, a tak se jeho největší zodpovědností stalo zajištění vhodného dědice. Veškeré majetky i hraběcí titul nakonec připadly synovci, rozenému pánovi z Clamu, pod podmínkou, že přijme i rodinné jméno a polovinu erbu. Tak nám vzniká nová větev, Clam-Gallasové.\n\nJejím prvním představitelem byl tedy právě zmíněný synovec, Kristián Filip, veliký milovník a mecenáš umění a kultury vůbec, zakladatel lázní v Libverdě i známé pražské zahrady Klamovky. O jeho další, pro nás velmi důležité, zakladatelské činnosti si ale povíme až v další místnosti."
+                },
+                {
+                    "audio": "",
+                    "number": 7,
+                    "img": "/castle/tabulnice.jpg",
+                    "title": "Tabulnice",
+                    "card_label": "Vlevo od oken znovu vidíme podobiznu Kristiána Filipa a na opačné straně i jeho ženu, Karolínu Josefínu Šporkovou.",
+                    "button": "Navštívit",
+                    "text": "Vlevo od oken znovu vidíme podobiznu Kristiána Filipa a na opačné straně i jeho ženu, Karolínu Josefínu Šporkovou. I ona byla vášnivou milovnicí umění a hlavně sběratelkou obrazů. To díky ní máme dodnes na Frýdlantě díla od Škréty či Brandla. Jak už bylo řečeno, Kristián Filip založil nedaleké lázně Libverda. Obliba lázeňství ve šlechtických kruzích koncem 18. století prudce rostla, stávalo se důležitou společenskou záležitostí. Do Libverdy se tedy začali sjíždět vznešení hosté a bylo nutné pro ně zajistit také zábavu. Protože je ale z Libverdy daleko do větších měst a večerní koncerty či představení dosti nesytily poptávku hostí po kultuře, rozhodli se Clam-Gallasové vytvořit muzeum na svém vlastním hradě. Jeho brány se návštěvníkům poprvé otevřely v létě 1801 a vznikla tak vůbec nejstarší hradní expozice v celé střední Evropě. A že již tehdy byl oblíbenou historickou postavou Albrecht z Valdštejna, není divu, že právě jemu se věnovala od počátku velká pozornost.\n\nNejprve muzeum tvořila jen portrétní galerie předků, brzy začaly přibývat sbírky umění, artefaktů, zbraní a suvenýrů z cest. Na tom měl velkou zásluhu jejich syn, Kristián Kryštof, který po rodičích zdědil lásku k umění a byl mimo jiné i spoluzakladatelem a třetím prezidentem Společnosti vlasteneckých přátel umění, která dala vzniknout české Akademii výtvarných umění a později se stala základem Národní galerie. Sám Kryštof měl výtvarné nadání, některá jeho dílka jsou v galerii dodnes k vidění, zejména měl ovšem v oblibě divadlo. Uměleckého založení byla i jeho choť, Josefína roz. Clary-Aldringen, která byla pro změnu výbornou sopranistkou a hrála na několik hudebních nástrojů. Hře na klavír ji učil Ludwig van Beethoven, který s ní později i koncertoval a také pro ni napsal několik skladeb.\n\nZ manželství Kryštofa s Josefínou vzešly tři dcery a dva synové. Starší Vilém, předpokládaný dědic panství, byl v pouhých osmnácti letech vážně zraněn na lovu. Trvalo dlouho, než nabyl plného zdraví, ale povedlo se, načež krátce po dovršení 20 let zemřel na tyfus.\n\nDědicem se tedy nečekaně stal mladší z bratří, Eduard. Ten se již od mládí připravoval na vojenskou kariéru a v 18 letech nastoupil k jezdectvu. Nejmarkantnějších úspěchů dosáhl při taženích v severní Itálii, po kterých mu bylo svěřeno velení nad císařskou armádou v Čechách a později byl povýšen do hodnosti generála jezdectva. Na prsou mu také přibývala nejrůznější vyznamenání, mezi nimi i Řád zlatého rouna či Vojenský řád Marie Terezie. V prusko-rakouské válce ale utrpěl několik porážek a dopustil se chyb, za něž musel stanout před vojenským soudem. Ten ho samozřejmě všech obvinění zprostil, ale pro Eduarda bylo samotné řízení takovou křivdou a potupou, že se k armádě už nikdy aktivně nevrátil. Začal se naplno věnovat správě svých panství, a byl to právě on, kdo nechal vystavět ono nejnovější, neorenesanční křídlo zámku a také kompletně přestavět interiéry starého křídla pro bydlení. Ne snad z touhy po větším pohodlí, nýbrž proto, že hradní muzeum už se natolik rozrostlo, že bylo čím dál složitější kombinovat jeho provoz s bydlením. Kanceláře a úřednické byty z renesančního křídla, stejně jako koňská maštal z jeho přízemí, se tedy vystěhovaly do nových budov v okolí, namísto nich se do zámku přesunula hraběcí rodina a hrad zbyl více méně pro potřeby muzea.\n\nEduardovu manželku, o generaci mladší Clothildu z Dietrichsteina, zde bohužel na podobizně nevidíme. Byla to velmi aktivní a schopná žena, mimo jiné i dvorní dáma, dáma několika řádů a zakladatelka vyhlášeného vídeňského salónu. S Eduardem měli dvě dcery a nakonec i jediného synka, Františka.\n\nFrantišek Clam-Gallas byl mužem mnoha zájmů a dovedností. Sportovec, cestovatel, nadšený automobilista i polyglot. Na Vídeňské univerzitě studoval právo a historii, na vysoké škole zemědělské se také s velkým zaujetím věnoval lesnímu hospodářství. Právě lesy totiž byly od mládí jeho velikou vášní a zároveň hlavním zdrojem příjmů rodiny. Druhou jeho životní láskou byla jeho choť Marie, kterou si z Vídně přivezl do severních Čech a založili zde rodinu, která se postupně rozrostla o sedm dcer. Mužského dědice se páru zplodit nepodařilo, a tak byl František posledním mužským příslušníkem rodu. Ke štěstí i smůle celé rodiny vznikla roku 1918 Československá republika. V jejím právním řádu byly ženy později zrovnoprávněny a zanikly i další překážky, které by za císařských časů bránily rozdělení majetku a jeho odkázání dcerám, František si tedy mohl zhluboka oddechnout. Hned vzápětí mu ovšem ještě více starostí přinesla pozemková reforma, v jejímž rámci mu byly zabavovány ony milované a hýčkané lesy. Bývalý hrabě se s jejich ztrátou těžce vyrovnával, krom citové újmy navíc ztráta příjmů z těžby dřeva znamenala veliké propouštění i konec financování nejrůznějších spolků a institucí. Neustále se snažil vyjednávat s vládou, nabízel jiné pozemky, poskytl státu pražský palác a odprodal i Liberecký zámek, ale úřady byly neúprosné. Když se František o Vánocích 1929 dozvěděl, že se druhou vlnou reforem má přijít o téměř dvě třetiny všech svých lesů, už to neunesl. Postihla jej srdeční příhoda a na její následky o tři týdny později zemřel.\n\nPo Františkově smrti se tedy zbylé majetky rozdělily mezi jeho dcery. Frýdlant zdědila druhá nejmladší a také jediná neprovdaná Clothilda, která zde pobývala ještě osm let se svou matkou, o níž se starala. Po Mariině smrti a neshodách s nacisticky laděným obyvatelstvem se přesunula do Vídně. Po skončení války jí již nebylo umožněno nastěhovat se zpět, neboť všechny majetky byly jí i jejím sestrám zkonfiskovány na základě Benešových dekretů. Všechna děvčata se totiž po zkušenosti s Československým státem hlásila k německé/rakouské národnosti. Naše poslední majitelka tak zemřela ve Stuggartu roku 1975 jako poslední nositelka jména Clam-Gallas.\n\nOd té doby je tedy Frýdlant v rukou státu. Brzké zestátnění bylo pro zámek ironicky jakýmsi štěstím v neštěstí, díky existenci hradního muzea, již tehdy skoro stopadesátileté, nebyl vyhrazen jiným účelům a došlo pouze k rozšíření prohlídkové trasy o dříve obývané prostory. Také se tak zámek do značné míry vyhnul svážení a přerozdělování depozitářů, které si v padesátých letech vymysleli komunisté, a při kterém se úspěšně poztrácelo a rozkradlo přes 40 procent všech předmětů. Na Frýdlantě ale zůstalo skoro vše, a tak tu dodnes můžete vidět autentické vybavení.\n\nTo bychom tedy měli k historii a můžeme se vydat vstříc té části hradního muzea, která je spíš „na koukání“. Jen se ještě rozhlédněte po místnosti, které se dříve říkalo tabulnice, brzy si o ní povíme více."
+                },
+                {
+                    "audio": "",
+                    "number": 8,
+                    "img": "/castle/eduard.jpg",
+                    "title": "Šporkovská galerie",
+                    "card_label": "Vzpomínáte-li si ještě na Karolínu Josefínu Šporkovou, manželku prvního Clam-Gallase, co tolik milovala obrazy, pamatujete si jistě také, že rozšířila frýdlantské sbírky o několik cenných pláten, některá sama zakoupila, jiná byla součástí jejího věna.",
+                    "button": "Navštívit",
+                    "text": "Vzpomínáte-li si ještě na Karolínu Josefínu Šporkovou, manželku prvního Clam-Gallase, co tolik milovala obrazy, pamatujete si jistě také, že rozšířila frýdlantské sbírky o několik cenných pláten, některá sama zakoupila, jiná byla součástí jejího věna. Nejcennější z nich vidíte právě zde. Jedná se o portrét Karolínina prastrýce, Antonína Šporka, zakladatele lázní v Kuksu, a jeho autorem není nikdo jiný, než barokní velikán Petr Brandl. Na ostatních podobiznách si můžete prohlédnout další příslušníky hraběcí rodiny Šporků a pak se pomalu přesuneme dál.\n\n"
+                },
+                {
+                    "audio": "",
+                    "number": 9,
+                    "img": "/castle/grafika.jpg",
+                    "title": "Grafický salón",
+                    "card_label": "Vraťme se v čase o trochu dál, do 18. století, kdy se ještě na hradě veselo bydlelo.",
+                    "button": "Navštívit",
+                    "text": "Vraťme se v čase o trochu dál, do 18. století, kdy se ještě na hradě veselo bydlelo. Samozřejmě sem často mířili i nejrůznější hosté, nejvzácnějším byl nepochybně sám císař Josef II., který zde přenocoval během své cesty po Čechách, častěji to ale byli příbuzní a přátelé. Taková návštěva obvykle netrvala den či dva, pro tak krátkou dobu by se málokomu chtělo strávit dlouhý čas na cestách. Pro hosty bylo potřeba zajistit pohodlí, občas i na pár týdnů, a tedy jim byly vyhrazené prostory nejen k nocování, ale i společenské, jako je třeba právě tento salón nebo tabulnice. Tabulnice je jakási malá hodovní síň, reprezentační prostor a jídelna v jednom, v době baroka se nacházela v oné místnosti, kde jsme se loučili s historií, jistě si vybavujete dlouhý stůl. Možná jste si povšimli i zavřených dveří, které vedou na schodiště a kudy lokajové přinášeli pokrmy z kuchyně.\n\nSalón je pak takovou obdobou našich obývacích pokojů, zde panstvo trávilo dlouhou chvíli četbou, hovorem, hudbou či nejrůznějšími hrami včetně kulečníku, který nám tu dnes již bohužel chybí, stejně jako mnohé grafiky, které mají zdobit stěny žlutého pokoje. Ta největší, působivá mědirytina Říma z 18. století je ovšem k vidění na svém místě.\n\nLožnice se zřizovaly vždy podle počtu hostí, i v předchozím pokoji například občas někdo spával. Dnes už ale uvidíme jen jednu, a to dámskou, která je před námi."
+                },
+                {
+                    "audio": "",
+                    "number": 10,
+                    "img": "/castle/loznice.jpg",
+                    "title": "Ložnice",
+                    "card_label": "HBarokní a barokizující zařízení datuje ložnici ke sklonku 18. století, patrně ale sloužila návštěvám i sto let poté, pokud ty toužily po romantickém přenocování na „středověkém“ hradě.",
+                    "button": "Navštívit",
+                    "text": "Barokní a barokizující zařízení datuje ložnici ke sklonku 18. století, patrně ale sloužila návštěvám i sto let poté, pokud ty toužily po romantickém přenocování na „středověkém“ hradě. Až si ji prohlédnete, můžete se skrz lovecký kabinet vydat do kabinetu vojenského."
+                },
+                {
+                    "audio": "",
+                    "number": 11,
+                    "img": "/castle/lovecak.jpg",
+                    "title": "Lovecký kabinet",
+                    "card_label": "Všimněte si na střeleckém erbu letopočtu, který opět odkazuje k prvnímu otevření muzea.",
+                    "button": "Navštívit",
+                    "text": "Všimněte si na střeleckém erbu letopočtu, který opět odkazuje k prvnímu otevření muzea. Lovecký sport byl zde na Frýdlantsku velice populární, okolní lesy k němu nabízely ideální podmínky. Eduard v nich dokonce zřídil oboru o rozloze 55 km2, která z ní činila druhou největší oboru v Čechách. Po celém obvodu, tedy asi 42 km, byla navíc obehnána plotem s kamennými sloupky, a to i v těžko přístupném horském terénu. Pozůstalé řady dvoutunových žulových bloků, na které dodnes tu a tam v Jizerkách narazíte, dávají tušit, jak velkolepé lesnické dílo to bylo. Na vyhlášené hony se sem sjížděla smetánka z celého R-U, jak si ostatně můžete přečíst na leckterých trofejích.\n\nJiž František ale oboru zase částečně otevíral, protože se nadchl pro turistiku a začal v horách budovat výletní cesty."
+                },
+                {
+                    "audio": "",
+                    "number": 12,
+                    "img": "/castle/radetzsky.jpg",
+                    "title": "Vojenský kabinet",
+                    "card_label": "Vstoupili jsme do tzv. vojenského kabinetu, který opět upomíná na Eduardovu vojenskou kariéru.",
+                    "button": "Navštívit",
+                    "text": "Vstoupili jsme do tzv. vojenského kabinetu, který opět upomíná na Eduardovu vojenskou kariéru. Ve vitrínkách vidíme mnohá z jeho vyznamenání, na červené stužce je Řád zlatého rouna a například modro-žlutá šerpa a hvězda náleží Řádu železné koruny.\n\nKrom Eduardových vlastních uniforem, dragounské, hulánské a husarské, tu vidíme i dar od polního maršálka Radeckého – jeho vlastní uniformu, kterou svému příteli Eduardovi věnoval do muzea."
+                },
+                {
+                    "audio": "",
+                    "number": 13,
+                    "img": "/castle/obludky.jpg",
+                    "title": "Chodba s kachlemi",
+                    "card_label": "Kromě vycpaných zvířecích anomálií si tu můžete prohlédnout i renesanční výmalbu stropu.",
+                    "button": "Navštívit",
+                    "text": "Kromě vycpaných zvířecích anomálií, které jsou pozůstatkem z dob, kdy se v muzeu vystavovala jakákoli rarita, si tu můžete prohlédnout i renesanční výmalbu stropu, dvoje barokní sáně a hlavně kolekci malovaných kachlí ze 17. století, většinou holandského původu."
+                },
+                {
+                    "audio": "",
+                    "number": 14,
+                    "img": "/castle/jidelna.jpg",
+                    "title": "Lokajna",
+                    "card_label": "Pokoj nadepisovaný ve stoletých hradních průvodcích jako lokajna, je opět zařízen v barokním stylu.",
+                    "button": "Navštívit",
+                    "text": "Pokoj nadepisovaný ve stoletých hradních průvodcích jako lokajna, je opět zařízen v barokním stylu. Barokní jsou tu i ohromná kamna a také sbírka cínového nádobí. Cín byl dlouho na bohatých tabulích tím nejrozšířenějším nádobím. Porcelán se v Evropě rozšířil až na počátku předminulého století. Na prostřeném stole nám ovšem chybí příbory. Ne že by se snad vůbec nepoužívaly, ale ještě v 17. století se mnoho pokrmů jedlo rukama. V takovém případě bylo záhodno si ruce i mezi chody umýt a právě tomu účelu sloužilo lavabo, tedy přenosné umyvadélko, zde dokonce v podobě tykve."
+                },
+                {
+                    "audio": "",
+                    "number": 15,
+                    "img": "/castle/vezeni.jpg",
+                    "title": "Vež",
+                    "card_label": "Jak jste už možná podle zaoblení stěny uhodli, procházíme kolem věže Indiky.",
+                    "button": "Navštívit",
+                    "text": "Jak jste už možná podle zaoblení stěny uhodli, procházíme kolem věže Indiky. Na výšku má 49 metrů, v průměru přibližně deset a ještě v tomto patře jsou její zdi tlusté metry bezmála čtyři. Uvnitř tedy nezbývá mnoho prostoru, a tak ve spodní části nenalezneme schodiště, pouze dvě místnosti – jednu zde, jednu o patro výš. V dobách, kdy tu věž stávala jako osamocená strážní, dostávala se její posádka do těchto místností po žebříku, který mohla v případě ohrožení vytáhnout nahoru. I po vzniku nejstarších hradních paláců zůstávala věž bokem, propojená jen zdvihacím dřevěným mostkem, aby mohla poskytnout poslední bezpečné útočiště. Takovému typu věže se říká bergfrit. Když už ji ale rozšiřující se hrad pohltil a nemohla déle sloužit tomuto účelu, vzniklo v ní vězení a pokladnice. Od půlky 17. století už jsou tyto malé prostory bez využití."
+                },
+                {
+                    "audio": "",
+                    "number": 16,
+                    "img": "/castle/zbrojnice1.jpg",
+                    "title": "Zbrojnice",
+                    "card_label": "Renesanční výmalba stropu a redernský erb prozrazují, že zde bývaly slavnostní, reprezentační prostory.",
+                    "button": "Navštívit",
+                    "text": "Renesanční výmalba stropu a redernský erb prozrazují, že zde bývaly slavnostní, reprezentační prostory. Dnes tu ale, stejně jako posledních dvě stě let, vidíme zbrojnici plnou mušket, halaparten i jiných zbraní, většina z nich pochází z období krátce po třicetileté válce. O něco starší jsou tyto dvě hákovnice, neboli arkebuzy, typické pro 15. století a zejména husitské období. Jedná se o velmi těžké a primitivní palné zbraně, které se navíc pro svůj obrovský zpětný ráz musely zachytit za hradbu či taras tím velikým hákem, odtud i jejich český název. Několik husitských zbraní tu vidíme také, jako připomínku neúspěšných pokusů o dobytí hradu, při nichž husité napáchali značné škody ve městě.\n\nVe druhé části zbrojnice si můžete prohlédnout i zmenšená děla a tzv. moždíře, předchůdce minometů."
+                },
+                {
+                    "audio": "",
+                    "number": 17,
+                    "img": "/castle/postroje.jpg",
+                    "title": "Koňské postroje",
+                    "card_label": "Vedle sebe tu vidíme hned dva typy slavnostních, kočárových postrojů – chomoutové zdobené stříbrem a poprsní zdobené zlatem.",
+                    "button": "Navštívit",
+                    "text": "Vedle sebe tu vidíme hned dva typy slavnostních, kočárových postrojů – chomoutové zdobené stříbrem a poprsní zdobené zlatem.\n\nKočárový podvozek svou velikostí napovídá, že tento velcí koně jistě netahali. Jednalo se o kočár dětský, věrnou zmenšeninu parádních otevřených vozů. Tahat jej mohl třeba poník nebo dokonce kozí spřežení, jaké vidíme na fotografii Františkových dcer, které také měly podobný kočárek.\n\nZajímavostí je též vybavení jízdního kurýra. Nejedná se o klobouk, jak by se mohlo na první pohled zdát, nýbrž o módní batoh. Uvnitř dutiny je uzavíratelná schránka, do níž mohl kurýr uložit převážené dopisy či listiny, a celou brašnu si potom na řemeni pověsil na záda. Ani boty nejsou tak obrovské proto, že by měl snad kurýr velké nohy, ale proto, že jsou to boty jezdecké. Obouval se do nich ještě ve svých vlastních botách a zbylý volný prostor vyplnil slámou, aby byl hezky chráněn před vlhkem a před zimou."
+                },
+                {
+                    "audio": "",
+                    "number": 18,
+                    "img": "/castle/obrazarna.jpg",
+                    "title": "Hradní obrazárna",
+                    "card_label": "V hradním muzeu samozřejmě nesmí chybět obrazárna.",
+                    "button": "Navštívit",
+                    "text": "V hradním muzeu samozřejmě nesmí chybět obrazárna. V té frýdlantské si můžeme prohlédnout portréty mnoha monarchů včetně několika císařů či španělské infantky Markéty. Nechybí podobizny dvorních dam a dalších slavných postav, jakožto ani obrazy sbírkové. V rohu u kamen jsou k vidění tři obrazy anglické provenience, mezi okny vpravo vidíte podobiznu Bernarda Ignáce z Martinic od slavného malíře Karla Škréty a vpravo od něj portrét kněze od dalšího barokního mistra, Jana Kupeckého.\n\nVe vitríně uprostřed si navíc můžete prohlédnout uniformy panských zaměstnanců. Většina z nich jsou uniformy slavnostní z konce 19. století, tedy oděvy pro lokaje, komoří i vysoce postavené úředníky. Ve stinném rohu jsou dva livreje ze 17. století a jedna dámská róba."
+                },
+                {
+                    "audio": "",
+                    "number": 19,
+                    "img": "/castle/dymky.jpg",
+                    "title": "Galerie s dýmkami",
+                    "card_label": "U obrazů ještě zůstaneme, krajinomalby, které vidíte kolem sebe, vyšly zpod štětce Václava Vavřince Reinera, opět jednoho z nejvýznamnějších barokních umělců českého prostředí.",
+                    "button": "Navštívit",
+                    "text": "U obrazů ještě zůstaneme, krajinomalby, které vidíte kolem sebe, vyšly zpod štětce Václava Vavřince Reinera, opět jednoho z nejvýznamnějších barokních umělců českého prostředí. Viditelně starší obraz je renesančním dílem ze 16. století, jedná se o znázornění sv. Ludvíka od Paola Veronského.\n\nCo Vás ale jistě upoutá více, je sbírka dýmek, kterou dali dohromady Eduard a František. Kolekce čítá celkem asi 220 dýmek rozličných a mnohdy divokých tvarů a rozměrů, z nejrůznějších materiálů i konců světa."
+                },
+                {
+                    "audio": "",
+                    "number": 20,
+                    "img": "/castle/vrchnostenska.jpg",
+                    "title": "Kancelář",
+                    "card_label": "Poslední místnost hradního muzea, přidaná k expozici až po zestátnění, nám má ukázat, jak vypadala taková vrchnostenská kancelář, tedy kancelář vysoce postavených panských úředníků.",
+                    "button": "Navštívit",
+                    "text": "Poslední místnost hradního muzea, přidaná k expozici až po zestátnění, nám má ukázat, jak vypadala taková vrchnostenská kancelář, tedy kancelář vysoce postavených panských úředníků. Nezbytnou součástí takové kanceláře je tzv. parádní kout, tedy místo, kam mohli úředníci při jednáních usadit samotného hraběte.\n\nNa stěně si můžete prohlédnout ohromnou mapu, které se říká podle jejího autora mapa Globitzova. Olejomalba z roku 1660 zachycuje právě frýdlantské panství. Největší město, označené písmenem F je samozřejmě Frýdlant, nad ním na kopci stojí náš zámek. Okolní obce jsou označené čísly, ta si můžeme dohledat v legendě vlevo dole.\n\nV neposlední řadě vás ještě upozorním na více než stoletý ceník, na němž se dočteme, že vstupné na hrad stávalo 1 korunu či marku, pro skupinu od 5 osob pak už jen 20 haléřů či feniků na hlavu.\n\nAž si i kancelář prohlédnete a prozkoumáte, vyjdeme přes arkádu na schodiště a úplně dolů, zpět na hradní nádvoří."
+                },
+                {
+                    "audio": "",
+                    "number": 21,
+                    "img": "/castle/hradni_nadvori.jpg",
+                    "title": "Hradní nádvoří",
+                    "card_label": "Tím je tedy prohlídka hradu u konce.",
+                    "button": "Navštívit",
+                    "text": "Tím je tedy prohlídka hradu u konce. Viděli jste přes dvacet místností ve dvou a půl patrech hradu, který jsme tak jeden a půlkrát obkroužili dokola. Doufám, že se Vám u nás líbilo a že se třeba brzy vrátíte navštívit i ostatní okruhy. Přeji pěkný zbytek dne."
                 }
             ]
         },
@@ -3619,6 +4277,207 @@
                     "card_label": "Znajdujemy się w Kaplicy PaŁacowej pod wezwaniem św Anny .",
                     "button": "Odwiedzać",
                     "text": "Znajdujemy się w Kaplicy PaŁacowej pod wezwaniem św Anny . ZostaŁa ona zbudowana na miejscu starej wieży strażniczej na przeŁomie XVI i XVII wieku . Budowe kaplicy sfinansowali Redernowie – trzecia z koleji rodzina panująca na zamku, widzieliśmy ich herb w Sali herbowej. Redernowie byli protestantami więc dzieki nim powstaŁ oŁtarz renesansowy protestancki- oŁtarz na wprost po wejściu do kaplicy. Potem powstaŁ oŁtarz barokowy , katolicki z inicjatywy rodziny Gallas – piąta z koleji rodzina panująca. Kaplica w XIX wieku byŁa gruntownie odrestaurowana. PowstaŁy wtedy sgraffita na ścianach oraz malowidŁa na stropie. W XIX wieku zakupiono we Wiedniu organy. Mamy tu też wystawione ornaty i naczynia liturgiczne .\n\nWychodzimy z kaplicy kończąc trasę – paŁacową.\n\nTeraz stoimy przed zamkiem zbudowanym w XIII wieku. Zamek zostaŁ zbudowany na skale bazaltowej.\n\nTeraz schodzimy na dziedziniec schodami , droga rycerska jest niezbyt bezpieczna .\n\nDziękujemy i żegnamy Państwa."
+                }
+            ]
+        },
+        {
+            "tour_id": "chateau",
+            "language": "cz",
+            "title": "Zámek",
+            "img": "/chateau/chateau.jpg",
+            "rooms_label": "místností",
+            "time": "60 minut",
+            "description": "Prohlídková trasa provede návštěvníka bohatě zařízeným zámkem a historií posledních majitelů Clam-Gallasů. Začíná v přízemí v zámecké kuchyni a vede přes reprezentativní a soukromé pokoje pánského a dámského patra. Zahrnuje zhruba 20 plně vybavených interiérů. Mezi ty nejhezčí patří Velká jídelna a Erbovní sál, Květinový salon s dlouhou enfiládou a naprosto ojedinělá zámecká koupelna.",
+            "button": "Začít prohlídku",
+            "rooms": [
+                {
+                    "audio": "",
+                    "number": 1,
+                    "img": "/chateau/dolni_nadvori.jpg",
+                    "title": "Zámecké nádvoří",
+                    "card_label": "Vážení návštěvníci, vítáme vás na státním hradě a zámku Frýdlant.",
+                    "button": "Navštívit",
+                    "text": "Vážení návštěvníci, vítáme vás na státním hradě a zámku Frýdlant. Před zahájením prohlídky vás prosíme o ztišení mobilních telefonů, aby prohlídka nebyla rušena. Pokud používáte audioprůvodce, noste při poslechu sluchátka. Dále vás prosíme, abyste se nedotýkali vystavených exponátů a zůstali se svou skupinou. Děkujeme za pochopení a přejeme vám příjemnou návštěvu.\n\nMomentálně stojíme na dolním nádvoří, odkud si můžeme prohlédnout celý komplex. Nejstarší částí je okrouhlá věž zvaná Indica. Podle legendy se na vrcholu Indice rozdělával oheň, takže věž sloužila jako maják na obchodní cestě mezi Českým královstvím a královstvími na severu. Věž je vysoká 49 metrů a její zdi jsou v prvním patře silné 4 metry. Ve 13. století byl kolem věže postaven starý gotický hrad. Poté byl v 16. století přestavěn v renesančním slohu, což je současná podoba hradu. \n\n Žlutá budova za stromem je kaple. Byla postaven v letech 1598 - 1602 Kateřinou z Redernu. Vedle kaple se nachází renesanční křídlo zámku z 16. století. Na jeho průčelí můžeme vidět původní renesanční malby zvané sgrafita. A nejmladší částí komplexu je poslední křídlo zámku, zvané kastelánské křídlo. To bylo postaveno v 19. století Eduardem Clam-Gallasem.\n\n Nyní začněme naši prohlídku v zámecké kuchyni."
+                },
+                {
+                    "audio": "",
+                    "number": 2,
+                    "img": "/chateau/kuchyne.jpg",
+                    "title": "Kuchyně",
+                    "card_label": "Ještě jednou dobrý den, vážení návštěvníci, vítám vás na zámku ve Frýdlantu.",
+                    "button": "Navštívit",
+                    "text": "Ještě jednou dobrý den, vážení návštěvníci, vítám vás na zámku ve Frýdlantu. Vybrali jste si trasu „zámek“, která nás provede novější historií. Budeme se v ní věnovat době, kdy hrad a zámek vlastnil předposlední majitel František Clam Gallas, který tady na panství žil až do své smrti v roce 1930. Právě o něm a jeho rodině si dnes budeme na trase, která nás provede všemi patry zámku, povídat.\n\nNaši prohlídku začínáme trochu netradičně, v zámecké kuchyni. Ta je součástí přízemí, které jako celek sloužilo provoznímu zázemí. Nacházela se tu nejen kuchyně a spižírna, ale také služebnická jídelna, kanceláře tehdejšího majordoma, služebna, čeledník, nebo lokajna. Ostatní provozní zázemí, jako například sklad prádla a žehlírna, se nacházelo ve spojovacím křídle věže, kterou jste dnes vstoupili do nádvoří. Historicky šlo však o prostory konírny, o čemž svědčí třeba zachovalý žlab na vodu pod okny, později proměněný v dřez na nádobí.\n\nKuchyně v této podobě prezentuje přelom devatenáctého a dvacátého století. Kuchyně ožívala na zámku jako první. Přibližně kolem čtvrté hodiny ranní se zatápělo v kamnech a začalo se s přípravou snídaně. Kuchařka s pomocným personálem vstává ze zámeckého personálu nejčasněji a začíná pracovat na schváleném menu, které bylo konzultováno a schváleno paní domu, v našem případě hraběnkou Marií Hoyos Sprinzenstein, manželkou již zmiňovaného Františka CG. Dvě z meníček můžete vidět i na stole za vámi, kde jsou položena mezi jídelním servisem.\n\n Frýdlantská kuchyně je velmi moderně vybavená. Vidíte tu nejen hlavní kamna s pecí, ale například také gril se sušárnou a uprostřed malá příruční kamna. Velká sbírka měděného nádobí je společně s kameninovým nádobím k vidění na stěnách, v prosklených skříních a pracovních stolech.\n\n Provoz kuchyně spotřeboval spousty dřeva, které bylo zapotřebí mít nablízku, proto se za okny za vámi nachází v celé šířce zámku dřevník, kam se ukládalo palivo a kudy se vstupovalo do spižíren nebo třeba do cukrárny, malé kuchyně, kde se připravovaly dezerty, a do které nahlédneme přes výdejní okénko při naší cestě do prvního patra zámku. Teplo vyprodukované kamny také ohřívalo vodu, která byla čerpána do nádrže ve druhém patře zámku, kde se nacházela hlavní koupelna, ve které se dnes společně také zastavíme. Ohřátá voda odcházela potrubím, které se zachovalo, a vidíte ho nad námi. Nutno dodat, že zařízení kuchyně je původní, ostatně všechny zámecké prostory budou vybaveny kmenovým mobiliářem, což není na všech českých zámcích obvyklé. Frýdlant měl ale štěstí a po válce z něj nebylo vybavení odvezeno.\n\nKe kuchyni snad už jen to, že zde připravené jídlo se pak po bočním schodišti distribuovalo do jídelny v prvním patře zámku, kam se přes hlavní spižírnu vydáme a kudy se dostaneme do části zámku, které už poslední rodina obývala.\n\n"
+                },
+                {
+                    "audio": "",
+                    "number": 3,
+                    "img": "/chateau/pripravna.jpg",
+                    "title": "Chodba",
+                    "card_label": "Stojíme ve služebnické chodbě, i proto tu nenajdete žádné výrazné vybavení.",
+                    "button": "Navštívit",
+                    "text": "Stojíme ve služebnické chodbě, i proto tu nenajdete žádné výrazné vybavení. Používal ji pouze personál. Odtud se dostal buď do cukrárny, na venkovní terasu, nebo do reprezentativních prostorů prvního patra, kam se těmito dveřmi za moment podíváme i my. Stojíme u slibované cukrárny, která byla propojena s kuchyní, sklady jídla již zmiňovaným dřevníkem. Dnes v ní vidíme část jídelního servisu a další věci spojené s jídlem, včetně zmiňovaných menu, o kterých už byla řeč v kuchyni. Místnost cukrárny, kde se připravovaly dezerty, ale také horké a studené nápoje, má výdejní okénko, kterým obsluha vydávala jídlo, které se těmito dveřmi nosilo do vedlejší jídelny. Všimněte si dvou latinských nápisů na stropě. Oba jsou určeny služebnictvu a ve volném překladu znamenají: Dávej si pozor na jazyk, nebo kontroluj svou mluvu, a druhý: Vstupuj vždy klidný, bez záště a hněvu. Takže ať jste si o svých pánech mysleli cokoliv, za dalšími dveřmi už to na vás nesměl nikdo poznat."
+                },
+                {
+                    "audio": "",
+                    "number": 4,
+                    "img": "/chateau/erbovni_sal.jpg",
+                    "title": "Erbovní sál",
+                    "card_label": "Všechny zámky, které měly víc než jedno patro, byly situovány velmi obdobně.",
+                    "button": "Navštívit",
+                    "text": "Všechny zámky, které měly víc než jedno patro, byly situovány velmi obdobně. Přízemí, jak už jsme zmiňovali, bylo technickým zázemím zámku. V prvním patře se nacházely reprezentativní pokoje a byt hlavního majitele. O patro výš pokoje ženského osazenstva a v podkroví pak pokoje dětí, služebnictva, nebo hostinské pokoje. Nejinak tomu bylo tady na Frýdlantu.\n\nMy jsme vystoupali do prvního patra, a to rovnou do reprezentační části. Stojíme v místnosti, která byla užívaná jako herna a které dominuje velký kulečníkový stůl. Stával tu až za posledních generací - předtím byl umístěný nahoře na hradě, a to v hlavním sále. Místnosti se v minulosti říkávalo také Casino – společnost se tu před a po jídle scházela zahrát si a pobavit se, proto tu kromě kulečníku narazíme také na stolek šachový, karetní nebo třeba také ruletu. \n\n V této místnosti je načase zmínit celou historii frýdlantského hradu a zámku. K tomu nám bude velmi nápomocna výzdoba stropu, kde v jednotlivých lunetách najdeme všechny rody, kterým areál patřil. Není náhodou, že je strop s historií v tomto prostoru, kam přicházely a kudy musely projít všechny návštěvy, které František hostil - šlo o jakousi snahu upozornit nejen na to, že rod, kterému zámek patří, je starý, ale také, že má bohatou historii spojenou s jinými slavnými rodinami.\n\nNa první lunetě vidíme erb Bibrštejnů, kterým panství patřilo neuvěřitelných 300 let a kteří starý gotický hrad na skále začali přebudovávat do dnešní podoby někdy v16. století. Po jejich vymření koupil panství od královské komory rod Redernů.\n\nTi tu sice nebyli moc dlouho, ale za krátký čas stihli nejen dokončit renesanční přestavbu hradu, ale také postavit tento dolní zámek, který za nich ovšem neplnil funkci reprezentativního objektu, ale sloužil jako kanceláře a byty služebnictva.\n\nPo nich se na zámek dostal vám asi nejznámější majitel, Albrecht z Valdštejna. Ač jsou tady na zámku doloženy jen čtyři pobyty tohoto slavného válečníka, dokázal frýdlantský výběžek strategicky chránit tak, že se ho nedotkla žádná válka, a proto se také panství začalo říkat „Terra Felix“ - šťastná země. Valdštejn byl muž úspěšný, bohatý a ctižádostivý, tím pádem nebezpečný pro nejvyšší mocnáře země, proto byl nakonec zavražděn v Chebu. Zradili ho tehdy vlastní lidé.\n\nMezi nimi byl i Matyáš z Gallasu, který za odměnu dostal od krále nejen sumu cca 500 000 zlatých, ale také Frýdlantské panství. Paradoxně si ale Frýdlantu moc neužil, protože se mu na něm několikrát po celá desetiletí usadila švédská jednotka, která hrad dobyla a později zdokonalila jeho fortifikační systém tak, aby ho už nedobyl nikdo jiný.\n\nGallas jim platil tučné “výpalné”, aby se k jeho nově nabytému majetku chovali slušně - možná i díky tomu nedošlo k výraznějšímu poškození a devastaci hradu a zámku. Když Gallasové vymřeli po meči, spojuje se rodina Gallas s rodem Clamů a vzniká společné rodinné jméno Clam-Gallas, a tak má Frýdlant své poslední majitele, kteří tu zůstanou až do roku 1945, než je zámek na základě Benešových dekretů zestátněn poslední majitelce, jedné z dcer Františka Clam-Gallase, Klotyldě, o které dnes bude ještě řeč. To bylo tedy krátké shrnutí historie panství. Víc byste se dozvěděli na hradní trase, která se věnuje starší historii.\n\nJen pro informaci, nábytek a doplňky, které dnes při prohlídce uvidíte, jsou z doby od 16. až do počátku 20. století.\n\nDům byl neustále doplňován věcmi, které v určité době podléhaly modernímu bydlení. Na Frýdlantu se ale také velmi dbalo na starobylost a památečné věci, které měly co do činění s předky. Nejstarší věci jsou z horního hradu, v tomto případě například šperkovnice a místnosti jimi dovybavila maminka Františka C-G., paní Klotylda, která se svým manželem Eduardem tehdy zmodernizovala dolní zámek do dnešní podoby. Dnešní prohlídka vám dům představí tak, jak vypadal kolem roku 1930. Nutno podotknout, že přes 90% věcí pochází přímo odtud a jsou vráceny na svá původní místa podle dobových fotografií a inventářů."
+                },
+                {
+                    "audio": "",
+                    "number": 5,
+                    "img": "/chateau/jidelna.jpg",
+                    "title": "Jídelna",
+                    "card_label": "Na Hernu navazoval další společenský prostor, a to hlavní zámecká jídelna. ",
+                    "button": "Navštívit",
+                    "text": "Na Hernu navazoval další společenský prostor, a to hlavní zámecká jídelna. Je to samostatná stavba, která byla přistavěna až v druhé polovině 19. století. Navázala na velkou panskou terasu, kde se v případě hezkého počasí také mohlo stolovat. Jídelna má krásné arkýřové okno, kde se na výplních setkáme s erby rodiny - ty nás ostatně budou doprovázet celou prohlídku. Erb spojuje symboly obou původních rodin - rakouských Clamů a italských Gallasů - v jedné části najdeme galassovskou orlici a zlaté břevno, ve druhé pak clamovskou kočku na stříbrném a černém poli. Uprostřed je panna nesoucí parohy. Z okna i terasy bylo vidět na bývalou zámeckou zahradu u řeky Smědé.\n\nMístnost je obložená dřevem a loveckými trofejemi, na ostění jsou intarzované motivy Víry, Naděje, Spravedlnosti a Lásky. Kazety na stropě pak představují nebeské božstvo Jupitera – vládce Panteonu a Merkura – posla a boha obchodu, Justicii - slepou bohyni spravedlnosti a Fortunu – bohyni osudu.\n\nMajoliková kamna na sobě nesou obdobné, motivy, vedle nich je pak cínové lavabo, sloužící k umytí rukou.\n\nJídelna se používala několikrát denně. Snídaně probíhaly většinou formou bufetového stolu, kdy si každý bere, na co má chuť. Účastní se jí převážně pánské osazenstvo a neprovdané ženy. Provdaným ženám se snídaně servíruje v ranních salonech. U stolu jste většinou nepotkaly ani děti - ty měly oddělené stolování s vychovatelkou a ke stolu s rodiči se dostávají až v dospělejším věku. V půl jedné se zámkem rozezní gong, který svolává k obědu. Toho se už účastní všichni dospělí. Podle počasí může být servírován uvnitř, nebo venku. Nejdůležitějším jídlem dne je večeře, která je společenskou událostí. Patří k ní společenský oděv. K rodině se většinou přidávají i návštěvy. Mezi těmito hlavními chody se podává také občerstvení kolem jedenácté a páté hodiny, ty už však v soukromých nebo společenských salonech. V cukrárně, kterou jsme míjeli cestou do herny, se připravují nejen dezerty, ale také káva, čaj nebo horká čokoláda, v teplých dnech také domácí limonády nebo ledový čaj. Sloužila i k rychlému ohřevu jídla, když bylo zapotřebí.\n\nNo a po jídle se společnost od stolu odebere do hlavního salonu, který bude další částí naší prohlídky."
+                },
+                {
+                    "audio": "",
+                    "number": 6,
+                    "img": "/chateau/modry_salon.jpg",
+                    "title": "Modrý salon",
+                    "card_label": "Luxusní pokoj s velikým kobercem s perskými vzory a koženými tapetami je hlavní místností prvního patra.",
+                    "button": "Navštívit",
+                    "text": "Luxusní pokoj s velikým kobercem s perskými vzory a koženými tapetami je hlavní místností prvního patra. Protože sem přicházely všechny návštěvy, kladl se zde důraz na to, aby bylo z vybavení vidět, že rodina má peníze. Proto tu najdete propojení pohodlí a luxusu tehdejší doby, do kterého zapadají i staré sbírkové předměty, v tomto případě belgická a holandská keramika, a holandské obrazy ze 17. století. Krb je tu v C.-G. barvách - na tuto kombinaci žluté a modré ostatně narazíme ještě v několika místnostech.\n\nDo hlavního salonu se dalo vstoupit přímo z chodby, která byla za otevřenými dveřmi a navazovala na točité schodiště, které spojovalo jednotlivá patra zámku, tak z předpokoje, kam byly návštěvy uváděny a který je hned za dalšími dveřmi. Stejně jako z jídelny jste se z něj dostali i na hlavní terasu, ze které je dobře vidět nejen pivovar a řeka Smědá, ale také obranný systém celého objektu, příkopy a ostré hrany, které tu vybudovali Švédi v době Třicetileté války, když zámek zabrali Matyášovi z Gallasu. Salon sloužil rodině Františka C.-G., jehož portrét najdete mezi okny, jako hlavní obývací pokoj, kde se potkávají nejen návštěvy, ale také všichni členové rodiny. V případě Františka C.-G. tedy všech jeho 7 dcer. Jim a jeho manželce Marii Hoyos Sprinzenstein bylo vyhrazeno další patro zámku, stejně tak jako část nejnovějšího, tedy Kastelánského křídla, ale pokud chtěli trávit čas pohromadě, sloužil k tomu právě tento hlavní salon. Byl zároveň kuřárnou, čítárnou a odpočívárnou. Později, po zavedení elektřiny, sem bylo situováno také rádio, takže šlo opravdu o takový obývací pokoj se všemi moderními výdobytky."
+                },
+                {
+                    "audio": "",
+                    "number": 7,
+                    "img": "/chateau/knihovna.jpg",
+                    "title": "Malá knihovna",
+                    "card_label": "Nacházíme se v předpokoji, kam bývaly uvedeny návštěvy.",
+                    "button": "Navštívit",
+                    "text": "Nacházíme se v předpokoji, kam bývaly uvedeny návštěvy. Odtud se pak dalo pokračovat buď do reprezentativních prostor, kterými jsme právě prošli, nebo do soukromého apartmá, bytu Františka C.-G., který se skládal z přijímacího salonu, pracovny a ložnice.\n\nNávštěvy přicházely z chodby za těmito dveřmi. Do zámku byly přivedeny po hlavním schodišti nebo terasou. My jsme dnes do zámku vstoupili služebnickým vchodem, návštěvy a rodina vstupovaly samozřejmě jinudy.\n\nI v tomto prostoru narazíme na kožené tapety a také příruční knihovnu, která je jen maličkým zlomkem knihovního fondu, který se na Frýdlantu nachází. Hlavní knihovna z roku 1674 je umístěna na hradě, kde ji nechává zbudovat František Ferdinand z Gallasu. Knihovnu pak doplňovali pokračovatelé rodu až do první poloviny 20. století a dnes byste v ní našli na 16 000 knih (přesně 15 932) od 16. po 20. století.\n\nNež přejdeme do další místnosti, uděláme si malou zacházku na vedlejší panskou chodbu. Ta byla hlavním komunikačním uzlem. Vidíme tu točité schodiště, které spojuje všechna patra zámku, malé soukromé schodiště do dámského patra a u medvěda pak odbočku na hlavní schodiště, po kterém přicházela rodina i návštěvy. Medvěd byl domácím mazlíčkem dcer posledních majitelů a jmenoval se Ali. Když povyrostl a začal být nebezpečný, rozhodlo se, že bude na památku vycpaný a skončil zde pod schody. Chodba sloužila i jako čekárna, než byla návštěva pozvána k majiteli do soukromého apartmá, proto je tu například i sedací lavice, věšák a plivátko."
+                },
+                {
+                    "audio": "",
+                    "number": 8,
+                    "img": "/chateau/prijimaci_salon.jpg",
+                    "title": "Přijímací salonek",
+                    "card_label": "Konečně se dostáváme do soukromých prostor, které obývá dnes již mnohokrát zmiňovaný František C.-G.",
+                    "button": "Navštívit",
+                    "text": "Konečně se dostáváme do soukromých prostor, které obývá dnes již mnohokrát zmiňovaný František C.-G.\n\nPředposlední majitel zámku se narodil v roce 1854. Nikdy se mu nepodařilo navázat na slavnou vojenskou dráhu svého otce, i tak se stal nadporučíkem v dragounském regimentu, Důležitější však bylo, že se stal členem panské sněmovny a císařským komořím. Patřila mu všechna C.-G. sídla - v tomto případě Liberec, Frýdlant, Grabštejn a Lemberk. Se svou ženou Marií měl sedm dcer. Když už bylo jasné, že se mužského nástupce nedočká, rozdělil majetek mezi své dcery. Jedna z dcer, která dostala jméno po své babičce Klotyldě, se ujala správy panství Frýdlant a zůstala tu jako jeho poslední majitelka až do roku 1945.\n\nO Františkovi si víc řekneme v jeho pracovně, což je následující místnost. Tady v salonu, který patří mezi velmi pěknou ukázku neorenesančního slohu, do kterého byl zámek přestavěn za Františkova tatínka Eduarda C.-G., vás ještě upozorním na některé obrazy, představující důležité majitele frýdlantského hradu a zámku. Najdete tu Melchiora z Redernu se synem Kryštofem, za nich došlo nejen k přestavbě a modernizaci horního hradu, ale také dostavbě kaple a tohoto spodního zámku, který byl ale původně využíván jen jako úřednický dům. Albrechta z Valdštejna není asi nutné přestavovat. O jeho smrt v Chebu se tehdy zasloužil i tento muž, který poté získal Frýdlant. Jde o Matyáše z Gallasu. Kristian Filip Clam Gallas jako první používá spojené jméno C.-G., a tak rozšíří majetek rodiny o majetky vymřelých Gallasů, spojení rodin tehdy potvrdila Marie Terezie. Byl to Františkův pradědeček."
+                },
+                {
+                    "audio": "",
+                    "number": 9,
+                    "img": "/chateau/pracovna.jpg",
+                    "title": "Pracovna hraběte",
+                    "card_label": "Dalším soukromým pokojem je Františkova pracovna.",
+                    "button": "Navštívit",
+                    "text": "Dalším soukromým pokojem je Františkova pracovna. Na rozdíl od vedlejšího salonku, kde návštěvy přijímal, byla toto už první opravdu soukromá místnost, kam měl přístup jen on. Jeho samotného tu najdete na několika fotografiích, na jedné ve společnosti své ženy Marie (tu pak najdeme i na velkém potrétu nad stolem) a na druhé se svými dcerami, zapřaženými do sání pro psí spřežení. Tato fotografie velmi pěkně odkazuje na smysl pro humor, kterým byl František pověstný.\n\nKromě pracovního stolu i tady narazíme na další část knihovny. K té ještě taková drobná zajímavost. Jméno Karel Jaromír Erben vám určitě není neznámé. Autor Kytice je s frýdlantským zámkem totiž spojený. Působil zde na zámku jako archivář a měl na starosti právě knižní fond. Byl mimochodem také prvním tvůrcem libreta, vlastně průvodcovského textu k tehdy otevřené expozici horního hradu.\n\nMy se ale vrátíme k osobě Františka C.-G. Dětství prožil v Čechách a Rakousku. Měl anglickou guvernantku, která se o něj starala v duchu rodových tradic. Vystudoval historii a právo. Otec sedmi dcer byl na svém panství velmi oblíbený pro svou povahu. Byl spravedlivý a měl velký smysl pro humor. František finančně podporoval místní kulturní spolky, jako správný aristokrat měl blízko ke sportu a není divu, že byl velkým propagátorem turismu a vznikajících turistických stezek v Jizerských horách. V lesích, které patřily k panství, povoloval nejen nové trasy, ale také stavbu útulen pro turisty. Víme o něm, že patřil mezi propagátory motorismu a sám byl technicky velmi zdatný. Bohužel se dožil ještě pozemkových reforem a zažil zestátnění svých rodových držav. Zemřel v roce 1930.\n\n S erbem rodiny už jsme se seznámili, zmiňme tedy ještě v rychlosti jejich rodové heslo: Věrni osudu, statečně jen následujme."
+                },
+                {
+                    "audio": "",
+                    "number": 10,
+                    "img": "/chateau/loznice.jpg",
+                    "title": "Ložnice",
+                    "card_label": "Poslední pokoj pánského apartmá – ložnice, patřila Františkovi, kterého jsme viděli nejen na fotografiích, ale také na portrétu v modrém salonu.",
+                    "button": "Navštívit",
+                    "text": "Poslední pokoj pánského apartmá – ložnice, patřila Františkovi, kterého jsme viděli nejen na fotografiích, ale také na portrétu v modrém salonu. Už jsme mluvili i o tom, že byl otcem sedmi dcer - tu najdeme také fotografii visící na dveřích do pokoje pro komořího. O jedné z nich, Klotyldě, která po otci převzala v nelehké době rodové panství, jsme už mluvili. O dalších se ještě zmíním v dámském patře, kam za okamžik zamíříme.\n\nFrantišek na zámku zažil přelomovou dobu, a to rozpad Rakousko-Uherska a vznik republiky. Ač monarchista, po vzniku Republiky přijal československé státní občanství a stal se hrdým Čechoslovákem. Pozemkové reformy a to, že jim stát vyvlastnil cca 70% majetku, však nakonec změnily jeho rozhodnutí a vrátil se k občanství německému. Právě proto se tedy na majetek vztahovaly Benešovy dekrety, takže od roku 1945 je Frýdlant zámkem pod správou státu. Zemřel nemocný roku 1930 a od té doby se o frýdlantské panství starala jeho šestá dcera, o níž budeme ještě mluvit.\n\nJeště rychlá informace. Na tomto patře nenarazíte na koupelnu, jsou na něm však dvě splachovací toalety.\n\nV patře nad námi je už ovšem velká moderní koupelna, kterou František používal stejně jako jeho žena i děti. V místnostech bez koupelny se nacházely alespoň mycí stoly se džbány a umyvadly, kam služebnictvo nanosilo horkou vodu a tělo se dalo opláchnout přímo v místnostech.\n\nNo a my se už vydáme po soukromých schodech, které spojovaly dámský a pánský apartmán do dalšího patra. Cestou si prohlédněte fotografii sedmi dcer a fotografie objektů, které rodině také patřily."
+                },
+                {
+                    "audio": "",
+                    "number": 11,
+                    "img": "/chateau/chodba.jpg",
+                    "title": "Nad schody",
+                    "card_label": "Dostali jsme se do dámského patra.",
+                    "button": "Navštívit",
+                    "text": "Dostali jsme se do dámského patra. Z této části jste se mohli vyjít na další terasu, která je schody propojena s terasou za jídelnou, těmito dveřmi byste se dostali do takzvaného Kastelánského křídla, kde byl soukromý byt Klotyldy a původně hostinské pokoje a pokoje některých dcer, ale my se vypravíme po Královské chodbě, která svůj název obdržela díky portrétům členů evropských královských rodin. Odtud také dobře vidíme celou délku renesančního paláce, který postavili Redernové."
+                },
+                {
+                    "audio": "",
+                    "number": 12,
+                    "img": "/chateau/kvetinovy_salon.jpg",
+                    "title": "Květinový salon",
+                    "card_label": "Prohlídku dámských pokojů začneme tady v hlavním salonu dámského patra.",
+                    "button": "Navštívit",
+                    "text": "Prohlídku dámských pokojů začneme tady v hlavním salonu dámského patra. Stejně jako u patra spodního, došlo za Františkových rodičů - Eduarda a Klotyldy ke komplexní přestavbě i této části. Místnosti, užívané do té doby jako kanceláře, dostaly nový vzhled a funkci. Sjednotila je i modrá barva, která je v tomto patře naprosto dominantní a najdete ji téměř všude a to na tapetách i nábytku. Iniciátorku přestavby, Klotyldu, najdeme na obrazu mezi okny. Jejího muže, Františkova tatínka Eduarda, pak na tomto jezdeckém portrétu. On se ale původně neměl stát dědicem celého panství. To připadlo jeho prvorozenému bratrovi Vilémovi, jehož podobiznu vidíte vlevo od centrálního okna. (Jejich, otec, Krystián Kryštof, je na obrazu vedle něj) Vilém ale bohužel zemřel nejspíš na tyfus a panství tedy převzal jeho bratr, do té doby vojevůdce a jediný majitel nejcennějšího ocenění – řádu zlatého rouna. Ten po smrti bratra ukončil vojenskou kariéru a stal se správcem rodového majetku. Právě za něj prošel celý zámek přestavbou s úpravami vnitřních prostor do stavu, který vidíme dnes. Za veškerý vnitřní design vděčíme tedy právě této dvojici.\n\nZ dalších podobizen pak můžeme zmínit portrét blonďatého dítěte, mimochodem strýčka vám všem jistě známého politika a Havlova poradce, majitele zámků Orlík a Dřevíč, Karl(jejich foto v černém rámečku na komodě) a Schwarzenberga. Jedna ze sedmi dcer pana hraběte – Eleonora, byla provdána za Schwarzenberga, se kterým měla dva syny. Když zemřel, vzala si Kinského, se kterým měla další děti. Vrodině se díky sňatkům objevilo spojení například sAuersperky, Litchtenstejn-Podstatzkými, Arco – Zinnebergy a tak dále. Jen jedna zdcer, Eudardina, se neprovdala za šlechtice a vzala si doktora Vinklbauera – uzavřela tedy takzvaný morganatický (nerovný) sňatek. Naše poslední majitelka, Klotylda, se neprovdala vůbec.\n\nMístnost sloužila k pořádání večírků, čajů o páté, které nebyly jen o popíjení oblíbeného nápoje, ale pořádaly se pro pozvané hosty většinou s nějakým vystoupením hudebního charakteru nebo odbornou přednáškou. Otevřenými dveřmi vidíme také klasický odkaz ještě barokní podoby zámku, a to takzvanou enfiládu. Otevřením dveří získáte průhled celým patrem. V dobách Františkových rodičů se už ale pokoje používaly jako samostatné bytové jednotky, dveře byly otevřené jen v jednotlivých apartmánech a vstupovalo se do nich z přilehlé královské chodby. Jen pro informaci, v Čechách má nejdelší enfiládu zámek Valtice (80 metrů!) Evropské prvenství si ale drží zámek Schönbrunn).Enfiláda byla přímá osa,kdy jste dohlédli z jednoho konce zámku na druhý,většinou končila buď velkým obrazem, zrcadlem, nebo oknem s výhledem. V našem případě to bylo právě okno v čele této místnosti, a až dojdeme na její konec a otočíte se, uvidíte sami, jak byl původní záměr koncipován. My dnes enfiládou projdeme, budete mít možnost prohlédnout si její jednotlivé pokoje a v některých se zastavíme."
+                },
+                {
+                    "audio": "",
+                    "number": 13,
+                    "img": "/chateau/loznice_damske1.jpg",
+                    "title": "Ložnice",
+                    "card_label": "Dámské patro dnes představuje dva apartmány.",
+                    "button": "Navštívit",
+                    "text": "Dámské patro dnes představuje dva apartmány. Ten první patřil mamince sedmi dcer, Marii Hoyos Sprinzenstein. I zde jsou dnes interiéry vráceny do podoby, kolem roku 1930, kdy vypadal třípokojový byt, tak jak ho dnes vidíme. Původní vybavení je zpět na svých místech. Postel vedle kamen je v místě, kde mají ostatní místnosti vchod do Královské chodby. Vedle ní vidíme ještě staré táhlo, které ovládalo zvonek. Staré signalizační zařízení je vyvedeno nejen na chodbu, ale také do stanového pokoje, kde si ho budeme mít možnost prohlédnout.\n\nVedle dveří najdeme modlitební klekátko určené k soukromé večerní modlitbě.\n\nKolem jsou shromážděny obrazy snáboženskou tématikou, největší znich je kopií poutního obrazu, který představuje Černou Madonu. Té byly přičítány mnohem silnější zázračné vlastnosti. (Její barva bývala odvozena už z biblických textů – například Píseň písní zmiňuje v textu Madonu slovy: Černá jsem, ale krásná, nebo černá jsem, ale milostná. V gotice byly oblíbené sochy černých madon z ebenového dřeva, nebo obrazy vykládané černým kamenem).\n\nDruhou místnosti, kterou jen projdeme, je převlékárna. Vévodí jí velký paraván, který sloužil pro soukromí při převlékání. Z obrazů zde mohu zmínit ještě podobizny nade dveřmi. Na jedné z nich Kristián Kryštof C.-G., Františkův pradědeček, první z majitelů Frýdlantu, který začal bydlet tady na zámku a ne na horním hradě. Podporoval umění, maloval a byl to právě on, kdo v roce 1801 otevřel tady na Frýdlantu hradní muzeum veřejnosti. \n\nGallasy založené nedaleké lázně Libverda za jeho působení prosperovaly a lázeňským hostům bylo zapotřebí vymyslet i nějaký kulturní program. Proto byl Frýdlant otevřený veřejnosti a v horním hradu se prezentovala nejen rodová obrazárna, ale hlavně sbírky spojené sAlbrechtem z Valdštejna.\n\nRytina na druhé straně pak představuje Františka Antonína Šporka, spojeného například s barokním špitálem v Kuksu."
+                },
+                {
+                    "audio": "",
+                    "number": 14,
+                    "img": "/chateau/stanovy_salon.jpg",
+                    "title": "Stanový pokoj",
+                    "card_label": "Posledním pokojem prvního apartmá je Stanový pokoj.",
+                    "button": "Navštívit",
+                    "text": "Posledním pokojem prvního apartmá je Stanový pokoj. Má podobu polního stanu, což byla v 19. století módní záležitost a opět jde o design z doby Františkových rodičů, kteří se inspirovali interiéry z anglických panství.\n\nI tady najdete pozůstatek signalizačního zařízení a zvonek s táhlem. V minulosti byl vedlejší pokoj určený služce, proto je zvonek nade dveřmi. Poté, co v roce 1930 zemřel František a zámek zdědila jeho dcera Klotylda, byly další prostory, včetně pokoje pro služebnou, předělány na Klotyldin apartmán. Ta se tak mohla lépe starat o maminku, až do její smrti v roce 1938. Dnes máme tedy na zámku hned dva byty poslední majitelky. Jeden v Kastelánském křídle, kam se přestěhovala po smrti matky a jeden zde v enfiládě.\n\nStanový pokoj se využívali i jako malá jídelna, což je zřejmé i z jeho vybavení. Dobře tu vidíme i změnu ve vybavení interiéru. Zatímco 19. století se snažilo o sjednocení slohů a stylů, ve dvacátém století už šlo hlavně o funkčnost. Proto je například příborník naprosto odlišný od dalších kusů nábytku.\n\nZa dalšími dveřmi už nás čeká Klotyldina ložnice. Tou budeme procházet do salonu, kde se opět na chvíli zastavíme."
+                },
+                {
+                    "audio": "",
+                    "number": 15,
+                    "img": "/chateau/salon_damske.jpg",
+                    "title": "Salon",
+                    "card_label": "Pokoj obložený dřevem je zařízený jako salon.",
+                    "button": "Navštívit",
+                    "text": "Pokoj obložený dřevem je zařízený jako salon. Strop lemuje keramika převážně z Holandska a Číny, kde najdete různé talíře, džbány a korbely. Orientální prvky, tehdy velmi oblíbené, pak vidíme ještě ve vitríně.\n\nMístnost sloužila jako obývací pokoj, který sloužil nejen Klotyldě, ale byl upravený i pro posezení s návštěvami a zároveň i jako malá pracovna.\n\nNa piánu za dveřmi pak najdeme rodinné fotografie.Nejzajímavější je asi společný fotoportrét Františkových dcer, dále tu najdeme babičku Klotyldu a další rodinné příslušníky. Dcery (Kristýna, Eleonora, Eduardina, Gabriela, Marie, Klotylda a Sophie) se kromě Klotyldy, která se starala o rodiče, provdaly. Rod C-G se tak díky nim propojil například s rodem Kinských, Schwarzenbergy, Auerspergy nebo třeba moravským rodem Podstatský Lichtenstein.\n\nJediná Eduardina si nevzala aristokrata a svůj život spojila s doktorem Winkelnbauerem, se kterým se seznámila, když za války pracovala jako zdravotní sestra. František mezi své dcery rozdělil všechen rodový majetek, a tak se okolní zámky jako Grabštejn, Lemberk, Libverda dočkaly posledních majitelek. Už jsme zmiňovali, že Klotylda zdědila Frýdlant. Sama byla odsunuta v roce 1945. Druhou polovinu života prožila v zahraničí, kde také v roce 1970 zemřela. Byla poslední majitelkou tohoto panství a není pochována v Hejnicích, kde se nachází hrobka C-G. Posledním zde uloženým členem rodiny je Františkova manželka Marie Hoyos Sprinzenstein.\n\n Klotyldin apartmán měl na rozdíl od jiných pokojů už velmi moderní prvek, a to koupelnu, kterou projdeme na Královskou chodbu."
+                },
+                {
+                    "audio": "",
+                    "number": 16,
+                    "img": "/chateau/koupelna.jpg",
+                    "title": "Koupelna",
+                    "card_label": "Došli jsme na konec enfilády.",
+                    "button": "Navštívit",
+                    "text": "Došli jsme na konec enfilády. Pokoj sloužil jako šatna a převlékárna před koupelnou, do které můžete vstoupit. Přibližně sto let stará koupelna patří mezi nejzajímavější místnosti. Dominuje jí vana, u které najdete nejen sprchu, ale také bublinkovou a parní lázeň. Pokud jste do vany ponořili dřevěnou desku, kterou vidíte nad jejím čelem, hnalo vám čerpadlo gumovou trubicí do vany vzduch, a tak jste si mohli dopřát perličkovou koupel. Pokud deska zůstala, kde je – sloužila právě jako lázeň parní.\n\nVlevo od vany je zásobník na horkou vodu. Ta přicházela z přízemí ze zámecké kuchyně, kde se ohřívala a čerpadlem pak dostávala sem do zásobníku. Protože kuchyň byla v provozu po celý den, teplé vody byl dostatek pro všechny.\n\nVestavěný kout v sobě pak ukrýval toaletu, tím pádem jste měli v koupelně veškerý komfort tehdejší doby. Z převlékárny jste také mohli vstoupit na další z teras. Dveře vedou na zatravněnou terasu na střeše jídelny. Koupelnou pak projdete do služebnického zázemí, kde se například skladovaly mycí soupravy. Sloužilo zároveň jako umývárna pro služebnictvo s vlastní toaletou. Tudy se pak dostaneme zpět na Královskou chodbu."
+                },
+                {
+                    "audio": "",
+                    "number": 17,
+                    "img": "/chateau/chodba.jpg",
+                    "title": "Královská chodba",
+                    "card_label": "Úzké schodiště, pod kterým je výstup na venkovní terasu, by nás dovedlo do podkroví, kde bude naše prohlídka pokračovat, ale my se tam vydáme po hlavních točitých schodech.",
+                    "button": "Navštívit",
+                    "text": "Úzké schodiště, pod kterým je výstup na venkovní terasu, by nás dovedlo do podkroví, kde bude naše prohlídka pokračovat, ale my se tam vydáme po hlavních točitých schodech.\n\n Na těchto si můžete všimnout okenních vitráží. Jedna představuje zámek Frýdlant a na druhé opět narazíme na erb Clam Gallasů, o kterém jsme dnes už mluvili. Na Frýdlant narazíme i na jedné z kachlí na zelených kamnech. Obrazy evropských panovníků zde původně nevisely. Dostaly se sem až někdy po roce 1930. Podle záznamů zdobila celá sbírka původně letní vilu kdesi v dnešním Chorvatsku. Po její rekonstrukci se ale přemístily sem a nahradily tak zbraně, které v chodbě visely před nimi.\n\nChodbou opět projdeme kolem pokojů enfilády a pak vás poprosím pokračovat nahoru a doleva."
+                },
+                {
+                    "audio": "",
+                    "number": 18,
+                    "img": "/chateau/podkrovi.jpg",
+                    "title": "Podkroví",
+                    "card_label": "Ne každý zámek má možnost ukázat svým návštěvníkům všechna patra.",
+                    "button": "Navštívit",
+                    "text": "Ne každý zámek má možnost ukázat svým návštěvníkům všechna patra. Frýdlant je v tomto výjimkou a jeho zachovalé prostory pod střechou vám umožní nahlédnout do několika pokojů pro děti a služebnictvo. \n\nV čele podkroví je jeden z dětských pokojů. Určitě vás zaujme jeho tapeta, která je ve skutečnosti kolekcí vtipů z francouzského časopisu Šari Vari. V místnosti narazíme na pár hraček, jako je třeba dětský vozík s koníkem, do něhož se mohlo navléct jedno z dětí a v převleku tahat někoho dalšího nebo stolní hra. Pokoj patřil původně dvěma dcerám, později se z něj ale stal chlapecký pokoj – bydlívali zde synové jedné z dcer, Eleonory, když jezdili za prarodiči na prázdniny. Snad i právě proto má místnost tuto nástěnnou výzdobu.\n\nVlevo ode dveří do pokoje můžete vidět drobná dvířka, kterými se vstupovalo na zámeckou půdu. Dodnes se v ní zachovalo několik dřevěných kójí, které sloužily nejen k uskladnění předmětů, ale také jako ubytování pro služebnictvo.\n\nNavazující pokoj pak sloužil jako společná ložnice pro další dvě dcery. I tady, stejně jako ve vedlejší pokoji, narazíme na původní vybavení. Velmi pěkné postele s vyřezávanými čely, jsou rozdělené mycím stolem, a stejně jako vedle, i tady najdeme několik původní hraček dcer posledních majitelů. Nejznámější hračkou byl takzvaný Koblížek, který leží na polštáři zadní postele. Ostatní zachovalé hrčky po dcerách jsou dnes uloženy vKastelánském křídle, kudy vede Dětský prohlídkový okruh."
+                },
+                {
+                    "audio": "",
+                    "number": 19,
+                    "img": "/chateau/lokajna.jpg",
+                    "title": "Lokajna",
+                    "card_label": "Hned vedle dalšího dětského pokoje pak můžete nahlédnout do jednoho ze služebnických apartmánů.",
+                    "button": "Navštívit",
+                    "text": "Hned vedle dalšího dětského pokoje pak můžete nahlédnout do jednoho ze služebnických apartmánů. Tento je zařízený jako takzvaná lokajna. V pokoji lokaje, který se staral o členy rodiny a obsluhoval u stolu, najdeme rozsáhlou kolekci zachovalých služebnických uniforem pro různé příležitosti. Na dveřích visí zimní jednoduchý plášť, ve skříni pak vidíte stejnokroje, které se používaly při výkonu služby. Mají našité pásky s erbem C-G. Jeden komplet je pak pověšený na dveřích skříně. Kromě uniforem zde najdete také cestovní zavazadla, opět se znakem majitelů a čepice pro různé příležitosti – na komodě například pokrývky hlavy pro šoféra.\n\nKolem depozitářů a dalších dveří do krovu zámecké půdy se pak přesuneme ke dveřím, kterými projdeme pokoj služebných, které se staraly o děvčata. Jejich pokoj přímo navazoval na další ložnici. Místnost sloužila dvěma služebným – pokojským, které měly na starosti nejen čistotu pokojů a úklid, ale také drobné opravy oblečení, žehlení a podobně. Proto v jejich místnosti narazíme například na starý šicí stroj, nebo žehlící prkno značky Včela. Kamna v místnosti sloužila i k ohřevu jídla nebo žehličky. Na stole pak stojí primus a pod dalším oknem další z mycích stolů. Vy si pokoj služek i přilehlou ložnici dalších dcer v klidu projděte a zastavte se na chvíli v následující učebně."
+                },
+                {
+                    "audio": "",
+                    "number": 20,
+                    "img": "/chateau/ucebna.jpg",
+                    "title": "Učebna",
+                    "card_label": "Nejprostornější místnost na podkroví sloužila jako společná učebna.",
+                    "button": "Navštívit",
+                    "text": "Nejprostornější místnost na podkroví sloužila jako společná učebna. Malá děvčata učila guvernantka, za staršími pak přicházeli domácí učitelé z místní školy. Děvčata se vzdělávala jak v němčině, tak v češtině. Učebna je zařízena jako všestranný prostor s několika vitrínami. Je tu například část sbírky minerálů, vycpaniny, zeměpisná mapa, ale také hudební nástroje a obrazy slavných předků a rodinných příslušníků. Najdeme tu například prababičku děvčat, Josefinu Clary Aldrigen, díky které byla rodina spojována s hudebním nadáním, nebo nad pohovkou prvního Gallase – Matyáše, pradědečka Kristiana a dědečka Eduarda s bratrem Vilémem. O všech jsme dnes na prohlídce hovořili. Mezi okny nechybí ani podobizna císaře, jako vzpomínka na monarchii a na časy před vznikem republiky. Na konci místnosti vidíme průhled do pokoje vychovatelky. Tam budete mít možnost nahlédnout ještě z druhé části podkrovní chodby, kam si přejdeme. Chodbou se dřevěných schodištěm, které by nás dostalo zpět do dámského patra končí prohlídka prostorů starého zámku. Za těmito dveřmi je už prostor podkaplí, přes který přejdeme na schodiště, které nás dovede do posledního prostoru naší dnešní prohlídky – zámecké kaple."
+                },
+                {
+                    "audio": "",
+                    "number": 21,
+                    "img": "/chateau/kaple.jpg",
+                    "title": "Kaple svaté Anny",
+                    "card_label": "Dostali jsme se do finále naší prohlídky.",
+                    "button": "Navštívit",
+                    "text": "Dostali jsme se do finále naší prohlídky. Kaple svaté Anny je zbudována v místě původní strážní věže hradu. Zbudovat ji nechali ještě Redernové a stavbu provedl Marcus Spazzio z Lancia. Ten mimochodem navrhl a pro rodinu postavil i zámek, který jsme dnes procházeli.\n\nHrad je s kaplí propojený takzvaným prampouchem, spojovací chodbou, aby se rodina dostala z hradu na bohoslužbu vnitřními prostory. Kaple je pak zase propojena se zámkem, takže jste mohli suchou nohou projít všechny hlavní budovy v areálu. Prampouch z hradu vedl přímo na panskou oratoř, kde sedávala rodina. Je přímo nad vámi.\n\nPod rodinou v prostoru s mříží, kde dnes můžete vidět kněžská roucha a ornáty z 18. a 19. století, byly pak lavice vyhrazené zámožnějším měšťanům a jednoduché lavice byly pak pro další návštěvy a zámecký personál, který se také bohoslužby účastnil.\n\nKaple má hned dva oltáře. Jeden protestantský je z počátku 17. století (autor: Ambrož Fritch), který kapli zdobil ještě za Redernů a druhý katolický, který do kaple nechali umístit Gallasové, je až z konce 17. století. Právě ten zdobil obraz Svaté Anny, po které je kaple pojmenována. Socha, kterou v oltáři vidíme, představuje svatou Rozálii.\n\nKapli pak doplňuje ještě kazatelna a v čele v patře pak vidíme varhany. Novorenesanční sgrafita pod oratoří ukazují výjevy ze života Krista.\n\nNo a jak už jsem říkal, toto je poslední prostor, který dnes na zámecké trase uvidíte. My odsud sejdeme po druhém schodiště do podkaplí, kde se nacházelo několik dalších obytných prostor a já se s vámi dole u dveří rozloučím.\n\nVyjdeme hned naproti hornímu hradu, odkud můžete ještě vyjít několik schodů na Valdštejnskou vyhlídku, kde uvidíte celý trakt zámku, kterým jsme dnes procházeli. Nad vámi bude propojovací prampouch a pod ním cesta, která vás zavede zpět na hlavní nádvoří a ven z areálu. Můžete sejít buď po schodech, nebo po staré rytířské stezce.\n\nBudu doufat, že se vám prohlídka líbila a pokud pokračujete ještě na trasu „Hrad“, počkejte prosím na dolním nádvoří na průvodce.\n\nTudy se tedy dostanete ven, já vám přeji pěkný den a na shledanou."
                 }
             ]
         }
