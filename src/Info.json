@@ -147,7 +147,7 @@
             "install_step_1_safari": "2. Suchen und tippen Sie auf Share.",
             "install_step_3": "3. Bestätigen Sie, indem Sie auf Installieren tippen.",
             "warning": "Warnung",
-            "install_step_4_safari": "Sie müssen den Safari-Browser verwenden, um die Applikation zu installieren.",
+            "install_use_safari": "Sie müssen den Safari-Browser verwenden, um die Applikation zu installieren.",
             "close_label": "Schließen",
             "invalid_scan_label": "Es tut uns leid, aber der angegebene QR-Code konnte nicht erkannt werden.",
             "error_label": "Etwas ist schief gelaufen...",
@@ -2793,7 +2793,7 @@
                 {
                     "audio": "/de/castle/de_room_20.mp3",
                     "number": 20,
-                    "img": "/castle/vrchnostenska_nova.jpg",
+                    "img": "/castle/vrchnostenska.jpg",
                     "title": "Büro",
                     "card_label": "Der letzte Raum der Burg ist als Büro aus dem 17.Jahrhundert eingerichtet.",
                     "button": "Besuchen",
@@ -3150,7 +3150,7 @@
                 {
                     "audio": "/pl/castle/pl_room_19.mp3",
                     "number": 19,
-                    "img": "/castle/vrchnostenska_nova.jpg",
+                    "img": "/castle/vrchnostenska.jpg",
                     "title": "Kancelaria",
                     "card_label": "Znajdujemy się w kancelarii zamkowej, w której najcenniejsza jest mapa z 1660 rokuod Smuela Globitza.",
                     "button": "Odwiedzać",
@@ -4505,6 +4505,90 @@
                     "card_label": "Dostali jsme se do finále naší prohlídky.",
                     "button": "Navštívit",
                     "text": "Dostali jsme se do finále naší prohlídky. Kaple svaté Anny je zbudována v místě původní strážní věže hradu. Zbudovat ji nechali ještě Redernové a stavbu provedl Marcus Spazzio z Lancia. Ten mimochodem navrhl a pro rodinu postavil i zámek, který jsme dnes procházeli.\n\nHrad je s kaplí propojený takzvaným prampouchem, spojovací chodbou, aby se rodina dostala z hradu na bohoslužbu vnitřními prostory. Kaple je pak zase propojena se zámkem, takže jste mohli suchou nohou projít všechny hlavní budovy v areálu. Prampouch z hradu vedl přímo na panskou oratoř, kde sedávala rodina. Je přímo nad vámi.\n\nPod rodinou v prostoru s mříží, kde dnes můžete vidět kněžská roucha a ornáty z 18. a 19. století, byly pak lavice vyhrazené zámožnějším měšťanům a jednoduché lavice byly pak pro další návštěvy a zámecký personál, který se také bohoslužby účastnil.\n\nKaple má hned dva oltáře. Jeden protestantský je z počátku 17. století (autor: Ambrož Fritch), který kapli zdobil ještě za Redernů a druhý katolický, který do kaple nechali umístit Gallasové, je až z konce 17. století. Právě ten zdobil obraz Svaté Anny, po které je kaple pojmenována. Socha, kterou v oltáři vidíme, představuje svatou Rozálii.\n\nKapli pak doplňuje ještě kazatelna a v čele v patře pak vidíme varhany. Novorenesanční sgrafita pod oratoří ukazují výjevy ze života Krista.\n\nNo a jak už jsem říkal, toto je poslední prostor, který dnes na zámecké trase uvidíte. My odsud sejdeme po druhém schodiště do podkaplí, kde se nacházelo několik dalších obytných prostor a já se s vámi dole u dveří rozloučím.\n\nVyjdeme hned naproti hornímu hradu, odkud můžete ještě vyjít několik schodů na Valdštejnskou vyhlídku, kde uvidíte celý trakt zámku, kterým jsme dnes procházeli. Nad vámi bude propojovací prampouch a pod ním cesta, která vás zavede zpět na hlavní nádvoří a ven z areálu. Můžete sejít buď po schodech, nebo po staré rytířské stezce.\n\nBudu doufat, že se vám prohlídka líbila a pokud pokračujete ještě na trasu „Hrad“, počkejte prosím na dolním nádvoří na průvodce.\n\nTudy se tedy dostanete ven, já vám přeji pěkný den a na shledanou."
+                }
+            ]
+        },
+        {
+            "tour_id": "armory",
+            "language": "pl",
+            "title": "Zbrojownia",
+            "img": "/armory/hrad-35.jpg",
+            "rooms_label": "rooms",
+            "time": "45 minut",
+            "description": "W pomieszczeniach II piętra frydlandzkiego zamku, gdzie jesteśmy, zachowały się gotyckie wnęki okienne i renesansowe sklepienia, w XVII w. były tu pokoje gościnne.",
+            "button": "Rozpocząć wycieczkę",
+            "rooms": [
+                {
+                    "audio": "/pl/armory/pl_room_1.mp3",
+                    "number": 1,
+                    "img": "/armory/hrad-35.jpg",
+                    "title": "Wprowadzenie",
+                    "card_label": "W pomieszczeniach II piętra frydlandzkiego zamku, gdzie jesteśmy, zachowały się gotyckie wnęki okienne i renesansowe sklepienia, w XVII w. były tu pokoje gościnne.",
+                    "button": "Odwiedzać",
+                    "text": "W pomieszczeniach II piętra frydlandzkiego zamku, gdzie jesteśmy, zachowały się gotyckie wnęki okienne i renesansowe sklepienia, w XVII w. były tu pokoje gościnne.\n\nZa Krystiana Filipa Clam  Gallasa , zgodnie z modą XIX w. 1801r. urządzono tu sale muzealne nazywane „Nową zbrojownią” i udostępniano je zwiedzającym.  W 2001r. zbiory uzupełniono o eksponaty będące w depozycie, stąd nazwa obecna „Nowa Zbrojownia”.\n\nZgromadzona i wystawiona tu broń pochodzi stąd, czasem jest naprawiana bądź odtwarzana z zachowanych części, bywało, że dla potrzeb czy upodobań właścicieli kupowano coś na aukcjach lub zamawiano u płatnerzy, wtedy wymagano by były dekorowane, ozdabiane wg romantycznej XIX w. mody.\n\nZbrojownie powstawały i w innych zamkach, miały przypominać wspaniałą, rycerską przeszłość rodów obecnych właścicieli, a także ukazywać dawne  czasy , rycerskie obyczaje. Pasjonaci tej tradycji byli dumni ze swoich zbiorów i przodków."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_2.mp3",
+                    "number": 2,
+                    "img": "/armory/hrad-35.jpg",
+                    "title": "1. Pomieszczenie",
+                    "card_label": "Broń na zamku była zawsze, bo obowiązki pana zamku to bój i łów, była też potrzebna dla utrzymania ładu w majątku, do ceremonii, okazywania strojem posiadanych godności itp., potrzebne też było miejsce do jej przechowywania, a także ludzie, którzy się nią posługiwali.",
+                    "button": "Odwiedzać",
+                    "text": "Broń na zamku była zawsze, bo obowiązki pana zamku to bój i łów, była też potrzebna dla utrzymania ładu w majątku, do ceremonii, okazywania strojem posiadanych godności itp., potrzebne też było miejsce do jej przechowywania, a także ludzie, którzy się nią posługiwali.\n\nNajstarszy zgromadzony tu okaz to miecz pochodzący z XII w.  oraz inne bronie do XIX w., a także 2 kolczugi z XIV – XVI w., które zasłaniały całe ciało wojownika, do kolan.\n\nBroń wykonano z różnych materiałów: drewno, metal, ich łączenie: jest długa, krótka, używana w polu do walki, później paradna, wtedy używali jej dostojnicy lub ich przyboczne straże, chciano w ten sposób okazać dostojeństwo, ważność; są też zbroje, półzbroje i polne pancerze.\n\nPierwsza witryna: Na stojaku umieszczone są pistolety z XVI i XVII w., bogato zdobione, metalowe, niemieckiego i włoskiego pochodzenia. Dalej luksusowa  biała broń z XVII w. Dzwonowy kord z lat 1650-70, hiszpańskie wykonanie, bardzo bogato zdobiona rękojeść. Kord do cywilnej odzieży z roku 1630. Schiavona – z uzbrojenia straży weneckich dożów- tutaj złożona z perskich ostrzy  XV w.  Miecz z pozłacanym koszem włoskiego pochodzenia z 2 połowy XVI w. Miecz z wizerunkiem Ludwika XIII – saskie pochodzenie.\n\nCiekawostki: sztylet przeznaczony do strzelania i przekuwania tzw. kombinowana broń. Metalowy sztylet z francuskim krzosowym zamkiem, pokryty jest on na zewnętrznej stronie owalną tarczą zdobioną grawerowanym heraldycznym ornamentem. Nóż kombinowany z kołowym zamkiem z lat 1570-80.\n\nDruga witryna: W niej umieszczony jest najstarszy eksponat zbioru, jest to miecz z XII w. – archeologiczne znalezisko.\n\nDalej wstawione są tu części zbroi z pierwszej połowy XVI w., złocona część strony tylnej i piersiowej z XVII w. Zamknięty kołnierzowy hełm złocony herbami Alvareza de Alba (1552r.). W zbiorze rękawic warto zwrócić uwagę na zdobioną złotem rękawice pochodzące z Ausburga z ok. 1530r. Metalowa wkładka do kapelusza jest prawdopodobnie z doby romantyzmu.\n\nTrzecie witryna: W niej jest zbiór kołowych pistoletów i karabinków kawaleryjskich z XVII w., pochodzenia niemieckiego, holenderskiego, włoskiego i czeskiego.\n\nPrzy oknie wstawione są 4 hakownice z XV i XVI w. Hakownice są ciężkimi ręcznymi palnymi broniami, były używane od początku XV w aż do końca XVII w. Miały one zasięg ok.100  i więcej metrów.\n\nLuksusowym dopełnieniem tego pomieszczenia jest zbiór romantycznie dekorowanej zbroi z XIX w. Między nimi romantyczna kopia maksymiljańskiej zbroi – XVI wiecznej (w prawo między oknami). W lewym rogu pomieszczenia jest umieszczona wspaniała zbroja znakowana norymberskim pochodzeniem z ok. 1537 roku.  Ona także posiada niektóre romantyczne zdobienia. Oryginalna polowa półzbroja lub polne pancerze należą do wysokich dostojników z XVII w., dopełniają one tę jedyną w swoim rodzaju kolekcję.\n\nPrzy oknie są 4 hakownice XV-XVII w, to ciężka, ręczna broń palna o zasięgu do 100m, obok nich zbroje m.in. maksymiliańska,  to kopia wg  XVI w. wzoru , choć pochodzi z XIX . czy też norymberskie XV i XVII w. (w lewym rogu), ta jest zachowana z 1537r. z tyłu na ścianie wiszą 2 ręczne, niemieckie miecze oraz włoskie i staroczeskie szarszouny z XVI w., to były dwuręczne miecze, później występują jako miecze krótsze.\n\n(W lewo od drwi wieży) mamy szponton później nazwany partyzaną z herbem Augusta Mocnego z okresu przed jego koronacją na polskiego króla. Większość z nich jest pochodzenia niemieckiego.\n\nNiektóre zbroje wykonane na nowo posiadają dekoracje zgodnie z XIX w. romantyczną modą, jak kopia (w lewo) maksymiliańskiej.\n\nW lewym rogu pomieszczenia jest wspaniała zbroja znakowana norymberskim pochodzeniem z 1537r.\n\nPolowe półzbroje lub polne pancerze później były używane przez dostojników już w XVII w., uzupełniają ten wyjątkowy zbiór.\n\nMiędzy oknami na czołowej ścianie są weneckie kosy XVI – XVII w., broń używana do obrony, nosił je później także asystent kardynała. Wśród nich znajduje się wypalona halabarda z XVII w., a po prawej stronie mamy pałacową halabardę straży pałacowej Ferdynanda III.\n\nKolejne po stronie prawej bronie należały do strażników saskich hrabiów, o czym mówią ich herby; np. szponton, włócznie, halabardy."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_3.mp3",
+                    "number": 3,
+                    "img": "/armory/hrad-36.jpg",
+                    "title": "2. Pomieszczenie",
+                    "card_label": "Tu zgromadzone eksponaty pochodzą z XVII – XVIII w.",
+                    "button": "Odwiedzać",
+                    "text": "Tu zgromadzone eksponaty pochodzą z XVII – XVIII w. Szpontony, to drzewcowa broń, podobna do partyzany , kopii, później używali go także urzędnicy wyższej i niższej rangi, straże.\n\nW prawej części drewnianego stojaka jest szponton hrabiowskiej, szwajcarskiej gwardii pochodzący z  okresu saskiego 1725r. z dworu saskiego hrabiostwa.\n\nLiczne muszkiety tj. długa, ciężka broń palna popularna w XVII w., zastąpiły one wcześniejsze arkebuzy.  Muszkiety miały lufy o średnicy do 25 mm i zasięg + - 200m, by z nich strzelać należało je oprzeć na podpórce – frukiecie (w środku), stoi między muszkietami.\n\nWiszące szwedzkie proporce są odnowione.\n\nW ramach są miecze: lewa strona XVI-XVII w. – bojowe dwuręczne i szable pochodzenia węgiersko-austriackiego z 1550r, prawa strona XVII-XVIII w. miecze, wśród nich katowski.\n\nNiżej pod bronią drzewcową mamy: szable, miecze XVII-XVIII w.  także z XIX w. sportowe szable.\n\nNa regale leżą części zbroi i hełmy typu Papenheima, nazwa pochodzi od nazwiska szwedzkiego generała (1594-1632), dowódcy jazdy z okresu wojny trzydziestoletniej.\n\nInny hełm typu Morion, pochodzi z drugiej połowy XVI w., przeznaczony był dla pieszych i konnych jeźdźców, później  dla pałacowych straży, dziś podobnego kształtu są w użyciu papieskiej gwardii szwajcarskiej.\n\nObrazy ukazują wojenną zawieruchę, waleczną wrzawę w XVII w."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_4.mp3",
+                    "number": 4,
+                    "img": "/armory/hrad-37.jpg",
+                    "title": "3. Pomieszczenie",
+                    "card_label": "Oglądamy  tutaj broń XVIII-XIX w. wojenną i cywilną,, wśród której są kordy tak  urzędników jak i dostojników.",
+                    "button": "Odwiedzać",
+                    "text": "Oglądamy  tutaj broń XVIII-XIX w. wojenną i cywilną,, wśród której są kordy tak  urzędników jak i dostojników. Na ścianie wiszące to jest broń kłująca, metalowa (żelazna) powstała później niż miecz.\n\nU góry są angielskie pistolety, dalej małe, kieszonkowe i z kolei (lewa strona) trąbkowe rewolwery, niektóre z nich były niebojowe, używano je dla okazania rangi dostojeństwa.\n\nW ostatniej szafie są też trombony – podręczna, krótka broń z rozszerzoną lufą, strzelano z niego także z wozu.\n\nOglądamy popiersie – generała napoleońskiego Moreau a nad nim wisi obraz przedstawiający Napoleona na koniu, z czasów, gdy dowodził armią we Włoszech."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_5.mp3",
+                    "number": 5,
+                    "img": "/armory/hrad-38.jpg",
+                    "title": "4. Pomieszczenie",
+                    "card_label": "W tej i kolejnej Sali ekspozycja poświęcona jest łowiectwu,  nieodłącznemu rycerskiej kulturze zajęciu. ",
+                    "button": "Odwiedzać",
+                    "text": "W tej i kolejnej Sali ekspozycja poświęcona jest łowiectwu,  nieodłącznemu rycerskiej kulturze zajęciu. Z tej zabawy korzysta szlachta, panowie, choć niekoniecznie pozytywnie odbierają to społeczne wydarzenia poddani.\n\nNa czeskich ziemiach uprawiano tzw. niemiecki, zamknięty  typ polowań, organizowano także gonitwy z udziałem wielkiej sfory psów i z jeźdźcami na koniach.\n\nOd najdawniejszych czasów używano do łowów oszczepów  tu je widzimy zdobione motywami roślinnymi , jak ten najwyższy z 1680r. oraz kopie, które mają poprzeczne wypustki, by zbyt głęboka nie była rana upolowanego zwierzęcia.\n\nKusze z XVI-XVII w., są ciężkie, by z nich strzelać należało przyjąć dogodną postawę lub przysiąść , posiadać też należało napinkę do cięciwy, a ich strzały to bełty, wiszą nad drzwiami.\n\nSzczególnym eksponatem tutaj jest tzw. balestra, włoska kusza z XVI w., są tu też niemieckie balestry. Od XVIII/ XIX w. były one ulubioną sportową bronią, z której strzelano do tarcz i do drobnej zwierzyny na polowaniach.\n\nDopełnieniem zbioru w tej sali są wspaniale, zdobione łowieckie strzelby tzw. cieszynki, lekkie, pięknie inkrustowane kością słoniową i perłami, początkowo produkowano je w Cieszynie, ich długość to 120 cm, średnica 8-9 mm, miały kołowy zamek. Ładne, lekkie więc cieszyły się popularnością w całej Europie."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_6.mp3",
+                    "number": 6,
+                    "img": "/armory/hrad-39.jpg",
+                    "title": "5. Pomieszczenie",
+                    "card_label": "Mamy tutaj także łowieckie bronie z XVIII/XIX w. z europejskich krajów: Czech, Niemiec, Austrii, Holandii i Francji.",
+                    "button": "Odwiedzać",
+                    "text": "Mamy tutaj także łowieckie bronie z XVIII/XIX w. z europejskich krajów: Czech, Niemiec, Austrii, Holandii i Francji. Na ścianach są grafiki Johana Eliasa Riedingera (1695-1767) o tematyce łowieckiej.\n\nTrzy obrazy tu pokazane przedstawiają prawdziwe wydarzenie, miało ono miejsce w Białej Buczynie  w Górach Izerskich w niedzielę 05.04.1875 r. wieczorem.\n\nHrabia Franz Clam Gallas w towarzystwie leśnika Klucha po godzinie 2000 spacerował po górskich polanach, słuchając tokującego cietrzewia. Niespodzianie zobaczyli psa, a za nim mężczyznę z bronią gotową do strzału. Leśnik Kluch zawołał, kłusownik, kryj się i obaj z hrabią skryli się za młodym, podwójnym bukiem, który ich ochronił. Kłusownik odmówił złożenia broni i wtedy leśnik do niego wypalił, strzelbą nabitą śrutem. Trafiony kłusownik padł na ziemię, nie wydając żadnego dźwięku. Ludzie, którzy się zbiegli  zaczęli go cucić ale on nie reagował, miał być odwieziony do libereckiego szpitala. Oczekując na przyjazd pojazdu mającego rannego zawieźć do szpitala, nikt na niego nie zwracał uwagi.  Gdy nadeszła pomoc, okazało się, że poszkodowanego nie ma, zniknął. Zapewnie ciało zabrali i ukryli w lesie jego kompani. Odnaleziono jednak kłusownika, był nim Jozef  Porner z Desny, miał własną, kłusowniczą bandę, a za napad na hrabiego dostał karę 15 miesięcy ciężkich robót.\n\nHrabia Franz Clam Gallas, by upamiętnić to zaskakujące dla niego a jednocześnie szczęśliwe zdarzenie, w tym miejscu kazał postawić krzyż."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_7.mp3",
+                    "number": 7,
+                    "img": "/armory/hrad-41.jpg",
+                    "title": "6. Pomieszczenie 'Orient'",
+                    "card_label": "Na stojakach (po lewej stronie) mamy KULACH-CHUD, typowe perskie hełmy, bardzo charakterystyczne z drucianymi osłonami szyi, ramion i części twarzy.",
+                    "button": "Odwiedzać",
+                    "text": "Na stojakach (po lewej stronie) mamy KULACH-CHUD, typowe perskie hełmy, bardzo charakterystyczne z drucianymi osłonami szyi, ramion i części twarzy. Używane były w XVI-XIX w. w kształcie półkolistego dzwonu. Robione je zwykle z hartowanej stali, miały ruchomą przyłbicę a zwieńczone były szpicem. Rozpowszechniły się we wschodniej Europie wraz z tureckimi najazdami. Są też hełmy hinduskie z XVIII w. , bogato zdobione.\n\nStalowe tarcze oparte o stojaki używane były przez hinduskich i perskich wojowników a nazywane  są DHAL I SIPAR.\n\nObok tarcz są 2 ochraniacze na łokcie- to DASTANY, do ręki przywiązywano je rzemykami.\n\nPierwsza witryna: W górnej części maltańskie KRYSY, typowe malajskie sztylety. Chodzi tu o bardzo starą broń, która pochodzi prawdopodobnie z Jawy, a która występuje na całym archipelagu Malajskim. Jest to bardzo ważna część malajskiej kultury – część mistycyzmu, mitologii i sztuki. Jawajczycy przypisują wynalezienie KRYSÓW królowi Inaktu Palimu, który władał w XIV w. Każda z wysp ma swój specyficzny typ KRYSÓW, ale przy montażu broni często dochodzi do połączenia różnych stylów różnych wysp.   Średnia długość sztyletu wynosi od 30-40 cm. Malajowie wierzą, że niektóre sztylety mają własną duszę i dlatego też przekazuje się je z pokolenia na pokolenie jako rodzinny spadek.\n\nNastępną typową malajską bronią jest miecz zwany KLEWANG .\n\nW dolnej części znajdują się noże KUKRI  decydująca broń nepalskich Górków. KUKRI jest wysoce cenioną bronią w nepalskim społeczeństwie. Posiadanie jej świadczy o wysokiej pozycji społecznej.\n\nPierwsza witryna: Kolejna witryna zawiera broń, która pochodzi przeważnie z Indii, np. SZAMSZIR –lekka szabla, która jest klasyczną hinduską bronią, pierwotnie była to broń perska, później zaś rozszerzyła się w Indiach i w Europie.\n\nUlubioną bronią hinduskich wojowników był TABAR – metalowa siekiera\n\nWidzimy także pełno artystycznych przedmiotów przywiezionych przez Clam-Gallasów w XIX w. z ich podróży zagranicznych: szafka na herbatę, chińskie talerze, malowane wachlarze, malowidła na ryżowej masie i różne bronie, głównie japońskie.\n\nKUBIRIKI – japoński krótki miecz z zakrzywionym jednosiecznym ostrzem, jego nazwa znaczy  „Skracacz Głowy” , obcinano głowę już martwego człowieka, przeciwnika.\n\nJATAGANY – tureckie, mają jednosieczne zagięte ostrzem, często bogato zdobione. Rękojeść ma rozdwojoną głowicę. Ta broń typowa dla Turków i Bałkańczyków , broń rozpowszechniła się także w austriackiej armii, obecny ich wygląd pochodzi z XVII w.\n\nObok na ścianie są strzelby bałkańskiego typu i kostne pudełko na proch.\n\nAfrykańska broń  pokazana  jest na prawo od okna: oszczepy, kije oraz różne strzały i dzidy. Jest też oparty o ścianę  bagnet z ludzką kością."
+                },
+                {
+                    "audio": "/pl/armory/pl_room_8.mp3",
+                    "number": 8,
+                    "img": "/armory/hrad-42.jpg",
+                    "title": "7. Pomieszczenie",
+                    "card_label": "Tracąca stopniowo swoje szczególne pozycje w XIX w. wraca wspomnieniami do tamtej świetnej przeszłości.",
+                    "button": "Odwiedzać",
+                    "text": "Tracąca stopniowo swoje szczególne pozycje w XIX w. wraca wspomnieniami do tamtej świetnej przeszłości. Tak rozwijają się style historyczne, nawroty do średniowiecza, budowano tzw. sale rycerskie we własnych posiadłościach, a w nich gromadzono pełno broni, zbroi i obrazów, zakładane zbrojownie miały  broń będącą na zamku, kupowaną na aukcjach, też wykonywaną na zamówienie u płatnerzy, choć wyglądającą jak stara.  Wieszano ją: jak wachlarz obok nich były zbroje na ścianach, bądź były inne sposoby dekorowania. Mamy tu: miecze, buzdygany, tarcze.\n\nUrządzano zbrojownie wg własnych pomysłów, możliwości, a także korzystano z literatury angielskiej, niemieckiej, której autorami byli m.in. Richardson, Ungewitter. Najznakomitszym był  jednak Joseph Nash, fragmenty jego dzieła widzimy w oszklonych ramach.\n\nWyróżniającym się dowódcą wojsk austriackich był Edward Clam Gallas właściciel Frydlandu. Jednak po przegranej walce austriacko-pruskiej w Hradcu Kralowym we 1866r. był sądzony i uniewinniony, ale został zwolniony do cywila.  Tu jest jego generalski uniform i osobista broń. Mamy tu też kasety, w których jest broń do pojedynku i polowa toaletka.\n\nPierwszą wojnę światową przypomina nam ten obraz, jego autor Koch zatytułował go „WIELKA DOBA” , są tu generałowie austriaccy na czele z cesarzem Franciszkiem Józefem, przyszłym cesarzem Karolem I a także cesarzem pruskim Wilhelmem.\n\nNa prawo od obrazu jest portret Franciszka Józefa w wieku dziecięcym i starszym.\n\nChorągwie wstawiono na wieży zamkowej podczas państwowych świąt.\n\nW dwóch witrynach są odrestaurowane strzemiona, wędzidła i ostrogi, które przyciągają wzrok, są pięknie wykonane i dekorowane, bywały także ostrogi świąteczne, czasem złocone w okresie między gotykiem, XIV-XIX w.\n\nMiecz – metalowa broń ręczna sieczna i kłująca z ostrzem do XVII w. używany: był długi więc pomagano sobie drugą ręką stad nazwa dwuręczny, niektórych sztuk  bardziej znany jest miecz Graal z arturowych legend.\n\nKopia –drzewcowa broń biała, jedna z najstarszych.\n\nSzabla- broń sieczna, o wygiętej, jednosiecznej głowni, z krzyżem , wąsami i trzonem; krótsza i lżejsza od miecza.\n\nHalabarda – broń sieczna i kłująca, połączenie kopii z toporem; używano jej jako broń bojową i paradną.\n\nPałasz-  łączy cechy miecza i szabli , na półtorastronie zaostrzono głownią.\n\nBuława- kulista broń obuchowa o kulistej lub gruszkowej głowni: także później oznaka władzy hetmańskiej i atamańskiej u kozaków; podobny do niej jest buzdygan, którego głownia złożona jest z piór 5 – 6 czasami więcej."
                 }
             ]
         }

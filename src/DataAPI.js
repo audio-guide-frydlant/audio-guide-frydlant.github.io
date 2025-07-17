@@ -155,9 +155,11 @@ class DataAPI {
 
     getRoom(language, tour, number) {
         let rooms = this.getRooms(language, tour);
-        for (let i = 0; i < rooms.length; i++) {
-            if (rooms[i].number === number) {
-                return rooms[i];
+        if (rooms != null) {
+            for (let i = 0; i < rooms.length; i++) {
+                if (rooms[i].number === number) {
+                    return rooms[i];
+                }
             }
         }
         return null;

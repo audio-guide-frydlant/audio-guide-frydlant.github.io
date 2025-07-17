@@ -2,7 +2,7 @@ import React from "react"
 import { useEffect, useState } from "react"
 import { Context } from "../Context"
 import { useContext } from "react"
-import { Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 import Header from "./Header"
 import DataAPI from '../DataAPI'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
@@ -17,11 +17,18 @@ function Room() {
     const dataAPI = new DataAPI();
     const room = dataAPI.getRoom(context.language, context.tour, context.room);
     const tour = dataAPI.getTour(context.language, context.tour);
-    const isPrev = (room.number - 1) >= 1 ? true : false;
-    const isNext = (room.number + 1) <= tour.rooms.length ? true : false
+    let isPrev = false;
+    let isNext = false;
+
+    if (room && tour) {
+        isPrev = (room.number - 1) >= 1;
+        isNext = (room.number + 1) <= tour.rooms.length;
+    }
+
     const [isPlaying, setIsPlaying] = useState(false);
     var x1 = 0;
     var y1 = 0;
+    const navigate = useNavigate();
 
     const previous = () => {
         if (isPrev) {
@@ -62,9 +69,14 @@ function Room() {
 
 
     useEffect(() => {
+        if (room == null || tour == null) {
+            navigate('/tours');
+            return;
+        }
+
         window.scrollTo(0, 0);
         let title = dataAPI.getRoom(context.language, context.tour, context.room).title.toString();
-        let tour = dataAPI.getTour(context.language, context.tour).title.toString();
+        //let tour = dataAPI.getTour(context.language, context.tour).title.toString();
 
         const audioEl = document.getElementById('audio');   // může být null
         const hasAudio = Boolean(audioEl);
@@ -139,7 +151,11 @@ function Room() {
             setIsPlaying(false);
         }
 
-    }, [context.room]);
+    }, [room, tour, navigate]);
+
+    if (room == null || tour == null) {
+        return null;
+    }
 
     return (
         <>

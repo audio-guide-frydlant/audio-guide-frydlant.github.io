@@ -1,6 +1,6 @@
-import React from "react";
+import { React, useEffect } from "react";
 import { Context } from "../Context";
-import { Link } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { useContext} from "react";
 import Header from "./Header";
 import DataAPI from '../DataAPI'
@@ -12,6 +12,17 @@ function Rooms() {
     const context = useContext(Context);
     const dataAPI = new DataAPI();
     const tour = dataAPI.getTour(context.language, context.tour);
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        if (tour == null) {
+            navigate('/tours');
+        }
+    }, [tour, navigate]);
+
+    if (tour == null) {
+        return null;
+    }
 
     return (
         <>
